@@ -1,6 +1,9 @@
 import os
 import xml.etree.ElementTree as ET
 
+from svglib.svglib import svg2rlg
+from reportlab.graphics import renderPM, renderPDF
+
 def run_svgoptim(input_fule_name, output_file_name):
     """
         Run svgo as a command line in Python
@@ -8,7 +11,6 @@ def run_svgoptim(input_fule_name, output_file_name):
     """
     os.system(f"svgo -i {input_fule_name} -o {output_file_name}")
 
-import xml.etree.ElementTree as ET
 
 def remove_style(svg_file_path, output_file_path):
     # Parse the SVG file as an ElementTree object
@@ -29,3 +31,19 @@ def remove_style(svg_file_path, output_file_path):
     with open(output_file_path, 'w') as f:
         f.write(ET.tostring(svg_root, encoding='unicode'))
 
+
+def load_raw_svg_optimize_clean_save_png(file_name, svg_path = '../data/svgs', png_path = '../data/pngs'):
+    svg_short = open(f"{svg_path}/{file_name}.svg", "r").read()
+    remove_style(f"{svg_path}/{file_name}.svg", f"{svg_path}/{file_name}_optimized.svg")
+    run_svgoptim(f"{svg_path}/{file_name}_optimized.svg", f"{svg_path}/{file_name}_optimized.svg")
+    svg_short_opt = open(f"{svg_path}/{file_name}_optimized.svg", "r").read()
+    drawing = svg2rlg(f'{svg_path}/{file_name}_optimized.svg')
+    renderPM.drawToFile(drawing, f'{png_path}/{file_name}_optimized.png', fmt="PNG")
+    return svg_short_opt
+
+
+def save_gpt_answer_as_svg_and_png(answer, filename, path = '../generated_data/'):
+    with open(f"{path}/{filename}.svg", "w") as f:
+        f.write(answer)
+    svg_short_opt = load_raw_svg_optimize_clean_save_png(filename, svg_path = path, png_path = path)
+    return svg_short_opt
