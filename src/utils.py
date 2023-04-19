@@ -49,6 +49,23 @@ def load_raw_svg_optimize_clean(file_name, svg_path = '../data/svgs'):
     drawing = svg2rlg(f'{svg_path}/{file_name}_optimized.svg')
     return svg_short_opt
 
+def load_css(file_name, css_path = '../data/css/incomplete'):
+    csscontent = open(f"{css_path}/{file_name}.css", "r").read()
+    return csscontent
+
+def save_autocomplete_css(answer, filename, path = '../generated_data/css/'):
+    with open(f"{path}/{filename}.css", "w") as f:
+        f.write(answer)
+    return answer
+
+def compare_css(generated, original):
+    ordered_generated = list(filter(None, sorted(generated.split("\n"))))
+    ordered_original = list(filter(None, sorted(original.split("\n"))))
+    print(ordered_generated)
+    print(ordered_original)
+    if ordered_generated == ordered_original:
+        return True
+    return False
 
 def save_gpt_answer_as_svg_and_png(answer, filename, path = '../generated_data/'):
     with open(f"{path}/{filename}.svg", "w") as f:
