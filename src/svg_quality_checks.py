@@ -14,8 +14,8 @@ def get_svg_size(svg_string):
     svg_root = ET.fromstring(svg_string)
     
     # Get the 'width' and 'height' attributes from the root element
-    width = svg_root.get('width')
-    height = svg_root.get('height')
+    width = svg_root.get('width') or 0
+    height = svg_root.get('height') or 0
     
     # Convert the strings to floats and return as a tuple
     return (float(width), float(height))
