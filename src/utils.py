@@ -2,7 +2,6 @@ import os
 import xml.etree.ElementTree as ET
 import re
 
-
 from svglib.svglib import svg2rlg
 from reportlab.graphics import renderPM, renderPDF
 
@@ -44,6 +43,14 @@ def load_raw_svg_optimize_clean_save_png(file_name, svg_path = '../data/svgs', p
     renderPM.drawToFile(drawing, f'{png_path}/{file_name}_optimized.png', fmt="PNG")
     return svg_short_opt
 
+def load_raw_svg_optimize_clean(file_name, svg_path = '../data/svgs'):
+    svg_short = open(f"{svg_path}/{file_name}.svg", "r").read()
+    remove_style(f"{svg_path}/{file_name}.svg", f"{svg_path}/{file_name}_optimized.svg")
+    run_svgoptim(f"{svg_path}/{file_name}_optimized.svg", f"{svg_path}/{file_name}_optimized.svg")
+    svg_short_opt = open(f"{svg_path}/{file_name}_optimized.svg", "r").read()
+    drawing = svg2rlg(f'{svg_path}/{file_name}_optimized.svg')
+    return svg_short_opt
+
 
 def save_gpt_answer_as_svg_and_png(answer, filename, path = '../generated_data/'):
     with open(f"{path}/{filename}.svg", "w") as f:
@@ -51,6 +58,11 @@ def save_gpt_answer_as_svg_and_png(answer, filename, path = '../generated_data/'
     svg_short_opt = load_raw_svg_optimize_clean_save_png(filename, svg_path = path, png_path = path)
     return svg_short_opt
 
+def save_gpt_answer_as_svg(answer, filename, path = '../generated_data/'):
+    with open(f"{path}/{filename}.svg", "w") as f:
+        f.write(answer)
+    svg_short_opt = load_raw_svg_optimize_clean(filename, svg_path = path)
+    return svg_short_opt
 
 def round_svg_numbers(svg_string):
     # Round all numbers to a float with two decimal points
