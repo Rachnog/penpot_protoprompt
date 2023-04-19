@@ -48,6 +48,7 @@ def load_raw_svg_optimize_clean(file_name, svg_path = '../data/svgs'):
     remove_style(f"{svg_path}/{file_name}.svg", f"{svg_path}/{file_name}_optimized.svg")
     run_svgoptim(f"{svg_path}/{file_name}_optimized.svg", f"{svg_path}/{file_name}_optimized.svg")
     svg_short_opt = open(f"{svg_path}/{file_name}_optimized.svg", "r").read()
+    svg_short_opt = round_svg_numbers(svg_short_opt)
     drawing = svg2rlg(f'{svg_path}/{file_name}_optimized.svg')
     return svg_short_opt
 
