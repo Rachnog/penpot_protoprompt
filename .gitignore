@@ -2,3 +2,5 @@ __pycache__/
 /config.yml
 generated_data/*
 notebooks/wandb/*
+training_data_raw/*
+training_data/*

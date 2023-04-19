@@ -33,12 +33,32 @@ def remove_style(svg_file_path, output_file_path):
         f.write(ET.tostring(svg_root, encoding='unicode'))
 
 
+def remove_style_from_string(svg_string):
+    # Parse the SVG file as an ElementTree object
+    svg_root = ET.fromstring(svg_string)
+
+    # Find the style element
+    style_element = svg_root.find('.//{http://www.w3.org/2000/svg}style')
+
+    # If the style element is found, remove its contents
+    if style_element is not None:
+        style_element.clear()
+
+    # Remove namespace prefixes from tags
+    for elem in svg_root.iter():
+        elem.tag = elem.tag.split('}')[-1]
+
+    # Serialize the modified ElementTree object to an SVG file
+    return ET.tostring(svg_root, encoding='unicode')
+
+
+
 def load_raw_svg_optimize_clean_save_png(file_name, svg_path = '../data/svgs', png_path = '../data/pngs'):
     remove_style(f"{svg_path}/{file_name}.svg", f"{svg_path}/{file_name}_optimized.svg")
     run_svgoptim(f"{svg_path}/{file_name}_optimized.svg", f"{svg_path}/{file_name}_optimized.svg")
     svg_short_opt = open(f"{svg_path}/{file_name}_optimized.svg", "r").read()
-    # svg_short_opt = shorten_svg_ids(svg_short_opt)
-    # svg_short_opt = round_svg_numbers(svg_short_opt)
+    svg_short_opt = shorten_svg_ids(svg_short_opt)
+    svg_short_opt = round_svg_numbers(svg_short_opt)
     drawing = svg2rlg(f'{svg_path}/{file_name}_optimized.svg')
     renderPM.drawToFile(drawing, f'{png_path}/{file_name}_optimized.png', fmt="PNG")
     return svg_short_opt
@@ -47,8 +67,8 @@ def load_raw_svg_optimize_clean(file_name, svg_path = '../data/svgs'):
     remove_style(f"{svg_path}/{file_name}.svg", f"{svg_path}/{file_name}_optimized.svg")
     run_svgoptim(f"{svg_path}/{file_name}_optimized.svg", f"{svg_path}/{file_name}_optimized.svg")
     svg_short_opt = open(f"{svg_path}/{file_name}_optimized.svg", "r").read()
-    # svg_short_opt = shorten_svg_ids(svg_short_opt)
-    # svg_short_opt = round_svg_numbers(svg_short_opt)
+    svg_short_opt = shorten_svg_ids(svg_short_opt)
+    svg_short_opt = round_svg_numbers(svg_short_opt)
     return svg_short_opt
 
 
