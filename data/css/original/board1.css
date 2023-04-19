@@ -1,0 +1,15 @@
+/* Board */
+.board {
+  position: relative;
+  width: auto;
+  height: auto;
+  left: 106px;
+  top: 83px;
+  display: flex;
+  flex-direction: row;
+  align-items: start;
+  justify-content: space-around;
+  gap: 10px;
+  padding: 0px;
+  flex-wrap: nowrap;
+}

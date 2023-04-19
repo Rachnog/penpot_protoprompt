@@ -1,0 +1,13 @@
+/* Board */
+.board {
+    position: relative;
+    width: auto;
+    height: auto;
+    left: 106px;
+    top: 83px;
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    justify-content: start;
+    gap: 0px;
+    padding: 0px;
