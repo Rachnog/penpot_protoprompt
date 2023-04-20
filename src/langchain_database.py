@@ -41,7 +41,7 @@ def create_sources_from_files(
                     metadata={
                         "source": file,
                         "name": name.split(".")[0], 
-                        "style": file.split("/")[0],
+                        "style": file.split("/")[2],
                         },
             ))
         else:

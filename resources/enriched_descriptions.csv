@@ -1,0 +1,1572 @@
+source,enriched_description
+../training_data_raw/components_ant/input-text-disabled-lg.svg,"size: 320x40, 
+colors: #fafafa, #dbdbdb, 
+shapes: rectangle, 
+elements: g, rect, 
+strokes: #dbdbdb, 
+text: none."
+../training_data_raw/components_ant/btn-danger-text-sm.svg,"Size: 104.00 x 24.00, Colors: #b1.00b2.00b5.00, Shapes: Rectangle with rounded corners, Elements: SVG, Strokes: None, Text: None, Class: btn-danger-text-sm."
+../training_data_raw/components_ant/tootlip-top-right.svg,"Size: 166x68, Colors: #262626, Shapes: rect, path, Elements: filter, defs, g, Strokes: none, Text: none."
+../training_data_raw/components_ant/tooltip-left-middle.svg,"size: 171x63, colors: #262626, shapes: rect, path, elements: filter, viewBox, defs, g, strokes: none, text: none."
+../training_data_raw/components_ant/input-text-hover.svg,"size, 320x32, rectangle, rounded corners, white fill, transparent stroke, hover effect, SVG, vector graphic, input text."
+../training_data_raw/components_ant/radio-inactive-checked.svg,"Size: 16x16, Colors: white, gray, blue, Shapes: rectangle, rounded rectangle, Elements: radio button, checkmark, Strokes: gray, Text: none."
+../training_data_raw/components_ant/input-text-prefix-disabled-sm.svg,"size: 320x24, colors: #fafafa, #dbdbdb, shapes: rectangle, elements: svg, g, rect, strokes: #dbdbdb, text: none."
+../training_data_raw/components_ant/btn-default-icon.svg,"Size: 129x32, Colors: white, gray, black, Shapes: rectangle, path, Elements: filter, defs, rect, path, Strokes: gray, Text: none."
+../training_data_raw/components_ant/input-text-prefix-hover-sm.svg,"size, 320x24, colors, white, blue, shapes, rectangle, elements, svg, g, strokes, solid, text, none."
+../training_data_raw/components_ant/btn-dashed-nolabel-lg.svg,"size: 40.00, colors: #fff, #dbdbdb, shapes: rect, path, elements: filter, feFlood, feColorMatrix, feOffset, feGaussianBlur, feBlend, strokes: round, dasharray, linecap, text: none."
+../training_data_raw/components_ant/input-text-icon-disabled-lg.svg,"size, colors, shapes, elements, strokes, text, disabled, input, icon, rectangle, rounded corners, gray, white, stroke color, path, viewBox, fill, opacity, font, disabled state."
+../training_data_raw/components_ant/radio-hover-label.svg,"Size: 66.10,18.00
+Colors: #fff, #40.00a9.00ff
+Shapes: rect
+Elements: g
+Strokes: #40.00a9.00ff
+Text: none"
+../training_data_raw/components_ant/btn-danger-dashed.svg,"Size: 120x32, Colors: #fff, #f5222.00d, Shapes: rectangle, Elements: filter, stroke, Text: none."
+../training_data_raw/components_ant/checkbox-hover.svg,"Size: 16.00 x 16.00, Colors: #fff, #40.00a9.00ff, Shapes: rectangle with rounded corners, Elements: two layers, Strokes: one stroke in blue, Text: none."
+../training_data_raw/components_ant/tootlip-top-middle.svg,"size: 166x67, colors: #262626, shapes: rect, path, elements: filter, defs, g, strokes: none, text: none."
+../training_data_raw/components_ant/input-text-icons-hover.svg,"size: 320x32, 
+colors: #fff, #1890.00ff, #bfbfbf, 
+shapes: rectangle, path, 
+elements: input text box, icons, 
+strokes: yes, 
+text: none."
+../training_data_raw/components_ant/tooltip-bottom-middle.svg,"Size: 166x68, Colors: #262626, Shapes: rectangle, path, Elements: filter, defs, g, Strokes: none, Text: none."
+../training_data_raw/components_ant/alert-icon-text.svg,"Size: 400x100, Colors: #fff1.00f0.00, #ff4.00d4.00f, Shapes: rectangle, path, Elements: alert icon, text, Strokes: #ff4.00d4.00f, Text: none."
+../training_data_raw/components_ant/tooltip-left-top.svg,"size: 171x63, colors: #262626, shapes: rect, path, elements: filter, viewBox, defs, g, strokes: none, text: none."
+../training_data_raw/components_ant/checkbox-hover-label.svg,"Size: 92.00,18.00
+Colors: #fff, #40.00a9.00ff
+Shapes: rect
+Elements: g
+Strokes: #40.00a9.00ff
+Text: none"
+../training_data_raw/components_ant/btn-dashed-nolabel.svg,"Size: 32.00
+Colors: #fff, #dbdbdb
+Shapes: rect, path
+Elements: filter, defs, g
+Strokes: stroke, stroke-dasharray, stroke-linecap
+Text: none
+Keywords: dashed, no label, round, filter, stroke, path, rect, colors, shapes, elements."
+../training_data_raw/components_ant/btn-dashed-icon-lg.svg,"size: 129x40, colors: white, gray, shapes: rectangle, path, elements: filter, stroke, text, strokes: dashed, linecap, text: none."
+../training_data_raw/components_ant/btn-primary-icon-sm.svg,"Size: 129x24, Colors: #1890ff, #fff, Shapes: rectangle, path, Elements: filter, defs, feFlood, feColorMatrix, feOffset, feGaussianBlur, feBlend, Strokes: none, Text: none."
+../training_data_raw/components_ant/input-text-sm.svg,"size, 320x24, white, rectangle, rounded corners, stroke, gray, input field, no text, SVG format."
+../training_data_raw/components_ant/alert.svg,"Size: 4.00e2.00, Colors: #fff1.00f0.00, #ff4.00d4.00f, Shapes: path, Elements: g, Strokes: #ff4.00d4.00f, Text: none."
+../training_data_raw/components_ant/input-text-icon-hover.svg,"size: 320x32, 
+colors: #fff, #1890.00ff, 
+shapes: rectangle, path, 
+elements: g, rect, path, 
+strokes: #1890.00ff, 
+text: none, 
+keywords: input, text, icon, hover, rectangle, path, stroke, fill, colors, shapes, elements."
+../training_data_raw/components_ant/checkbox-tick.svg,"Size: 16.00
+Colors: #1890.00ff, #fff
+Shapes: rectangle, path
+Elements: checkbox, tick
+Strokes: #1890.00ff
+Text: none"
+../training_data_raw/components_ant/btn-primary-icon-hover.svg,"Size: 129x32, Colors: #40a9ff, #fff, Shapes: rectangle, path, Elements: filter, defs, feFlood, feColorMatrix, feOffset, feGaussianBlur, feBlend, Strokes: none, Text: none."
+../training_data_raw/components_ant/btn-dashed-hover-lg.svg,"Size: 120x40, Colors: #fff, #1890.00ff, Shapes: rectangle with rounded corners, Elements: filter, stroke-dasharray, stroke-linecap, Text: none."
+../training_data_raw/components_ant/input-text.svg,"svg, viewBox, size, colors, shapes, elements, rect, rx, x, width, height, fill, stroke, text."
+../training_data_raw/components_ant/input-text-prefix-focus-lg.svg,"size: 320x40, 
+colors: #fff, #1890.00ff, 
+shapes: rectangle, 
+elements: filter, 
+strokes: #1890.00ff, 
+text: input-text-prefix-focus-lg."
+../training_data_raw/components_ant/btn-dashed-nolabel-hover.svg,"Size: 32.00
+Colors: #fff, #1890.00ff
+Shapes: rect, path
+Elements: filter, defs, g
+Strokes: stroke, stroke-dasharray, stroke-linecap
+Text: none
+Keywords: svg, viewBox, filter, rect, path, stroke, stroke-dasharray, stroke-linecap."
+../training_data_raw/components_ant/btn-primary-icon-hover-sm.svg,"Size: 129x24, Colors: #40a9ff, #fff, Shapes: rectangle, path, Elements: filter, defs, feFlood, feColorMatrix, feOffset, feGaussianBlur, feBlend, Strokes: none, Text: none."
+../training_data_raw/components_ant/btn-tabs-hover.svg,"Size: 228x32, Colors: #fff, #dbdbdb, Shapes: rectangle, path, Elements: filter, defs, g, Strokes: #dbdbdb, Text: none."
+../training_data_raw/components_ant/input-text-icons-sm.svg,"size: 320x24, 
+colors: #fff, #dbdbdb, #bfbfbf, 
+shapes: rectangle, path, 
+elements: input text box, icons, 
+strokes: yes, 
+text: none."
+../training_data_raw/components_ant/Group-200.svg,"size: 32.00, colors: #fff, #dbdbdb, shapes: rect, path, elements: filter, defs, g, strokes: #dbdbdb, text: none."
+../training_data_raw/components_ant/radio-hover.svg,"Size: 16.00 x 16.00, Colors: #fff, #40.00a9.00ff, Shapes: rectangle with rounded corners, Elements: two groups with rectangles, Strokes: one stroke in #40.00a9.00ff, Text: none."
+../training_data_raw/components_ant/btn-danger-hover-sm.svg,"Size: 120x24, Colors: red, Shapes: rectangle with rounded corners, Elements: filter, blend, stroke, Text: none."
+../training_data_raw/components_ant/btn-dashed-hover.svg,"Size: 120x32, Colors: #fff, #1890.00ff, Shapes: rectangle with rounded corners, Elements: filter, stroke, Text: none."
+../training_data_raw/components_ant/alert-text-close-now.svg,"Size: 400x100, Colors: #fff1.00f0.00, #ff4.00d4.00f, Shapes: rectangle, Elements: 2 groups, Strokes: 1, Text: none."
+../training_data_raw/components_ant/btn-default-nolabel-sm.svg,"Size: 24.00
+Colors: #fff, #dbdbdb
+Shapes: rect, path
+Elements: filter, defs, g
+Strokes: #dbdbdb
+Text: none
+Keywords: small, white, gray, rounded rectangle, arrow, stroke, no label."
+../training_data_raw/components_ant/input-text-icon-hover-sm.svg,"size: 320x24, colors: #fff, #1890.00ff, shapes: rectangle, path, elements: input text icon, strokes: #1890.00ff, text: none."
+../training_data_raw/components_ant/btn-tabs-icon-hover.svg,"Size: 299x33
+Colors: #fff, #dbdbdb, #1890.00ff
+Shapes: rectangle, path
+Elements: filter, defs
+Strokes: #dbdbdb
+Text: none
+Keywords: svg, tabs, icon, hover, filter, rectangle, path, stroke, color, size."
+../training_data_raw/components_ant/alert-icon.svg,"Size: 4.00e2.00, 40.00
+Colors: #fff1.00f0.00, #ff4.00d4.00f
+Shapes: rectangle, path
+Elements: g, path
+Strokes: #ff4.00d4.00f
+Text: none
+Keywords: alert-icon, viewBox, fill, stroke, path, rectangle, g."
+../training_data_raw/components_ant/btn-danger-text-hover-sm.svg,"Size: 104x24, Colors: #fafafa, Shapes: rectangle with rounded corners, Elements: none, Strokes: none, Text: none."
+../training_data_raw/components_ant/checkbox-disabled-checked.svg,"Size: 16.00
+Colors: #fafafa, #dbdbdb, #bfbfbf
+Shapes: rect, path
+Elements: g
+Strokes: #dbdbdb
+Text: none
+Keywords: checkbox, disabled, checked, svg, viewBox, rx, fill."
+../training_data_raw/components_ant/input-text-icon-ph-sm.svg,"size, 320x24, rectangle, rounded corners, white fill, gray stroke, search icon, text input, placeholder, gray and black icon."
+../training_data_raw/components_ant/btn-primary-hover-sm.svg,"Size: 120x24, Colors: #40a9ff, Shapes: rectangle with rounded corners, Elements: filter, flood, color matrix, offset, blur, blend, Strokes: none, Text: none."
+../training_data_raw/components_ant/btn-danger-default-lg.svg,"Size: 120.00 x 40.00, Colors: #fff, #f5222.00d, Shapes: rectangle, Elements: filter, stroke, Text: none."
+../training_data_raw/components_ant/btn-primary-nolabel-sq.svg,"Size: 32.00
+Colors: #1890.00ff, #fff
+Shapes: rect, path
+Elements: filter, defs, g
+Strokes: none
+Text: none"
+../training_data_raw/components_ant/checkbox-disabled-label.svg,"Size: 92.00 x 18.00, Colors: #fafafa, #dbdbdb, Shapes: rectangle, rounded corners, Elements: two rectangles, Strokes: one stroke, Text: none."
+../training_data_raw/components_ant/checkbox-checked.svg,"Size: 16.00
+Colors: #fff, #1890.00ff
+Shapes: rect, path
+Elements: g
+Strokes: #1890.00ff
+Text: none
+Keywords: checkbox, checked, svg, viewBox, rect, path, fill, stroke, rx, width, height."
+../training_data_raw/components_ant/btn-danger-lg.svg,"Size: lg, 120x40
+Colors: danger, red
+Shapes: rectangle, rounded corners
+Elements: filter, svg
+Strokes: none
+Text: none"
+../training_data_raw/components_ant/btn-primary-hover.svg,"Size: 120.00 x 32.00, Colors: #40.00a9.00ff, Shapes: Rectangular with rounded corners, Elements: SVG, Filter, FeFlood, FeColorMatrix, FeOffset, FeGaussianBlur, FeBlend, Strokes: None, Text: None."
+../training_data_raw/components_ant/btn-primary-nolabel-sq-lg.svg,"rectangular, 40x40, blue, white, rounded corners, icon, arrow, no label, filter, blend."
+../training_data_raw/components_ant/alert-icon-text-close-now.svg,"size: 400x100, 
+colors: white, pink, 
+shapes: rectangle, 
+elements: path, g, 
+strokes: pink, 
+text: none, 
+keywords: alert, icon, close, rectangle, path, g, pink stroke, white fill."
+../training_data_raw/components_ant/checkbox-hover-checked.svg,"Size: 16.00
+Colors: #fff, #40.00a9.00ff, #1890.00ff
+Shapes: rect, path
+Elements: g
+Strokes: #40.00a9.00ff
+Text: none"
+../training_data_raw/components_ant/btn-dashed-lg.svg,"Size: 120.00 x 40.00, 
+Colors: #fff, #dbdbdb, 
+Shapes: rectangle, 
+Elements: filter, 
+Strokes: dashed, round linecap, 
+Text: none."
+../training_data_raw/components_ant/btn-danger-text-hover.svg,"Size: 104x32, Colors: #fafafa, Shapes: rectangle with rounded corners, Elements: one rectangle, Strokes: none, Text: none, Hover effect: changes color to red."
+../training_data_raw/components_ant/alert-text-close.svg,"Size: 400x100, Colors: white, pink, Shapes: rectangle, circle, Elements: path, g, Text: none, Strokes: pink, red."
+../training_data_raw/components_ant/tooltip-bottom-right.svg,"size: 166x68, colors: #262626, shapes: rect, path, elements: filter, viewBox, defs, strokes: none, text: none."
+../training_data_raw/components_ant/btn-danger-hover.svg,"Size: 120.00 x 32.00, Colors: #ff4.00d4.00f, Shapes: Rectangular with rounded corners, Elements: Filter, Text: None, Strokes: None."
+../training_data_raw/components_ant/input-text-prefix-focus.svg,"size, 320x32, colors, white, #1890ff, shapes, rectangle, rounded corners, elements, filter, svg, strokes, border, text, input prefix."
+../training_data_raw/components_ant/tooltip-right-middle.svg,"Size: 170x63, Colors: #262626, Shapes: rectangle, path, Elements: filter, defs, rect, path, Strokes: none, Text: none."
+../training_data_raw/components_ant/input-text-focus-lg.svg,"size: 320x40, 
+colors: #fff, #1890.00ff, 
+shapes: rectangle, 
+elements: filter, 
+strokes: #1890.00ff, 
+text: none."
+../training_data_raw/components_ant/btn-text.svg,"Size: 104.00 x 32.00, Colors: #b1.00b2.00b5.00, Shapes: Rectangular with rounded corners, Elements: SVG, Strokes: None, Text: None."
+../training_data_raw/components_ant/btn-text-sm.svg,"Size: 104.00 x 24.00, Colors: #b1.00b2.00b5.00, Shapes: Rectangular with rounded corners, Elements: SVG, Strokes: None, Text: None."
+../training_data_raw/components_ant/input-text-icon-disabled-ph.svg,"size, colors, shapes, elements, strokes, text, disabled, input, icon, placeholder."
+../training_data_raw/components_ant/input-text-icons-hover-sm.svg,"size: 320x24, colors: #fff, #1890.00ff, #bfbfbf, shapes: rectangle, path, elements: input box, icons, strokes: yes, text: no."
+../training_data_raw/components_ant/btn-primary-nolabel-hover-sm.svg,"Size: 24.00
+Colors: #40.00a9.00ff, #fff
+Shapes: rect, path
+Elements: filter, defs, feFlood, feColorMatrix, feOffset, feGaussianBlur, feBlend
+Strokes: none
+Text: none"
+../training_data_raw/components_ant/btn-text-hover-sm.svg,"Size: 104x24, Colors: #fafafa, Shapes: Rectangle with rounded corners, Elements: SVG, Strokes: None, Text: None."
+../training_data_raw/components_ant/btn-actions.svg,"Size: 114.00 x 32.00, Colors: #fff, #dbdbdb, Shapes: rectangle, path, Elements: filter, defs, g, Strokes: #dbdbdb, Text: none."
+../training_data_raw/components_ant/btn-default-lg.svg,"Size: 120x40, Colors: #fff, #dbdbdb, Shapes: rectangle with rounded corners, Elements: filter, stroke, Text: none."
+../training_data_raw/components_ant/btn-default-nolabel-hover-sm.svg,"Size: 24.00
+Colors: #fff, #1890.00ff
+Shapes: rect, path
+Elements: filter, defs, g
+Strokes: #1890.00ff
+Text: none
+Keywords: button, default, no label, hover, small, rounded, white, blue, stroke, arrow."
+../training_data_raw/components_ant/radio-disabled-checked-label.svg,"size: 66.10,18.00
+colors: #fafafa, #dbdbdb, #bfbfbf
+shapes: rect, rx
+elements: g
+strokes: #dbdbdb
+text: none"
+../training_data_raw/components_ant/btn-text-hover.svg,"Size: 104.00 x 32.00, Colors: #fafafa, Shapes: Rectangular with rounded corners, Elements: SVG, Strokes: None, Text: None, Hover effect: Filled rectangle with same dimensions and color."
+../training_data_raw/components_ant/input-text-icon-disabled-ph-lg.svg,"size, colors, shapes, elements, strokes, text, disabled, placeholder, input field, icon."
+../training_data_raw/components_ant/input-text-icons-disabled-sm.svg,"Size: 320x24, Colors: #fafafa, #dbdbdb, #bfbfbf, Shapes: rectangle, rounded rectangle, path, Elements: input box, icons, Strokes: none, Text: disabled."
+../training_data_raw/components_ant/btn-dashed-icon-hover.svg,"size: 129x32, 
+colors: #fff, #1890.00ff, 
+shapes: rect, path, 
+elements: filter, feFlood, feColorMatrix, feOffset, feGaussianBlur, feBlend, 
+strokes: dashed, round, 
+text: none, 
+keywords: button, hover, dashed, icon, filter, stroke, fill, rectangle, path, color, size."
+../training_data_raw/components_ant/btn-actions-dw.svg,"Size: 114x119, Colors: #fff, #dbdbdb, #1890ff, Shapes: rectangle, path, Elements: filters, strokes, Text: none."
+../training_data_raw/components_ant/input-text-icon-focus-ph.svg,"size: 320x32, 
+colors: white, #1890ff, #bfbfbf, 
+shapes: rectangle, path, 
+elements: filter, defs, rect, path, 
+strokes: #1890ff, 
+text: none."
+../training_data_raw/components_ant/input-text-icons.svg,"size, 320x32, rectangle, rounded corners, white fill, gray stroke, input icon, text icon, magnifying glass, user icon, paths, fill, stroke, viewBox."
+../training_data_raw/components_ant/checkbox-hover-label-checked.svg,"Size: 92.00,18.00
+Colors: #fff, #40.00a9.00ff, #1890.00ff
+Shapes: rect, path
+Elements: g
+Strokes: #40.00a9.00ff
+Text: none"
+../training_data_raw/components_ant/input-text-icon-focus-ph-lg.svg,"size, 320x40, rectangle, rounded corners, white fill, blue stroke, search icon, focus effect, text input, gray text."
+../training_data_raw/components_ant/radio.svg,"radio, 16x16, white, rectangle, rounded corners, stroke, blue, no text."
+../training_data_raw/components_ant/radio-hover-checked-label.svg,"size: 66.10,18.00
+colors: #fff, #40.00a9.00ff, #1890.00ff
+shapes: rect
+elements: g
+strokes: #40.00a9.00ff
+text: none
+keywords: radio, hover, checked, label, svg, viewBox, rx, width, height, fill."
+../training_data_raw/components_ant/btn-dashed-nolabel-hover-lg.svg,"size: 40.00, colors: #fff, #1890.00ff, shapes: rect, path, elements: filter, feFlood, feColorMatrix, feOffset, feGaussianBlur, feBlend, strokes: stroke, stroke-dasharray, stroke-linecap, text: none."
+../training_data_raw/components_ant/btn-danger-default-hover-lg.svg,"Size: 120x40, Colors: #fff, #ff4.00d4.00f, Shapes: rectangle with rounded corners, Elements: filter, stroke, Text: none."
+../training_data_raw/components_ant/input-text-hover-sm.svg,"Size: 320x24, Colors: #fff, #1890.00ff, Shapes: rectangle, Elements: 2 groups, Strokes: #1890.00ff, Text: none."
+../training_data_raw/components_ant/input-text-icon-focuslg.svg,"size, 320x40, white, blue, rectangle, rounded corners, input text, icon, focus, stroke, search icon."
+../training_data_raw/components_ant/input-text-icon-hover-ph-sm.svg,"size: 320x24, colors: #fff, #1890.00ff, #bfbfbf, shapes: rectangle, path, elements: input text icon, strokes: #1890.00ff, text: none."
+../training_data_raw/components_ant/input-text-icon-sm.svg,"size: 320x24, 
+colors: #fff, #dbdbdb, 
+shapes: rectangle, path, 
+elements: input text icon, 
+strokes: #dbdbdb, 
+text: none."
+../training_data_raw/components_ant/checkbox-tick-label.svg,"Size: 92.00,18.00
+Colors: #1890.00ff, #fff
+Shapes: rectangle, path
+Elements: checkbox, tick, label
+Strokes: #1890.00ff
+Text: none"
+../training_data_raw/components_ant/btn-danger-dashed-lg.svg,"Size: 120x40, Colors: #fff, #f5222.00d, Shapes: rectangle, Elements: filter, stroke-dasharray, stroke-linecap, Text: none."
+../training_data_raw/components_ant/radio-checked-label.svg,"size: 66.10,18.00
+colors: #fff, #1890.00ff
+shapes: rect
+elements: g
+strokes: #1890.00ff
+text: none
+keywords: radio, checked, label, svg, viewBox, rect, rx, width, height, fill, stroke."
+../training_data_raw/components_ant/btn-danger-dashed-hover-lg.svg,"Size: 120.00 x 40.00, Colors: #fff, #ff4.00d4.00f, Shapes: Rectangles with rounded corners, Elements: Filter, Stroke, Text: None."
+../training_data_raw/components_ant/btn-default-hover-sm.svg,"Size: 120x24, Colors: #fff, #1890.00ff, Shapes: rectangle with rounded corners, Elements: filter, stroke, Text: none."
+../training_data_raw/components_ant/btn-default-icon-sm.svg,"Size: 129x24, Colors: #fff, #dbdbdb, Shapes: rectangle, path, Elements: filter, defs, g, Strokes: #dbdbdb, Text: none."
+../training_data_raw/components_ant/input-text-prefix-sm.svg,"size, 320x24, white, rectangle, rounded corners, stroke, gray, input field, prefix, SVG."
+../training_data_raw/components_ant/btn-dashed-icon-hover-sm.svg,"Size: 129x24, Colors: white, #1890ff, Shapes: rectangle, path, Elements: filter, defs, g, Strokes: dashed, round, Text: none."
+../training_data_raw/components_ant/btn-primary-nolabel-hover.svg,"Size: 32.00
+Colors: #40.00a9.00ff, #fff
+Shapes: rect, path
+Elements: filter, defs, g
+Strokes: none
+Text: none"
+../training_data_raw/components_ant/btn-primary-nolabel-lg.svg,"Size: 40.00
+Colors: #1890.00ff, #fff
+Shapes: rect, path
+Elements: filter, defs, g
+Strokes: none
+Text: none"
+../training_data_raw/components_ant/checkbox-inactive-label.svg,"Size: 92.00,18.00
+Colors: #fff, #bfbfbf
+Shapes: rect
+Elements: g
+Strokes: #bfbfbf
+Text: none
+Keywords: checkbox, inactive, label, svg, viewBox, rx, width, height, fill, stroke."
+../training_data_raw/components_ant/btn-primary-nolabel-hover-sq-lg.svg,"rectangular, 40x40, blue, white, rounded corners, icon, arrow, no label, hover effect, filter."
+../training_data_raw/components_ant/checkbox-inactive-label-checked.svg,"Size: 92.00,18.00
+Colors: #fff, #bfbfbf, #1890.00ff
+Shapes: rect, path
+Elements: checkbox, label
+Strokes: #bfbfbf
+Text: none"
+../training_data_raw/components_ant/btn-primary-lg.svg,"Size: 120x40, Colors: #1890ff, Shapes: Rectangle with rounded corners, Elements: SVG, Filter, Strokes: None, Text: None."
+../training_data_raw/components_ant/btn-default-icon-hover-sm.svg,"Size: 129x24, Colors: #fff, #1890.00ff, Shapes: rectangle, path, Elements: filter, defs, g, Strokes: #1890.00ff, Text: none."
+../training_data_raw/components_ant/menu-simple-light.svg,"Size: 250x300, Colors: white, #fafafa, Shapes: rectangles, Elements: menu items, strokes, text, Text: none."
+../training_data_raw/components_ant/btn-danger-text.svg,"Size: 104.00,32.00
+Colors: #b1.00b2.00b5.00
+Shapes: Rect
+Elements: g, rect
+Strokes: None
+Text: None"
+../training_data_raw/components_ant/input-text-icons-focus-lg.svg,"size: 320x40, 
+colors: #fff, #1890ff, #bfbfbf, 
+shapes: rectangle, path, 
+elements: filter, defs, g, 
+strokes: #1890ff, 
+text: none, 
+icons: search icon."
+../training_data_raw/components_ant/input-text-prefix.svg,"size, 320x32, white, rectangle, rounded corners, stroke, gray, SVG, viewBox, no text."
+../training_data_raw/components_ant/btn-danger-default-hover.svg,"Size: 120x32, Colors: #fff, #ff4.00d4.00f, Shapes: rectangle with rounded corners, Elements: filter, stroke, Text: none."
+../training_data_raw/components_ant/btn-dashed-icon-sm.svg,"Size: 129x24, Colors: white, gray, Shapes: rectangle, rounded corners, Elements: icon, Strokes: dashed, Text: none."
+../training_data_raw/components_ant/alert-icon-text-close.svg,"size: 4.00e2.00,1.00e2.00, 
+colors: #fff1.00f0.00, #ff4.00d4.00f, #8.00c8.00c8.00c, 
+shapes: path, 
+elements: g, 
+strokes: stroke, 
+text: none, 
+keywords: alert, icon, close, alert-icon-text-close, SVG, viewBox."
+../training_data_raw/components_ant/btn-tabs-icon.svg,"Size: 299x32
+Colors: #fff, #dbdbdb, #000
+Shapes: rectangle, path
+Elements: filter, defs
+Strokes: #dbdbdb
+Text: none
+Keywords: SVG, icon, tabs, filter, rectangle, path, strokes, colors, elements, size."
+../training_data_raw/components_ant/input-text-prefix-hover.svg,"size, 320x32, white, rectangle, rounded corners, stroke, blue, hover effect, SVG, input text prefix."
+../training_data_raw/components_ant/btn-danger.svg,"Size: 120.00 x 32.00, Colors: #f5222.00d, Shapes: Rectangular with rounded corners, Elements: Filter, Text, Strokes: None."
+../training_data_raw/components_ant/input-text-icon-disabled-sm.svg,"size: 320x24, 
+colors: #fafafa, #dbdbdb, #bfbfbf, 
+shapes: rectangle, path, 
+elements: input text, icon, 
+strokes: yes, 
+text: disabled."
+../training_data_raw/components_ant/btn-primary-nolabel-hover-sq.svg,"Size: 32.00
+Colors: #40.00a9.00ff, #fff
+Shapes: rect, path
+Elements: filter, defs, g
+Strokes: none
+Text: none"
+../training_data_raw/components_ant/btn-default.svg,"Size: 120x32, Colors: #fff, #dbdbdb, Shapes: rectangle with rounded corners, Elements: filter, defs, rect, Strokes: #dbdbdb, Text: none."
+../training_data_raw/components_ant/checkbox-inactive-checked.svg,"Size: 16.00
+Colors: #fff, #bfbfbf, #1890.00ff
+Shapes: rect, path
+Elements: g
+Strokes: #bfbfbf
+Text: none
+Keywords: checkbox, inactive, checked, svg, viewBox, rx, fill."
+../training_data_raw/components_ant/btn-dashed-icon.svg,"Size: 129x32, Colors: white, gray, Shapes: rectangle, rounded corners, Elements: icon, Strokes: dashed, Text: none."
+../training_data_raw/components_ant/btn-dashed-nolabel-sm.svg,"Size: 24.00
+Colors: #fff, #dbdbdb
+Shapes: rect, path
+Elements: filter, feFlood, feColorMatrix, feOffset, feGaussianBlur, feBlend
+Strokes: stroke, stroke-dasharray, stroke-linecap
+Text: none
+Keywords: dashed, no label, small, rounded corners, filter, stroke, path, rectangle, gray, white."
+../training_data_raw/components_ant/input-text-prefix-disabled-lg.svg,"size: 320x40, 
+colors: #fafafa, #dbdbdb, 
+shapes: rectangle, 
+elements: g, rect, svg, 
+strokes: #dbdbdb, 
+text: none."
+../training_data_raw/components_ant/input-text-prefix-hover-lg.svg,"size: 320x40, 
+colors: #fff, #1890.00ff, 
+shapes: rectangle, 
+elements: g, rect, svg, 
+strokes: #1890.00ff, 
+text: none."
+../training_data_raw/components_ant/btn-actions-hover.svg,"Size: 114x32, Colors: #fff, #dbdbdb, #1890ff, Shapes: rectangle, path, Elements: filter, defs, g, Strokes: #dbdbdb, Text: none."
+../training_data_raw/components_ant/input-text-disabled-sm.svg,"size: 320x24, colors: #fafafa, #dbdbdb, shapes: rectangle, elements: g, rect, strokes: #dbdbdb, text: none."
+../training_data_raw/components_ant/input-text-icon-focus-sm.svg,"size: 320x24, 
+colors: #fff, #1890.00ff, 
+shapes: rectangle, path, 
+elements: filter, defs, g, 
+strokes: #1890.00ff, 
+text: none, 
+keywords: input, text, icon, focus, small, filter, rectangle, path, stroke, color."
+../training_data_raw/components_ant/checkbox-label.svg,"Size: 92.00,18.00. Colors: #fff, #1890.00ff. Shapes: rect. Elements: g. Strokes: #1890.00ff. Text: none."
+../training_data_raw/components_ant/input-text-icon-disabled.svg,"size, colors, shapes, elements, strokes, text, disabled, input, icon, rectangle, path, fill, stroke, viewBox, width, height, rx."
+../training_data_raw/components_ant/btn-danger-text-lg.svg,"Size: 104.00 x 40.00, Colors: #b1.00b2.00b5.00, Shapes: Rectangle with rounded corners, Elements: SVG, Strokes: None, Text: ""btn-danger-text-lg"", Fill-opacity: 0.00."
+../training_data_raw/components_ant/radio-hover-checked.svg,"size: 16.00 x 16.00, 
+colors: #fff, #40.00a9.00ff, #1890.00ff, 
+shapes: rectangle, 
+elements: g, rect, 
+strokes: #40.00a9.00ff, 
+text: none."
+../training_data_raw/components_ant/btn-dashed-sm.svg,"Size: 120x24, 
+Colors: #fff, #dbdbdb, 
+Shapes: rectangle, 
+Elements: filter, stroke, 
+Strokes: dashed, 
+Text: none."
+../training_data_raw/components_ant/radio-label.svg,"radio-label, SVG, viewBox, size, colors, shapes, elements, strokes, text, rect, rx, x, y, width, height, fill, none, stroke."
+../training_data_raw/components_ant/btn-danger-sm.svg,"Size: 120x24, Colors: red, Shapes: rectangle, Elements: filter, Text: none."
+../training_data_raw/components_ant/btn-primary-nolabel-sq-sm.svg,"rectangular, 24x24, blue, white, rounded corners, no stroke, icon, no text, filter, path."
+../training_data_raw/components_ant/btn-primary-icon.svg,"Size: 129x32, Colors: #1890ff, #fff, Shapes: rectangle, path, Elements: filter, defs, g, Strokes: none, Text: none."
+../training_data_raw/components_ant/input-text-icon-ph.svg,"size, 320x32, rectangle, rounded corners, white fill, gray stroke, search icon, text input, placeholder text, SVG format."
+../training_data_raw/components_ant/radio-inactive-checked-label.svg,"Size: 66.10 x 18.00, Colors: #fff, #bfbfbf, #1890.00ff, Shapes: rectangle, rounded rectangle, Elements: 3 groups, Strokes: #bfbfbf, Text: none."
+../training_data_raw/components_ant/input-text-icon-ph-lg.svg,"size, colors, shapes, elements, strokes, text, rectangle, icon, placeholder, input field, gray, white, stroke color, search icon, text input."
+../training_data_raw/components_ant/btn-danger-text-hover-lg.svg,"Size: 104.00 x 40.00, Colors: #fafafa, Shapes: Rectangle with rounded corners, Elements: None, Strokes: None, Text: None, Hover effect: Danger (red) text."
+../training_data_raw/components_ant/btn-primary-hover-lg.svg,"Size: 120.00 x 40.00, Colors: #4000a9ff, Shapes: Rectangular with rounded corners, Elements: SVG, Filter, Strokes: None, Text: None."
+../training_data_raw/components_ant/btn-danger-default-sm.svg,"Size: 120x24, Colors: #fff, #f5222.00d, Shapes: rectangle with rounded corners, Elements: filter, feFlood, feColorMatrix, feOffset, feGaussianBlur, feBlend, Strokes: #f5222.00d, Text: none."
+../training_data_raw/components_ant/radio-disabled-checked.svg,"size: 16.00, colors: #fafafa, #dbdbdb, #bfbfbf, shapes: rect, rx, elements: g, strokes: #dbdbdb, text: none."
+../training_data_raw/components_ant/radio-disabled.svg,"Size: 16.00 x 16.00, Colors: #fafafa, #dbdbdb, Shapes: rectangle with rounded corners, Elements: two layers, Strokes: one in #dbdbdb, Text: none."
+../training_data_raw/components_ant/checkbox-disabled.svg,"Size: 16.00 x 16.00, Colors: #fafafa, #dbdbdb, Shapes: rectangle with rounded corners, Elements: two layers, Strokes: one stroke in #dbdbdb, Text: none, Other: disabled checkbox design."
+../training_data_raw/components_ant/btn-default-nolabel-lg.svg,"Size: 40.00
+Colors: #fff, #dbdbdb
+Shapes: rect, path
+Elements: filter, defs, g
+Strokes: #dbdbdb
+Text: none
+Keywords: button, default, no label, large, rounded, white, gray, stroke, arrow, icon."
+../training_data_raw/components_ant/input-text-icon-hover-lg.svg,"size: 320x40, colors: #fff, #1890.00ff, shapes: rectangle, path, elements: input text, icon, strokes: #1890.00ff, text: none."
+../training_data_raw/components_ant/radio-checked.svg,"Size: 16.00
+Colors: #fff, #1890.00ff
+Shapes: rect
+Elements: g
+Strokes: #1890.00ff
+Text: none
+Keywords: radio-checked, viewBox, rect, fill, stroke, rx, width, height."
+../training_data_raw/components_ant/checkbox.svg,"Size: 16.00 x 16.00, Colors: #fff, #1890.00ff, Shapes: rectangle with rounded corners, Elements: two layers, Strokes: one stroke in blue, Text: no text."
+../training_data_raw/components_ant/btn-danger-hover-lg.svg,"Size: 120x40, Colors: #ff4.00d4.00f, Shapes: rectangle with rounded corners, Elements: filter, Text: none."
+../training_data_raw/components_ant/btn-tabs.svg,"Size: 228x32, 
+Colors: #fff, #dbdbdb, 
+Shapes: rectangle, path, 
+Elements: filter, defs, 
+Strokes: #dbdbdb, 
+Text: none."
+../training_data_raw/components_ant/input-text-prefix-disabled.svg,"size: 320x32, 
+colors: #fafafa, #dbdbdb, 
+shapes: rectangle, 
+elements: g, rect, 
+strokes: #dbdbdb, 
+text: none."
+../training_data_raw/components_ant/btn-primary-icon-hover-lg.svg,"size: 129x40, colors: #40a9ff, #fff, shapes: rectangle, path, elements: filter, blend, strokes: none, text: none."
+../training_data_raw/components_ant/tooltip-left-bottom.svg,"size: 171x63, colors: #262626, shapes: rect, path, elements: filter, viewBox, defs, g, strokes: none, text: none."
+../training_data_raw/components_ant/radio-inactive-label.svg,"Size: 66.10 x 18.00, Rectangles, Rounded corners, White fill, Grey stroke, No text."
+../training_data_raw/components_ant/btn-dashed-hover-sm.svg,"Size: 120x24, 
+Colors: #fff, #1890.00ff, 
+Shapes: rectangle with rounded corners, 
+Elements: filter, stroke, 
+Strokes: dashed, 
+Text: none."
+../training_data_raw/components_ant/input-text-prefix-focus-sm.svg,"size: 320x24, 
+colors: #fff, #1890.00ff, 
+shapes: rectangle, 
+elements: filter, defs, g, rect, 
+strokes: #1890.00ff, 
+text: none."
+../training_data_raw/components_ant/input-text-icons-lg.svg,"size, 320x40, colors, white, #dbdbdb, #bfbfbf, shapes, rectangle, rounded corners, icons, text, input, strokes, none, fill."
+../training_data_raw/components_ant/btn-primary-icon-lg.svg,"Size: 129x40, Colors: #1890ff, #fff, Shapes: rectangle, path, Elements: filter, defs, Strokes: none, Text: none."
+../training_data_raw/components_ant/btn-primary-nolabel.svg,"rectangular, 32x32, blue, white, rounded corners, icon, no label, strokeless, SVG format, button."
+../training_data_raw/components_ant/input-text-lg.svg,"size, colors, shapes, elements, strokes, text, viewBox, rect, rx, fill, stroke."
+../training_data_raw/components_ant/tooltip-bottom-left.svg,"Size: 166x68, Colors: #262626, Shapes: rectangle, path, Elements: filter, defs, g, Strokes: none, Text: none."
+../training_data_raw/components_ant/alert-icon-close-now.svg,"Size: 4.00e2.00, 40.00
+Colors: #fff1.00f0.00, #ff4.00d4.00f
+Shapes: rectangle, path
+Elements: g, path
+Strokes: #ff4.00d4.00f
+Text: none
+Keywords: alert, icon, close, rectangle, path, stroke, fill, colors, shapes, elements."
+../training_data_raw/components_ant/input-text-icon-focus-ph-sm.svg,"size: 320x24, 
+colors: white, #1890ff, #bfbfbf, 
+shapes: rectangle, path, 
+elements: filter, defs, g, rect, path, 
+strokes: #1890ff, 
+text: none, 
+keywords: svg, viewBox, filter, color-interpolation-filters, feFlood, feColorMatrix, feMorphology, feOffset, feGaussianBlur, feBlend, rx, fill, stroke."
+../training_data_raw/components_ant/input-text-icons-disabled-lg.svg,"size: 320x40, 
+colors: #fafafa, #dbdbdb, #bfbfbf, 
+shapes: rectangle, path, 
+elements: input text box, icons, 
+strokes: yes, 
+text: none, 
+attributes: disabled, large."
+../training_data_raw/components_ant/menu-light.svg,"Size: 250x381, Colors: #fafafa, #4000a9ff, #189000ff, #fff, Shapes: rectangles, Paths: multiple, Elements: menu items, Strokes: none, Text: none."
+../training_data_raw/components_ant/btn-primary.svg,"Size: 120.00 x 32.00, Colors: #1890ff, Shapes: Rectangular with rounded corners, Elements: SVG, Filter, FeFlood, FeColorMatrix, FeOffset, FeGaussianBlur, FeBlend, Strokes: None, Text: None."
+../training_data_raw/components_ant/input-text-icon-disabled-ph-sm.svg,"size: 320x24, 
+colors: #fafafa, #dbdbdb, #bfbfbf, 
+shapes: rectangle, path, 
+elements: input text, icon, 
+strokes: yes, 
+text: disabled placeholder, no visible text."
+../training_data_raw/components_ant/Group-193.svg,"size: 32.00, colors: #fff, #1890.00ff, shapes: rect, path, elements: filter, defs, g, strokes: #1890.00ff, text: none."
+../training_data_raw/components_ant/btn-default-nolabel-hover-lg.svg,"size: 40.00, colors: #fff, #1890.00ff, shapes: rect, path, elements: filter, defs, g, strokes: #1890.00ff, text: none."
+../training_data_raw/components_ant/checkbox-label-checked.svg,"Size: 92.00,18.00
+Colors: #fff, #1890.00ff
+Shapes: rect, path
+Elements: g
+Strokes: #1890.00ff
+Text: none"
+../training_data_raw/components_ant/input-text-icons-hover-lg.svg,"size: 320x40, 
+colors: #fff, #1890.00ff, #bfbfbf, 
+shapes: rectangle, path, 
+elements: input text box, icons, 
+strokes: yes, 
+text: none."
+../training_data_raw/components_ant/btn-primary-nolabel-hover-lg.svg,"size: 40.00, colors: #40.00a9.00ff, shapes: rect, path, elements: filter, defs, feFlood, feColorMatrix, feOffset, feGaussianBlur, feBlend, strokes: none, text: none."
+../training_data_raw/components_ant/btn-text-hover-lg.svg,"Size: 104.00 x 40.00, Colors: #fafafa, Shapes: Rectangle with rounded corners, Elements: SVG, Strokes: None, Text: None, Hover effect: Fill color change."
+../training_data_raw/components_ant/btn-default-sm.svg,"Size: 120x24, Colors: #fff, #dbdbdb, Shapes: rectangle with rounded corners, Elements: filter, defs, rect, Strokes: #dbdbdb, Text: none."
+../training_data_raw/components_ant/btn-dashed.svg,"Size: 120x32, Colors: #fff, #dbdbdb, Shapes: rectangle, Elements: filter, stroke, Text: none."
+../training_data_raw/components_ant/input-text-focus.svg,"size: 320x32, 
+colors: #fff, #1890.00ff, 
+shapes: rectangle, 
+elements: filter, defs, g, rect, 
+strokes: #1890.00ff, 
+text: none."
+../training_data_raw/components_ant/btn-text-lg.svg,"Size: 104.00 x 40.00, Colors: #b1.00b2.00b5.00, Shapes: Rectangular, Elements: SVG, Strokes: None, Text: None."
+../training_data_raw/components_ant/input-text-icon.svg,"size, colors, shapes, elements, strokes, text, rectangle, path, icon, input."
+../training_data_raw/components_ant/alert-text.svg,"size, 400x100, colors, white, pink, shapes, rectangle, elements, path, g, strokes, pink, text, none."
+../training_data_raw/components_ant/input-text-focus-sm.svg,"size: 320x24, 
+colors: #fff, #1890.00ff, 
+shapes: rectangle, 
+elements: filter, 
+strokes: #1890.00ff, 
+text: none."
+../training_data_raw/components_ant/input-text-disabled.svg,"size: 320x32, 
+colors: #fafafa, #dbdbdb, 
+shapes: rectangle, 
+elements: g, rect, 
+strokes: #dbdbdb, 
+text: none."
+../training_data_raw/components_ant/tooltip-right-top.svg,"Size: 170x63, Colors: #262626, Shapes: rectangle, path, Elements: filter, defs, g, Strokes: none, Text: none."
+../training_data_raw/components_ant/btn-danger-default.svg,"Size: 120x32, Colors: #fff, #f5222.00d, Shapes: rectangle, Elements: filter, stroke, Text: none."
+../training_data_raw/components_ant/input-text-icons-focus.svg,"size: 320x32, 
+colors: #fff, #1890.00ff, #bfbfbf, 
+shapes: rectangle, path, 
+elements: filter, defs, g, 
+strokes: stroke, 
+text: none."
+../training_data_raw/components_ant/btn-danger-dashed-hover.svg,"Size: 120x32, Colors: #fff, #ff4.00d4.00f, Shapes: rectangle, Elements: filter, stroke, Text: none."
+../training_data_raw/components_ant/input-text-icons-disabled.svg,"size: 320x32, 
+colors: #fafafa, #dbdbdb, #bfbfbf, 
+shapes: rectangle, path, 
+elements: input text box, icons, 
+strokes: yes, 
+text: none, disabled."
+../training_data_raw/components_ant/alert-icon-close.svg,"Size: 4.00e2.00 x 40.00
+Colors: #fff1.00f0.00, #ff4.00d4.00f, #8.00c8.00c8.00c
+Shapes: rectangle, path
+Elements: alert icon, close icon
+Strokes: #ff4.00d4.00f
+Text: none"
+../training_data_raw/components_ant/input-text-icons-focus-sm.svg,"size: 320x24, 
+colors: #fff, #1890ff, #bfbfbf, 
+shapes: rectangle, path, 
+elements: filter, defs, g, 
+strokes: #1890ff, 
+text: none."
+../training_data_raw/components_ant/btn-default-icon-hover.svg,"size: 129x32, colors: #fff, #1890.00ff, shapes: rectangle, path, elements: filter, defs, g, strokes: #1890.00ff, text: none."
+../training_data_raw/components_ant/btn-default-hover.svg,"Size: 120x32, Colors: #fff, #1890.00ff, Shapes: rectangle with rounded corners, Elements: filter, defs, rect, Strokes: #1890.00ff, Text: none."
+../training_data_raw/components_ant/checkbox-inactive.svg,"Size: 16.00 x 16.00, Colors: white, gray, Shapes: rectangle, rounded corners, Elements: two layers, Strokes: one gray stroke, Text: none."
+../training_data_raw/components_ant/btn-default-icon-hover-lg.svg,"Size: 129x40, Colors: #fff, #1890.00ff, Shapes: rectangle, path, Elements: filter, defs, g, Strokes: #1890.00ff, Text: none."
+../training_data_raw/components_ant/btn-primary-nolabel-hover-sq-sm.svg,"Size: 24.00
+Colors: #40.00a9.00ff, #fff
+Shapes: rect, path
+Elements: filter, defs, feFlood, feColorMatrix, feOffset, feGaussianBlur, feBlend
+Strokes: rx=2.00
+Text: none
+Keywords: button, primary, no label, hover, square, small, filter, color matrix, blur, blend."
+../training_data_raw/components_ant/btn-primary-sm.svg,"Size: 120x24, Colors: #1890ff, Shapes: Rectangle with rounded corners, Elements: SVG, Filter, Strokes: None, Text: None."
+../training_data_raw/components_ant/btn-primary-nolabel-sm.svg,"Size: 24.00
+Colors: #1890.00ff, #fff
+Shapes: rect, path
+Elements: filter, defs, feFlood, feColorMatrix, feOffset, feGaussianBlur, feBlend
+Strokes: none
+Text: none"
+../training_data_raw/components_ant/input-text-icon-focus.svg,"size, 320x32, rectangle, rounded corners, white fill, blue stroke, search icon, filter, focus, input text."
+../training_data_raw/components_ant/menu-simple-dark.svg,"size: 250x300, colors: dark green, white, gray, shapes: rectangles, elements: menu items, strokes: none, text: white."
+../training_data_raw/components_ant/btn-default-icon-lg.svg,"Size: 129x40, Colors: #fff, #dbdbdb, Shapes: rectangle, path, Elements: filter, defs, g, Strokes: #dbdbdb, Text: none."
+../training_data_raw/components_ant/btn-dashed-icon-hover-lg.svg,"size: 129x40, colors: white, #1890ff, shapes: rectangle, path, elements: filter, stroke-dasharray, stroke-linecap, text: none."
+../training_data_raw/components_ant/input-text-icon-hover-ph.svg,"size, 320x32, rectangle, rounded corners, white fill, blue stroke, input text icon, hover effect, search icon, gray fill, stroke width."
+../training_data_raw/components_ant/input-text-prefix-lg.svg,"size, 320x40, colors, white, #dbdbdb, shapes, rectangle, rounded corners, elements, two groups, strokes, yes, text, none."
+../training_data_raw/components_ant/btn-danger-dashed-hover-sm.svg,"Size: 120x24, Colors: #fff, #ff4.00d4.00f, Shapes: rectangle with rounded corners, Elements: filter, stroke-dasharray, stroke-linecap, Text: none."
+../training_data_raw/components_ant/alert-close.svg,"Size: 400x40, Colors: white, pink, Shapes: rectangle, circle, Elements: path, g, Text: none, Strokes: pink."
+../training_data_raw/components_ant/checkbox-disabled-tick.svg,"Size: 16.00
+Colors: #fafafa, #dbdbdb, #bfbfbf
+Shapes: rect, path
+Elements: g
+Strokes: #dbdbdb
+Text: none
+Keywords: checkbox, disabled, tick, svg, viewBox, rx, fill, stroke."
+../training_data_raw/components_ant/btn-default-hover-lg.svg,"Size: 120x40, Colors: #fff, #1890.00ff, Shapes: rectangle with rounded corners, Elements: filter, stroke, Text: none."
+../training_data_raw/components_ant/btn-danger-dashed-sm.svg,"Size: 120x24, Colors: #fff, #f5222.00d, Shapes: rectangle, Elements: filter, stroke, Text: none."
+../training_data_raw/components_ant/alert-close-now.svg,"Size: 400x40, Colors: #fff1.00f0.00, #ff4.00d4.00f, Shapes: rectangle, Elements: path, Strokes: #ff4.00d4.00f, Text: none."
+../training_data_raw/components_ant/tooltip-right-bottom.svg,"Size: 170x63, Colors: #262626, Shapes: rectangle, path, Elements: filter, defs, rect, path, Strokes: none, Text: none."
+../training_data_raw/components_ant/radio-disabled-label.svg,"size: 66.10,18.00
+colors: #fafafa, #dbdbdb
+shapes: rectangle
+elements: g, rect
+strokes: #dbdbdb
+text: none"
+../training_data_raw/components_ant/input-text-hover-lg.svg,"size, 320x40, white, rectangle, rounded corners, stroke, blue, hover effect, input field, text input."
+../training_data_raw/components_ant/input-text-icon-hover-ph-lg.svg,"size: 320x40, 
+colors: #fff, #1890.00ff, #bfbfbf, 
+shapes: rectangle, path, 
+elements: input text icon, 
+strokes: #1890.00ff, 
+text: none."
+../training_data_raw/components_ant/input-text-icon-lg.svg,"size, 320x40, rectangle, rounded corners, white fill, gray stroke, input text icon, magnifying glass, search, text input."
+../training_data_raw/components_ant/btn-dashed-nolabel-hover-sm.svg,"Size: 24.00
+Colors: #fff, #1890.00ff
+Shapes: rect, path
+Elements: filter, feFlood, feColorMatrix, feOffset, feGaussianBlur, feBlend
+Strokes: stroke, stroke-dasharray, stroke-linecap
+Text: none
+Keywords: dashed, no label, hover, small, rounded corners, white background, blue stroke, transparent fill, arrow icon."
+../training_data_raw/components_ant/btn-danger-default-hover-sm.svg,"Size: 120x24, Colors: #fff, #ff4.00d4.00f, Shapes: rectangle with rounded corners, Elements: filter, blend, stroke, Text: none."
+../training_data_raw/components_ant/radio-inactive.svg,"Size: 16x16, Colors: white, gray, Shapes: rectangle, rounded corners, Elements: none, Strokes: gray, Text: none."
+../training_data_raw/components_ant/checkbox-tick-disabled-label.svg,"Size: 92.00,18.00
+Colors: #fafafa, #dbdbdb, #bfbfbf
+Shapes: rectangle, path
+Elements: checkbox, tick, label
+Strokes: #dbdbdb
+Text: none"
+../training_data_raw/components_ant/menu-dark.svg,"Size: 250x381, Colors: #0.00c17.00, #40.00a9.00ff, #1529.00, #1890.00ff, #bfbfbf, Shapes: rectangles, Paths: multiple, Elements: g, Strokes: none, Text: none."
+../training_data_raw/components_core/Default_radio_button.svg,"Size: 18x18, Colors: white, #9da5b1, Shapes: ellipse, Elements: 2 groups, Strokes: #9da5b1, Text: none."
+../training_data_raw/components_core/Devault_Tabs.svg,"Size: 290x42, Colors: #ebedef, #fff, #374254, Shapes: rectangle, text, Elements: tabs, strokes, Text: Link, Disabled."
+../training_data_raw/components_core/Default_Button-Hover-1.svg,"Size: 156x42, Colors: #4b3cd9, #ebedef, Shapes: rectangle with rounded corners, Elements: text, Strokes: none, Text: ""Text Button"", Font: Roboto, Font weight: 500, Font size: 16px."
+../training_data_raw/components_core/Text-91.svg,"SVG, viewBox, size, 81.00, 20.00, text, y, textLength, lengthAdjust, spacingAndGlyphs, style, dominant-baseline, ideographic, text-transform, none, font-family, Roboto, font-weight, 500.00, white-space, pre, font-size, 16.00px, fill, #321.00fdb, text button."
+../training_data_raw/components_core/Default_Button.svg,"Size: 156x42, 
+Colors: #32100fdb, #ebedef, 
+Shapes: rectangle, 
+Elements: filter, 
+Strokes: rounded corners, 
+Text: ""Text Button"", 
+Text attributes: font-family: Roboto, font-weight: 500, font-size: 16px, lengthAdjust: spacingAndGlyphs, dominant-baseline: ideographic."
+../training_data_raw/components_core/Extra_Large_Modal.svg,"Size: 1140x240, 
+Colors: #fff, #32100fdb, #9da5b1, #ebedef, #374254, 
+Shapes: rectangle, path, 
+Elements: text, 
+Strokes: #ebedef, 
+Text: ""Save changes"", ""Close"", ""Modal body text goes here."", ""Modal title"", 
+Keywords: large, filter, fill, dominant-baseline, font-family, font-weight, white-space, stroke, lengthAdjust, viewBox, rx."
+../training_data_raw/components_core/Default_Toast.svg,"Size: 520x141, Colors: #fff, #f0f4f7, #374254, #39f, #9da5b1, Shapes: rectangle, path, text, Elements: filter, defs, rect, path, text, Strokes: #ebedef, Text: ""Hello, world! This is a toast message."", ""just now"", ""Toast Title""."
+../training_data_raw/components_core/Default_Modal.svg,"Size: 521x240, Rectangles, Rounded corners, Filters, Text, Title, Body, Buttons, Strokes, Colors."
+../training_data_raw/components_core/Next-Disabled.svg,"Size: 57.00,34.00
+Colors: #fff, #505.00d73.00, #9.00da5.00b1.00
+Shapes: rectangle, path
+Elements: g, text
+Strokes: yes
+Text: ""Next""
+Keywords: viewBox, fill, stroke, textLength, lengthAdjust, dominant-baseline, text-transform, font-family, font-weight, white-space, font-size."
+../training_data_raw/components_core/Default_Secondary_Button-Hover.svg,"Size: 156x42, Colors: #9da5b1, Fill-opacity: 0.8, Shapes: Rect, Text, Elements: Filter, TextLength, LengthAdjust, Strokes: None, Text: Secondary, Font-family: Roboto, Font-weight: 500, Font-size: 16px."
+../training_data_raw/components_core/Default_Dropdown_Button.svg,"Size: 156x42, Colors: #9da5b1, #374254, Shapes: rectangle, path, Text: ""Secondary"", Elements: filter, rect, text, path."
+../training_data_raw/components_core/Switch_off.svg,"size: 32x18, 
+colors: white, #9.00da5.00b1.00, #ebedef, 
+shapes: rectangle, ellipse, 
+elements: none, 
+strokes: #9.00da5.00b1.00, 
+text: none."
+../training_data_raw/components_core/Number_Hover.svg,"Size: 26.00, 34.00. Colors: #9.00da5.00b1.00, #321.00fdb. Shapes: rectangle. Elements: path, text. Strokes: #321.00fdb. Text: ""1.00""."
+../training_data_raw/components_core/Vertical_Nav.svg,"Size: 62x152, Colors: #374254, Shapes: Rectangular, Elements: Text, Strokes: None, Text: Roboto, Font-weight: 500, Dominant-baseline: Ideographic, LengthAdjust: SpacingAndGlyphs, TextLength: 29.98."
+../training_data_raw/components_core/Large_input.svg,"size: 560x48, colors: white, #9.00da5.00b1.00, shapes: rectangle, elements: text, strokes, text: ""Large input"", font: Roboto, font-weight: 300, font-size: 18px."
+../training_data_raw/components_core/Table_Header.svg,"Size: 160.00 x 51.00, Colors: #fff, #9.00da5.00b1.00, #374254.00, Shapes: rectangle, path, text, Elements: g, path, text, Strokes: 2.00, Text: ""Heading"", Font: Roboto, Font-weight: 700.00."
+../training_data_raw/components_core/Switch_on.svg,"Size: 32x18, Colors: #321.00fdb, #ebedef, Shapes: rectangle, ellipse, Elements: switch, Strokes: none, Text: none."
+../training_data_raw/components_core/Icon_avatar_2.svg,"Circle, 34x34, blue, white, avatar, person, head, outline, no text, simple."
+../training_data_raw/components_core/Large_Modal.svg,"Size: 800x240, Rectangles, Rounded corners, Filters, Text, Save button, Close button, Modal title, Modal body text, Stroke, Colors: white, blue, green, gray."
+../training_data_raw/components_core/Drop_actions.svg,"Size: 180x164, Colors: white, #9da5b1, Shapes: rectangle, path, Elements: text, filter, Strokes: #9da5b1, Text: Action, Another action, Something else here, Separated link."
+../training_data_raw/components_core/Data_list_input.svg,"Size: 560.00,40.00. Colors: #fff, #9.00da5.00b1.00, #374254.00. Shapes: rect, path. Elements: g, text. Strokes: #9.00da5.00b1.00. Text: ""Type to search…""."
+../training_data_raw/components_core/Previous-Hover.svg,"Size: 86x34, Colors: #9.00da5.00b1.00, #505.00d73.00, Shapes: rectangle, Elements: path, text, Strokes: yes, Text: ""Previous"", Font: Roboto, Font size: 16px."
+../training_data_raw/components_core/Icon_avatar_1.svg,"Circle, 34x34, blue-green, white stroke, avatar, person, head, face, minimalistic, no text."
+../training_data_raw/components_core/Default_input.svg,"Size: 560x32, Colors: #fff, #9.00da5.00b1.00, Shapes: rectangle, Elements: g, rect, text, Strokes: #9.00da5.00b1.00, Text: Roboto, 14px, ""Default input""."
+../training_data_raw/components_core/Disabled_radio_button.svg,"Size: 18.00, Colors: #321.00fdb, #ebedef, Shapes: ellipse, Elements: 2, Strokes: none, Text: none."
+../training_data_raw/components_core/Image_avatar_1.svg,"Size: 34.00, Colors: #fff, #b1.00b2.00b5.00, Shapes: circle, path, Elements: filter, clipPath, mask, pattern, Strokes: none, Text: none."
+../training_data_raw/components_core/Checked_radio_button.svg,"Size: 18x18, Colors: #321.00fdb, #ebedef, Shapes: Ellipse, Elements: 2 ellipses, Strokes: None, Text: None."
+../training_data_raw/components_core/Default_Secondary_Button.svg,"Size: 156x42, Colors: #9da5b1, Shapes: rectangle with rounded corners, Elements: text, Strokes: none, Text: ""Secondary"" in Roboto font, Font weight: 500, Text size: 16px, Text color: #374254, Filter: color matrix and blend."
+../training_data_raw/components_core/Small_Modal.svg,"Size: 300x140, Colors: #fff, #374254, #9da5b1, Shapes: rectangle, path, Elements: text, filter, Strokes: #ebedef, Text: Roboto, 16px, 24px, Modal title, Modal body text goes here."
+../training_data_raw/components_core/Stacked_avatars.svg,"Size: 116x34, Stacked avatars, Circles, Masks, Patterns, Filters, Clip paths, Fill colors, No strokes, No text."
+../training_data_raw/components_core/Number.svg,"Size: 26.00, 34.00
+Colors: #fff, #321.00fdb
+Shapes: rectangle
+Elements: text
+Strokes: #321.00fdb
+Text: ""1.00"""
+../training_data_raw/components_core/Image_avatar_2.svg,"Size: 34.00, Colors: #fff, #b1.00b2.00b5.00, Shapes: circle, path, Elements: filter, clipPath, mask, pattern, Strokes: none, Text: none."
+../training_data_raw/components_core/Number_active.svg,"Size: 26.00, 34.00. Colors: #321.00fdb, #f0.00f4.00f7.00. Shapes: rectangle. Elements: path, text. Strokes: #321.00fdb. Text: ""1.00""."
+../training_data_raw/components_core/Image_avatar_3.svg,"Size: 34.00, Colors: #b1.00b2.00b5.00, Shapes: circle, path, Elements: filter, clipPath, mask, pattern, Strokes: none, Text: none."
+../training_data_raw/components_core/Scrolling_text_Modal.svg,"Size: 520x680, 
+Colors: #fff, #321.00fdb, #9.00da5.00b1.00, #ebedef, #374254, 
+Shapes: Rectangles, Paths, 
+Elements: Text, 
+Strokes: #ebedef, 
+Text: Font-family: Roboto, Font-weight: 500.00, Font-size: 14.00px, LengthAdjust: spacingAndGlyphs, Dominant-baseline: ideographic, White-space: pre."
+../training_data_raw/components_core/Default_Dropdown_Button_-_S.svg,"Size: 126x32, Colors: #9da5b1, #374254, Shapes: rectangle, path, Elements: text, filter, Strokes: none, Text: ""Secondary"", Font: Roboto, Font-weight: 500, Font-size: 14px."
+../training_data_raw/components_core/Disabled_checkbox.svg,"Size: 18.00
+Colors: #321.00fdb, #ebedef
+Shapes: rectangle, path
+Elements: checkbox, checkmark
+Strokes: none
+Text: none
+Other: opacity, rounded corners (rx=5.00)"
+../training_data_raw/components_core/Input_boxes_Modal.svg,"Size: 522x530, Colors: white, #32100fdb, #9da5b1, #ebedef, Shapes: rectangle, path, Elements: text, Input boxes, Modal, Strokes: #9da5b1, #ebedef, Text: Roboto, font-weight: 500, font-size: 14px, dominant-baseline: ideographic."
+../training_data_raw/components_core/Square_avatar_3.svg,"square, avatar, size 34x34, color #e45353, fill, text, font Roboto, font size 16px, white space pre, text color #fff."
+../training_data_raw/components_core/Square_avatar_2.svg,"square, avatar, size 34x34, color #f800b1, fill, text ""CUI"", font Roboto, font size 16px, white space, no stroke."
+../training_data_raw/components_core/Group-1.svg,"Size: 140x42, 
+Colors: #321, #00f, #dbf, #f0f, #f4f, #f7f, 
+Shapes: rectangle, rounded corners, 
+Elements: text, 
+Strokes: none, 
+Text: Roboto, 500 weight, 16px size, white-space pre, lengthAdjust spacingAndGlyphs, dominant-baseline ideographic."
+../training_data_raw/components_core/File_input.svg,"SVG, viewBox, size, colors, shapes, elements, strokes, text, file_input, path."
+../training_data_raw/components_core/Default_checkbox.svg,"Size: 18.00, Colors: #fff, #9.00da5.00b1.00, Shapes: rectangle, rounded corners, Elements: two layers, Strokes: one, Text: none."
+../training_data_raw/components_core/Default_Button_L.svg,"Size: 180x48, Shape: Rectangular with rounded corners, Colors: #32100fdb (dark blue), #ebedef (light gray), Elements: Text, Strokes: None, Text: ""Text Button"", Font: Roboto, Font Size: 20px, Font Weight: 500."
+../training_data_raw/components_core/Image_avatar_4.svg,"Size: 34.00, Colors: #fff, #b1.00b2.00b5.00, Shapes: circle, path, Elements: filter, clipPath, mask, pattern, Strokes: none, Text: none."
+../training_data_raw/components_core/Text_Button.svg,"Size: 82.00,20.00; Colors: #321.00fdb; Shapes: rectangle, text; Elements: g, text; Strokes: none; Text: Roboto, 16.00px, 500.00, spacingAndGlyphs, pre."
+../training_data_raw/components_core/Previous-Disabled-1.svg,"Size: 86.00,34.00. Colors: #fff, #505.00d73.00, #9.00da5.00b1.00. Shapes: rectangle. Elements: path, text. Strokes: #505.00d73.00. Text: ""Previous""."
+../training_data_raw/components_core/Square_avatar_1.svg,"square, avatar, size 34x34, color #505.00d73.00, fill, text ""CUI"", font Roboto, font size 16px, white space pre, length adjust spacing and glyphs."
+../training_data_raw/components_core/Checked_checkbox.svg,"Size: 18.00
+Colors: #321.00fdb, #ebedef
+Shapes: rect, path
+Elements: g, svg
+Strokes: none
+Text: none"
+../training_data_raw/components_core/Dropdown_Tab.svg,"Size: 587x188, Colors: white, #9.00da5.00b1.00, #321.00fdb, #374254.00, Shapes: rectangle, text box, arrow, Elements: dropdown links, Text: ""Action"", ""Another action"", ""Something else here"", ""Separated link"", ""Disabled"", ""Dropdown Link""."
+../training_data_raw/components_core/Popover_tooltip_Modal.svg,"Size: 522x360, Colors: #fff, #321.00fdb, #9.00da5.00b1.00, #ebedef, Shapes: Rectangles, Path, Text, Elements: Popover, Tooltip, Modal, Strokes: None, Text: ""Popover on Top"", ""Save changes"", ""Close"", ""Button below triggers a popover on click."", ""This link have a tooltip on hover."", ""Modal title""."
+../training_data_raw/components_core/Default_Button-Hover.svg,"Size: 156x42, 
+Colors: #4.00b3.00cd9.00, #ebedef, 
+Shapes: rectangle with rounded corners, 
+Elements: text, 
+Strokes: none, 
+Text: ""Text Button"", 
+Font: Roboto, 
+Font weight: 500, 
+Text size: 16px, 
+Text color: #ebedef."
+../training_data_raw/components_core/Text-292.svg,"Size: 266x20, Colors: #374254, Shapes: rectangles, Elements: text, strokes, Text: ""Link"" and ""Disabled"", LengthAdjust: spacingAndGlyphs, Dominant-baseline: ideographic."
+../training_data_raw/components_core/Previous.svg,"Size: 86x34, Colors: white, #505.00d73.00, Shapes: rectangle, Elements: path, text, Strokes: yes, Text: ""Previous"", Font: Roboto, Font weight: 400, Font size: 16px."
+../training_data_raw/components_core/Letter_avatar_2.svg,"Size: 34.00, Colors: #9.00da5.00b1.00, Shapes: Circle, Elements: Text, Strokes: None, Text: Roboto, 10+ Facts: Avatar, Letter, SVG, ViewBox, Dominant-baseline, TextLength, LengthAdjust, SpacingAndGlyphs, Font-weight, White-space."
+../training_data_raw/components_core/Default_Success_Button-Hover.svg,"Size: 156x42, Colors: #2.00eb85.00c, Fill-opacity: .8.00, Shapes: Rect, Text, Elements: Filter, TextLength, LengthAdjust, Strokes: None, Text: Success, Font-family: Roboto, Font-weight: 500.00, Font-size: 16.00px."
+../training_data_raw/components_core/Default_Secondary_Button-Disabled.svg,"Size: 156x42, Colors: #9da5b1, Shapes: rectangle with rounded corners, Elements: text, Strokes: none, Text: ""Secondary"" in Roboto font, Font weight: 500, Text size: 16px, Opacity: 0.6."
+../training_data_raw/components_core/Rounded_square_avatar_1.svg,"Size: 34.00, Colors: #321.00fdb, Shapes: Rounded square, Elements: Rect, Text, Strokes: None, Text: ""CUI"", Font: Roboto, Font size: 16.00px."
+../training_data_raw/components_core/Custom_Toast_Buttons.svg,"Size: 520x175, 
+Colors: #fff, #321.00fdb, #9.00da5.00b1.00, #ebedef, #374254, 
+Shapes: rectangle, text, path, 
+Elements: buttons, 
+Strokes: #ebedef, 
+Text: ""Take action"", ""Close"", ""Hello, world! This is a toast message."", 
+Keywords: custom, toast, message, buttons, rectangular, filters, typography."
+../training_data_raw/components_core/Letter_avatar_3.svg,"Size: 34.00, Colors: #f8.00b114.00, Shapes: Circle, Elements: Text, Strokes: None, Text: Roboto, 16.00px, White-space: pre, Dominant-baseline: ideographic, LengthAdjust: spacingAndGlyphs."
+../training_data_raw/components_core/Letter_avatar_1.svg,"Size: 34.00, Colors: #39.00f, Shapes: Circle, Elements: Text, Strokes: None, Text: Roboto, 10+ Facts: Letter avatar, ViewBox, Dominant-baseline, TextLength, LengthAdjust, SpacingAndGlyphs, Font-family, Font-weight, White-space, Fill."
+../training_data_raw/components_core/Next.svg,"Size: 57.00,34.00. Colors: #fff, #505.00d73.00. Shapes: rectangle, text. Elements: path, g, text. Strokes: #505.00d73.00. Text: ""Next""."
+../training_data_raw/components_core/Rounded_square_avatar_3.svg,"Size: 34.00, Colors: #2.00eb85.00c, Shapes: Rounded square, Elements: Rect, Text, Strokes: None, Text: ""CUI"", Font: Roboto, Font size: 16.00px, Fill: #fff."
+../training_data_raw/components_core/Checked_active_checkbox.svg,"Size: 18.00
+Colors: #321.00fdb, #e2.00d8.00f3.00, #ebedef
+Shapes: rectangle, path
+Elements: checkbox, checkmark
+Strokes: #fff, #e2.00d8.00f3.00
+Text: none"
+../training_data_raw/components_core/Table_Row.svg,"Size: 160x51, Colors: #fff, #9da5b1, Shapes: rectangle, line, Elements: path, text, Strokes: 2.00, Text: Roboto, 16.00px, Fill: #374254.00."
+../training_data_raw/components_core/Custom_Toast_Simple.svg,"Size: 520x78, Colors: #fff, #374254, #9da5b1, Shapes: rectangle, path, Elements: text, Strokes: none, Text: ""Hello, world! This is a toast message."", Font: Roboto, Font size: 24px."
+../training_data_raw/components_core/Status_inactive_avatar.svg,"Size: 34.00
+Colors: #b1.00b2.00b5.00, #e45353.00, #fff
+Shapes: circle, path
+Elements: filter, clipPath, mask, pattern
+Strokes: #fff
+Text: none"
+../training_data_raw/components_core/Rounded_square_avatar_2.svg,"Size: 34.00, Colors: #f0.00f4.00f7.00, Shapes: Rect, Elements: Text, Strokes: None, Text: Roboto, Size: 16.00px, Fill: #374254.00, Rounded corners: 4.00."
+../training_data_raw/components_core/Default_Success_Button.svg,"Size: 156x42, Colors: #2.00eb85.00c, Shapes: Rectangle with rounded corners, Elements: Text, Strokes: None, Text: ""Success"", Font: Roboto, Font-weight: 500.00, Font-size: 16.00px."
+../training_data_raw/components_core/Default_input_L-4.svg,"Size: 560x40, Colors: #ebedef, #9.00da5.00b1.00, Shapes: rectangle with rounded corners, Elements: text, Strokes: yes, Text: ""Disabled input"", Font: Roboto, Font weight: 300, Font size: 18px."
+../training_data_raw/components_core/Default_Button-4.svg,"Size: 156x42, Colors: #2.00eb85.00c, Shapes: rectangle with rounded corners, Elements: text, Strokes: none, Text: ""Success"", Font: Roboto, Font weight: 500, Font size: 16px."
+../training_data_raw/components_core/Status_active_avatar.svg,"Size: 34.00, Colors: #b1.00b2.00b5.00, #2.00eb85.00c, #fff, Shapes: circle, path, Elements: filter, clipPath, mask, pattern, Strokes: #fff, Text: none."
+../training_data_raw/components_core/Underline_Tabs.svg,"Size: 285x36, 
+Colors: #ebedef, #32100fdb, #374254, 
+Shapes: rectangle, 
+Elements: text, path, 
+Strokes: 3.00, 
+Text: ""Link"", ""Disabled"", 
+Keywords: SVG, fill, viewBox, dominant-baseline, textLength, lengthAdjust, class, stroke-linecap, font-family, font-weight, white-space, font-size, fill-opacity."
+../training_data_raw/components_core/Text_Button_Disabled.svg,"Size: 82x20, Colors: #4b3cd9 (fill), 30% opacity, Shapes: rectangle, rounded corners, Elements: text, Strokes: none, Text: ""Text Button"", Font: Roboto, Font weight: 500, Font size: 16px, Length adjust: spacingAndGlyphs."
+../training_data_raw/components_core/Header.svg,"Size: 1560.00 x 190.01, Colors: #fff, #374254, Shapes: rectangle, text box, Elements: path, text, Strokes: 2.00, Text: Roboto font, 300.00 and 400.00 font weight, 18.00px and 56.00px font size."
+../training_data_raw/components_core/Horisontal_Nav.svg,"Size: 266x20, Colors: #374254, Shapes: Rectangular, Elements: Text, Strokes: None, Text: ""Link"" and ""Disabled"", Font: Roboto, Font-weight: 500, Text-size: 16px, Text-color: #374254."
+../training_data_raw/components_core/Default_input_L.svg,"Size: 560x40, Colors: white, #9.00da5.00b1.00, Shapes: rectangle with rounded corners, Elements: text, Strokes: #9.00da5.00b1.00, Text: ""Default input"", Font: Roboto, Font size: 18px."
+../training_data_raw/components_core/Progress_bar.svg,"Size: 860.00 x 20.00, Colors: #b1.00b2.00b5.00, Shapes: Rectangle with rounded corners, Elements: SVG, Strokes: None, Text: None."
+../training_data_raw/components_core/Default_Button-1.svg,"Size: 156x42, 
+Colors: #32100fdb, #ebedef, 
+Shapes: rectangle with rounded corners, 
+Elements: text, 
+Strokes: none, 
+Text: ""Text Button"", 
+Keywords: SVG, viewBox, filter, defs, rect, textLength, lengthAdjust, dominant-baseline, text-transform, font-family, font-weight, white-space, font-size, fill."
+../training_data_raw/components_core/Default_Button_S_Button.svg,"Size: 126x32, 
+Colors: #32100fdb, #ebedef, 
+Shapes: rectangle, 
+Elements: filter, 
+Strokes: none, 
+Text: ""Text Button"", 
+Font: Roboto, 
+Font weight: 500, 
+Text size: 14px, 
+Text color: #ebedef."
+../training_data_raw/components_core/Pills_Tabs.svg,"Size: 432x32, Colors: #32100fdb, #ebedef, #374254, Shapes: rectangle, text, Elements: pills, tabs, Strokes: none, Text: ""Active"", ""Link"", ""Disabled"", Font: Roboto, LengthAdjust: spacingAndGlyphs, Dominant-baseline: ideographic."
+../training_data_raw/components_material_design/Icon_Button_Tonal_Toggle_[Selected].svg,"Size: 48.00, Colors: #e8.00def8.00, #1.00e192.00b, Shapes: Rect, Path, Elements: Toggle, Strokes: None, Text: None."
+../training_data_raw/components_material_design/Input_Chip_+_Avatar_+_Close_[disabled].svg,"Size: 159x32, 
+Colors: #1.00c1.00b1.00f, #fffbfe, 
+Shapes: rectangle, clipPath, path, 
+Elements: pattern, use, text, 
+Strokes: 2.00, 
+Text: Input Disabled, 
+Keywords: chip, avatar, disabled, fill, viewBox, clip-path, opacity, font-family, font-size."
+../training_data_raw/components_material_design/Filled_Text_Field.svg,"Size: 340x56, Colors: #e700e0ec, #49454.00e, Shapes: rectangle, path, Elements: clipPath, g, text, Strokes: none, Text: Roboto, 16px, Label Text."
+../training_data_raw/components_material_design/Filled_Suggestion_Chip.svg,"Size: 156.00 x 32.00
+Colors: #e8.00def8.00, #1.00e192.00b
+Shapes: rectangle, clip path, path
+Elements: clipPath, defs, g, rect, text
+Strokes: none
+Text: ""Suggestion Enabled""
+Keywords: fill, viewBox, clipPath, rx, textLength, lengthAdjust, dominant-baseline, text-transform, font-family, letter-spacing, font-weight, white-space, font-size, fill."
+../training_data_raw/components_material_design/Primary_Tab.svg,"Size: 360x48, Colors: #fffbfe, #e7.00e0.00ec, #6750.00a4.00, Shapes: rectangle, path, text, Elements: Audio, Photos, Video, Strokes: 2.00, Text: Roboto, 14.00px, 10+ facts."
+../training_data_raw/components_material_design/Linear_50%_Progress_Indicator.svg,"Linear, 50% progress, indicator, SVG, viewBox, clipPath, path, fill, colors, shapes."
+../training_data_raw/components_material_design/1_Line_Icon_List_[disabled].svg,"Size: 360x56, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangle, text, Elements: clipPath, path, g, Strokes: none, Text: Headline, Roboto font, 16px, letter-spacing: .4.00px, fill: #1.00c1.00b1.00f."
+../training_data_raw/components_material_design/Inset_Divider.svg,"Size: 260.00,9.00
+Colors: none, #c4.00c7.00c5.00
+Shapes: path
+Elements: defs, clipPath, use, g
+Strokes: 2.00
+Text: none
+Other: opacity, viewBox"
+../training_data_raw/components_material_design/Elevated_Filter_Chip_On_[disabled].svg,"Size: 139.00 x 32.00, Colors: #1.00c1.00b1.00f, Shapes: Rect, Path, Text, Elements: ClipPath, Opacity, Fill, Strokes: None, Text: Filter Disabled, Keywords: Elevated, Filter Chip, Disabled, Spacing, Glyphs, Roboto, Letter-spacing, Dominant-baseline, White-space."
+../training_data_raw/components_material_design/Segmented_Button_[disabled].svg,"Size: 310x48, Colors: #1.00c1.00b1.00f, #79747.00e, Shapes: Rectangles, Paths, Elements: Segmented buttons, Strokes: 2.00, Text: ""Enabled"", ""Disabled"", Font: Roboto, Keywords: Segmented button, Disabled state, Stroke width, Clip path, Text length, Length adjust, Fill, Viewbox, Dominant baseline, Letter spacing."
+../training_data_raw/components_material_design/1_Line_Checkbox_List.svg,"Size: 360x56, Colors: #fffbfe, #1.00c1.00b1.00f, #6750.00a4.00, Shapes: rectangle, path, text, Elements: checkbox, headline, Strokes: none, Text: Roboto, 16px, bold, spacingAndGlyphs."
+../training_data_raw/components_material_design/Surface_FAB.svg,"Size: 56.00
+Colors: #fffbfe, #6750.00a4.00
+Shapes: rectangle, path
+Elements: filter, clipPath, g
+Strokes: none
+Text: none"
+../training_data_raw/components_material_design/Icon_Button_Standard.svg,"Size: 48.00
+Colors: #49454.00e
+Shapes: path
+Elements: g
+Strokes: none
+Text: none"
+../training_data_raw/components_material_design/Input_Filled_Chip_[disabled].svg,"size: 113x32, colors: #1c1b1f, #1c1b1f with opacity of 0.12 and 0.38, shapes: rectangle with rounded corners, elements: clipPath, viewBox, defs, text, strokes: none, text: ""Input Disabled"", font: Roboto, font-size: 14px, font-weight: 500, letter-spacing: 0.1px."
+../training_data_raw/components_material_design/Menu_Search_Bar_+_Action.svg,"Size: 360x56, Colors: #fffbfe, #6750.00a4, #49454.00e, Shapes: rectangle, path, Text: Roboto font, 16.00px, Hinted text, Elements: search bar, action button, Strokes: none."
+../training_data_raw/components_material_design/2_Lines_List_+_Control.svg,"Size: 360x72, Colors: #fffbfe, #6750.00a4.00, #fff, #49454.00e, #1.00c1.00b1.00f, Shapes: rectangle, path, text, Elements: lines, list, control, Strokes: none, Text: short supporting text, headline."
+../training_data_raw/components_material_design/Radio_Button_[selected_disabled].svg,"size: 20.00, colors: #1.00c1.00b1.00f, opacity: .38.00, shapes: rect, ellipse, elements: clipPath, use, path, strokes: 4.00, text: none, selected_disabled."
+../training_data_raw/components_material_design/1_Line_Video_List_[disabled].svg,"Size: 360x56, Colors: #fffbfe, #e7.00e0.00ec, #1.00c1.00b1.00f, #c4.00c7.00c5.00, #49454.00e, Shapes: path, ellipse, text, Strokes: 4.00, Elements: clipPath, defs, use, Opacity: .38.00, Text: Headline, Font: Roboto, Font-size: 16.00px, Letter-spacing: .4.00px."
+../training_data_raw/components_material_design/Elevated_Suggestion_Chip_+_Icon.svg,"Size: 174x32
+Colors: #fffbfe, #6750a4, #49454e
+Shapes: rectangle with rounded corners
+Elements: suggestion icon
+Strokes: none
+Text: ""Suggestion Enabled"" in Roboto font, 14px, bold, with letter-spacing of 0.1px"
+../training_data_raw/components_material_design/Suggestion_Chip.svg,"Size: 156.00 x 32.00, 
+Colors: #79747.00e, #49454.00e, 
+Shapes: rectangle, path, 
+Elements: clipPath, use, rect, text, 
+Strokes: 2.00, 
+Text: ""Suggestion Enabled"", 
+Keywords: fill, viewBox, clip-path, rx, lengthAdjust, dominant-baseline, text-transform, font-family, letter-spacing, font-weight, white-space, font-size, fill."
+../training_data_raw/components_material_design/Filled_Text_Field_+_Suffix_[populated_disabled].svg,"Size: 124x56, Colors: #1.00c1.00b1.00f, Shapes: rectangle, Elements: text, Strokes: none, Text: ""Label Text"", ""lbs"", ""143.00""."
+../training_data_raw/components_material_design/Input_Chip_+_Icon_+_Close_[disabled].svg,"Size: 157x32, Colors: #1.00c1.00b1.00f, #fffbfe, Shapes: rectangle, path, text, Elements: chip, icon, close, Strokes: 2.00, Text: Input Disabled, Keywords: disabled, clip-path, fill, viewBox, opacity, rx, lengthAdjust, dominant-baseline, font-family, letter-spacing, font-weight, white-space, font-size."
+../training_data_raw/components_material_design/3_Lines_List.svg,"Size: 360x88, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangle, path, Elements: clipPath, g, text, Strokes: none, Text: supporting text, multiple lines, headline."
+../training_data_raw/components_material_design/Button_Elevated.svg,"Size: 146x40, Colors: #fffbfe, #6750.00a4.00, Shapes: rectangle with rounded corners, Elements: text, Strokes: none, Text: ""Elevated Button"", Font: Roboto, Font weight: 500, Font size: 14px, Letter spacing: 0.1px."
+../training_data_raw/components_material_design/Elevated_Assist_Chip_+_Icon.svg,"Size: 143x32, Colors: #fffbfe, #6750.00a4.00, Shapes: rectangle with rounded corners, Elements: chip icon, text, Strokes: none, Text: ""Assist Enabled"", Keywords: small, purple, white, rounded, chip, icon, text, assist."
+../training_data_raw/components_material_design/Filter_Chip_Off_[disabled].svg,"Size: 121x32, 
+Colors: #1c1b1f, 
+Shapes: rectangle, path, 
+Elements: clipPath, use, text, 
+Strokes: 2.00, 
+Text: Filter Disabled, 
+Keywords: svg, clip-path, fill, viewBox, opacity, font-family, font-size, font-weight, letter-spacing, text-transform."
+../training_data_raw/components_material_design/Filled_Text_Field_+_LeadingTrailing_Icon_[focused_error].svg,"Filled text field, leading/trailing icon, focused error, clip path, support text, label text, stroke, dominant baseline, text length, letter spacing. Size: 340x56. Colors: #e700e0ec, #b3261.00e, #1.00c1.00b1.00f, #49454.00e. Shapes: rectangle, path. Elements: text, path."
+../training_data_raw/components_material_design/2_Lines_Avatar_List.svg,"Size: 360x72, Colors: #fffbfe, #eaddff, #49454.00e, #1.00c1.00b1.00f, Shapes: rectangle, clipPath, path, Elements: text, g, clip-path, Strokes: none, Text: Roboto, short supporting text, headline, letter-spacing."
+../training_data_raw/components_material_design/Primary_Tab_+_Icon.svg,"Size: 360x64, Colors: #fffbfe, #e7.00e0.00ec, #49454.00e, #6750.00a4, Shapes: rectangle, path, text, Elements: audio icon, photo icon, video icon, Strokes: 2.00, Text: ""Audio"", ""Photos"", ""Video"", Keywords: primary tab, icon, clipPath, viewBox, fill, opacity, dominant-baseline, textLength, lengthAdjust, class."
+../training_data_raw/components_material_design/2_Lines_Option_List_+_Control.svg,"Size: 360x72, Colors: #fffbfe, #49454.00e, #1.00c1.00b1.00f, #6750.00a4.00, Shapes: Rect, Circle, Text, Elements: Option List, Control, Strokes: 4.00, Text: Short supporting text, Headline, 100.00+."
+../training_data_raw/components_material_design/1_Line_Option_List_[disabled].svg,"Size: 360x56, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangle, circle, Elements: clipPath, defs, use, Strokes: 4.00, Text: Roboto, 16.00px, Headline."
+../training_data_raw/components_material_design/Avatar_Container.svg,"Size: 40.00 x 40.00, Colors: #eaddff, #21005.00e, Shapes: rectangle, circle, Elements: clipPath, g, text, Strokes: none, Text: ""A"", Font: Roboto, Font size: 16.00px, Font weight: 500.00, Letter spacing: 0.1."
+../training_data_raw/components_material_design/Tertiary_FAB_Large.svg,"Size: 96.00
+Colors: #ffd8.00e4.00, #6750.00a4.00, #370.00b1.00e
+Shapes: Rectangles, Path
+Elements: ClipPath, Filter
+Strokes: None
+Text: None"
+../training_data_raw/components_material_design/Docked_Search_View_+_History.svg,"Size: 360x250, Colors: #fffbfe, #6750a4, #49454e, #1c1b1f, #1c1b1f, #1c1b1f, Shapes: rectangle, paths, Text: Renée, Peanut's Recipes, Peanut, Search Replies, Strokes: #c4c7c5, Elements: clipPath, use, text, path."
+../training_data_raw/components_material_design/Input_Chip_+_Avatar_[disabled].svg,"Size: 137x32, Shapes: Rectangles, Text, ClipPath, Pattern, Colors: #1c1b1f, #fffbfe, Strokes: 2.00, Elements: Use, Path, Opacity, Fill, ViewBox, LengthAdjust, Dominant-baseline, Letter-spacing, Font-family, Font-size, FontWeight, Clip-path."
+../training_data_raw/components_material_design/Input_Chip_[disabled].svg,"size: 113x32, 
+colors: #1.00c1.00b1.00f, #fffbfe, 
+shapes: rectangle, path, 
+elements: clipPath, use, text, 
+strokes: 2.00, 
+text: Input Disabled, 
+attributes: rx, opacity, fill, viewBox, lengthAdjust, dominant-baseline, textLength, letter-spacing, font-family, font-size, font-weight."
+../training_data_raw/components_material_design/Navigation_Bar_4_Items.svg,"size: 390x80, 
+colors: #fffbfe, #6750a4, #e800de, #b32610, #49454e, 
+shapes: rectangle, ellipse, path, text, 
+elements: navigation bar, items, clip paths, 
+strokes: none, 
+text: ""1.00"""
+../training_data_raw/components_material_design/3_Lines_Option_List.svg,"Size: 360x88, Colors: #fffbfe, #6750.00a4.00, Shapes: rectangle, circle, path, Elements: text, clipPath, use, Strokes: 4.00, Text: Roboto, 16.00px, Headline, Supporting text, Multiple lines, LengthAdjust, Dominant-baseline."
+../training_data_raw/components_material_design/Graph_Outlined_Card.svg,"Size: 180x180, Colors: #fffbfe, #79747.00e, #6750.00a4, Shapes: rectangle, path, text, Elements: graph, outlined card, Strokes: 2.00, Text: Roboto font, 12.00px, 14.00px, 28.00px, Keywords: clip-path, fill, viewBox, clipPath, rx, width, height, fill-rule, clip-rule, textLength."
+../training_data_raw/components_material_design/Checkbox_[indeterminate_disabled].svg,"Size: 18.00, Colors: #1.00c1.00b1.00f, #fffbfe, Shapes: Rect, Path, Elements: Checkbox, ClipPath, Strokes: None, Text: None."
+../training_data_raw/components_material_design/Filled_Text_Field_+_Support_Content.svg,"Size: 340x56, Colors: #e700e0ec, #49454.00e, Shapes: rectangle, path, Elements: text, clipPath, Strokes: none, Text: ""6.00/30.00"", ""Supporting Text"", ""Label Text"", Font: Roboto, Font-size: 16px, Letter-spacing: 4px."
+../training_data_raw/components_material_design/3_Lines_Option_List_[disabled].svg,"Size: 360x88, Colors: #fffbfe, #1c1b1f, Shapes: rectangle, circle, path, Elements: text, clipPath, use, Strokes: 4.00, Text: Supporting text, Headline."
+../training_data_raw/components_material_design/Simple_Dialog.svg,"Size: 280x240, 
+Colors: #fffbfe, #6750a4, #c4c7c5, #1c1b1f, 
+Shapes: rectangle, path, text, 
+Elements: dialog box, headline, action button, 
+Strokes: 2px, 
+Text: Roboto font, 14px, 24px, 4 lines of text, critical information, modal window."
+../training_data_raw/components_material_design/Button_Tonal_[disabled].svg,"Size: 127.00 x 40.00, 
+Colors: #1.00c1.00b1.00f, 
+Shapes: Rectangular with rounded corners (rx=20.00), 
+Elements: Text, 
+Strokes: None, 
+Text: ""Tonal Button"", 
+Text attributes: Roboto font, font-size: 14.00px, font-weight: 500.00, letter-spacing: .1.00px, lengthAdjust: spacingAndGlyphs, dominant-baseline: ideographic, 
+Opacity: .12.00 for the background and .38.00 for the text."
+../training_data_raw/components_material_design/Assist_Chip.svg,"Size: 123.00 x 32.00, 
+Colors: #79747.00e, #1.00c1.00b1.00f, 
+Shapes: rectangle, path, 
+Elements: clipPath, use, rect, text, 
+Strokes: 2.00, 
+Text: ""Assist Enabled"", 
+Keywords: SVG, clip-path, fill, viewBox, defs, rx, lengthAdjust, dominant-baseline, text-transform, font-family, letter-spacing, font-weight, white-space, font-size, fill."
+../training_data_raw/components_material_design/Bottom_App_Bar.svg,"Size: 390x80, Colors: #fffbfe, #6750.00a4, Shapes: rectangles, Paths: 4, Elements: clipPath, g, path, Strokes: none, Text: none."
+../training_data_raw/components_material_design/Icon_Button_Standard_[Disabled].svg,"48x48, blue and white, circular, arrows, lines, disabled, icon, standard, no text."
+../training_data_raw/components_material_design/Input_Chip.svg,"Size: 109.00 x 32.00, Colors: #fffbfe, #79747.00e, Shapes: Rectangles, Text: ""Input Enabled"", Elements: ClipPath, Use, Strokes: 2.00."
+../training_data_raw/components_material_design/Switch_Off.svg,"Size: 52.00 x 32.00, 
+Colors: #e7.00e0.00ec, #79747.00e, 
+Shapes: rectangle, circle, 
+Elements: clipPath, use, 
+Strokes: 4.00, 
+Text: none."
+../training_data_raw/components_material_design/Generic_Avatar.svg,"Size: 24.00x24.00, Shape: Rectangles, Circles, Path, Colors: #49454.00e, Elements: Avatar, Strokes: 2.00, Text: None."
+../training_data_raw/components_material_design/Filled_Text_Field_+_Suffix_[focused].svg,"Size: 124x56, Colors: #e700e0ec, #6750a4, #49454e, #1c1b1f, Shapes: rectangle, path, text, Elements: clipPath, viewBox, defs, g, Strokes: none, Text: ""lbs"", ""|"", ""143.00"", ""Label Text"", Font: Roboto, Font-size: 16px, 12px, Font-weight: 400, LengthAdjust: spacingAndGlyphs, Baseline: ideographic."
+../training_data_raw/components_material_design/Docked_Search_View.svg,"Size: 360x340, Colors: #fffbfe, #6750a4, #f9dedc, #ffd8e4, #eaddff, #c4c7c5, #4100e0, #3700b1, #21005, Shapes: rectangle, path, text, Elements: clipPath, use, defs, Strokes: #c4c7c5, Text: Headline, time, event title, event description, initials."
+../training_data_raw/components_material_design/Navigation_Rail_Active_Label_Only_+_Menu.svg,
+../training_data_raw/components_material_design/Suggestion_Chip_[disabled].svg,"Size: 160.00 x 32.00, 
+Colors: #1.00c1.00b1.00f, opacity .12.00 and .38.00, 
+Shapes: rectangle with rounded corners (rx=8.00), 
+Elements: clipPath, defs, path, text, 
+Strokes: stroke=""#1.00c1.00b1.00f"", 
+Text: ""Suggestion Disabled"", font-family: Roboto, font-size: 14.00px, font-weight: 500.00, letter-spacing: .1.00px, lengthAdjust: spacingAndGlyphs, textLength: 128.90, white-space: pre, dominant-baseline: ideographic."
+../training_data_raw/components_material_design/Filled_Text_Field_+_LeadingTrailing_Icon_[error].svg,"Size: 340x56, Colors: #e7.00e0.00ec, #b3261.00e, #49454.00e, Shapes: rectangle, path, Text: Roboto, Supporting Text, Label Text, Elements: clipPath, viewBox, LeadingTrailing Icon, Strokes: none."
+../training_data_raw/components_material_design/Filter_Chip_On_[disabled].svg,"Size: 139x32, Colors: #1.00c1.00b1.00f, Shapes: Rect, ClipPath, Path, Text, Elements: Filter chip, Opacity, Fill, Strokes: None, Text: ""Filter Disabled"", Font: Roboto, Font-size: 14px, FontWeight: 500."
+../training_data_raw/components_material_design/Switch_On_+_Icon.svg,"Size: 52.00 x 32.00, Colors: #6750.00a4.00, #fff, #21005.00e, Shapes: rectangle, ellipse, path, Elements: switch, icon, Strokes: none, Text: none."
+../training_data_raw/components_material_design/Suggestion_Chip_+_Icon_[disabled].svg,"Size: 178.00 x 32.00
+Colors: #1.00c1.00b1.00f (blue)
+Shapes: Rectangle with rounded corners (rx=8.00)
+Elements: Text, suggestion icon
+Strokes: Blue border around the rectangle
+Text: ""Suggestion Disabled"" in Roboto font, 14.00px, bold, blue color, with letter-spacing of 0.1.00px."
+../training_data_raw/components_material_design/Outlined_Text_Field_+_Suffix_[focused].svg,"Outlined text field, suffix, focused, rectangular shape, rounded corners, stroke width, gray stroke color, white fill color, label text, weight unit, text alignment, font style, font size, font color."
+../training_data_raw/components_material_design/Segmented_Button.svg,"Size: 306x48, Colors: #79747.00e, #1.00c1.00b1.00f, Shapes: rectangles, paths, Elements: text, strokes, clip paths, Text: ""Enabled"", LengthAdjust: spacingAndGlyphs."
+../training_data_raw/components_material_design/Modal_Navigation_Drawer.svg,
+../training_data_raw/components_material_design/Filled_Suggestion_Chip_[disabled].svg,"Size: 160x32
+Colors: #1.00c1.00b1.00f, opacity .12.00 and .38.00
+Shapes: rectangle with rounded corners (rx=8.00)
+Elements: clipPath, defs, g, rect, text
+Strokes: none
+Text: ""Suggestion Disabled"", font-family: Roboto, font-size: 14.00px, font-weight: 500.00, letter-spacing: .1.00px, white-space: pre, fill: #1.00c1.00b1.00f"
+../training_data_raw/components_material_design/Image_Placeholder.svg,"Size: 56.00x56.00, Colors: #c4.00c7.00c5.00, #49454.00e, Shapes: circle, path, Strokes: 4.00, Elements: clipPath, defs, use, Text: none."
+../training_data_raw/components_material_design/Outlined_Text_Field_+_Support_Content.svg,"Outlined text field, support content, rectangular shape, rounded corners, clip paths, stroke width, stroke color, label text, supporting text, text length."
+../training_data_raw/components_material_design/Outlined_Text_Field_[disabled].svg,"Outlined text field, disabled, rectangular shape, 340x56 size, stroke width 2, stroke color #1.00c1.00b1.00f, clip paths, text length 73.11, font family Roboto, font size 16, label text."
+../training_data_raw/components_material_design/Elevated_Filter_Chip_Off.svg,"Size: 117x32, Colors: #fffbfe, #6750a4, Shapes: rectangle, clip path, Text: ""Filter Enabled"", Font: Roboto, Elements: filter, clip path, strokes: none."
+../training_data_raw/components_material_design/Outlined_Text_Field_+_LeadingTrailing_Icon_[populated_disabled].svg,"Outlined text field, leading/trailing icon, populated/disabled, rectangular shape, rounded corners, stroke width 2, stroke color #1.00c1.00b1.00f, fill color none/opacity .12, label text, font family Roboto, font size 16/12, text color #1.00c1.00b1.00f, text alignment left, length adjust spacing and glyphs, letter spacing .4px."
+../training_data_raw/components_material_design/3_Lines_Img_List_+_Control.svg,"Size: 360x88, Colors: #fffbfe, #c4c7c5, #6750a4, #fff, #1c1b1f, #49454e, #e7e0ec, Shapes: rectangle, circle, path, text, Elements: lines, images, text, Strokes: 4px, 2px, Text: headline, supporting text, Keywords: SVG, clip-path, viewBox, fill, opacity, dominant-baseline, textLength, lengthAdjust, font-family, letter-spacing, font-weight, white-space."
+../training_data_raw/components_material_design/Switch_On.svg,"Size: 52.00 x 32.00, Colors: #6750.00a4.00, #fff, Shapes: rectangle, circle, Elements: clipPath, defs, g, Strokes: none, Text: none."
+../training_data_raw/components_material_design/Filled_Text_Field_+_Support_Content_[error].svg,"size: 340x56, 
+colors: #e700ec, #b3261e, #49454e, 
+shapes: rectangle, path, 
+elements: text, clipPath, 
+strokes: none, 
+text: Supporting Text, Label Text, 6/30."
+../training_data_raw/components_material_design/Search_Bar_+_Avatar.svg,"Size: 360x56, Colors: #fffbfe, #6750a4, #49454e, #1c1b1f, Shapes: rectangle, circle, path, Elements: search bar, avatar, strokes, Text: hinted text."
+../training_data_raw/components_material_design/Menu_Search_Bar_+_Action_+_More.svg,"Size: 360x56, 
+Colors: #fffbfe, #6750.00a4, #49454.00e, 
+Shapes: rectangle, path, 
+Elements: search bar, action button, more button, 
+Strokes: none, 
+Text: hinted text, Roboto font, 16.00px, letter-spacing: .4.00px."
+../training_data_raw/components_material_design/Day_Mode_Scrim.svg,"Size: 390x844, Colors: black, Shapes: rectangle, Elements: clipPath, opacity, g, path, Strokes: none, Text: none."
+../training_data_raw/components_material_design/Elevated_Large_Top_App_Bar.svg,"Elevated, Large, Top App Bar, Size: 390x152, Colors: #fffbfe, #6750.00a4.00, #1.00c1.00b1.00f, Shapes: rectangle, rounded corners, Elements: text, path, clipPath, Strokes: none, Text: ""Large Top Bar"", Font: Roboto, Font size: 28.00px, Font weight: 400.00, Text color: #1.00c1.00b1.00f."
+../training_data_raw/components_material_design/3_Lines_Checkbox_List_[disabled].svg,"Size: 360x88, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangle, clipPath, path, Elements: checkbox, text, Strokes: 4.00, Text: Roboto, 16.00px, Headline, Supporting text, Keywords: disabled, viewBox, fill, opacity, dominant-baseline, textLength, lengthAdjust, clip-path, rx, width, height."
+../training_data_raw/components_material_design/2_Lines_Checkbox_List.svg,"Size: 360x72, Colors: #fffbfe, #49454.00e, #1.00c1.00b1.00f, #fff, #6750.00a4.00, Shapes: Rectangles, Paths, Text, Elements: Checkboxes, Supporting Text, Headline, Strokes: 4.00, Text: Roboto, Short, Spacing, Glyphs, Letter-spacing, Dominant-baseline, White-space, Font-size, Font-weight."
+../training_data_raw/components_material_design/3_Lines_Img_List_[disabled].svg,"Size: 360x88, Colors: #fffbfe, #e7.00e0.00ec, #c4.00c7.00c5.00, #1.00c1.00b1.00f, #49454.00e, Shapes: lines, rectangles, circles, Elements: text, clipPath, path, strokes, Text: headline and supporting text, Opacity: .38.00, .4.00."
+../training_data_raw/components_material_design/Tertiary_FAB_Small.svg,"Size: 40.00
+Colors: #ffd8.00e4.00, #6750.00a4.00, #370.00b1.00e
+Shapes: rect, path
+Elements: clipPath, filter, g, defs, feFlood, feColorMatrix, feOffset, feGaussianBlur, feBlend
+Strokes: none
+Text: none"
+../training_data_raw/components_material_design/Input_Chip_+_Icon_[disabled].svg,"Size: 135.00 x 32.00
+Colors: #1.00c1.00b1.00f, #fffbfe
+Shapes: Rectangles, paths
+Elements: Clip paths, use, text
+Strokes: 2.00
+Text: ""Input Disabled""
+Keywords: SVG, fill, viewBox, clipPath, opacity, dominant-baseline, text-transform, font-family, letter-spacing, font-weight, white-space, font-size."
+../training_data_raw/components_material_design/1_Line_Avatar_List_+_Control.svg,"Size: 360x56, Colors: #fffbfe, #6750.00a4.00, #fff, #1.00c1.00b1.00f, #eaddff, Shapes: rectangle, path, text, Elements: avatar, headline, Control, Strokes: none, Text: Roboto, 16.00px, 400.00, 500.00, letter-spacing."
+../training_data_raw/components_material_design/Double_Continuous_Slider.svg,"Size: 320x20, Colors: #e7.00e0.00ec, #6750.00a4.00, Shapes: rect, ellipse, path, Elements: sliders, filters, clip paths, Strokes: none, Text: none."
+../training_data_raw/components_material_design/Docked_Search_View_+_Quick_Results.svg,"Docked, Search View, Quick Results, size, colors, shapes, elements, strokes, text, peanut, recipes."
+../training_data_raw/components_material_design/Linear_25%_Progress_Indicator.svg,"Size: 320x4, Colors: #e700e0, #00ec, #6750a4, Shapes: rectangle, Elements: clipPath, g, path, Strokes: none, Text: none."
+../training_data_raw/components_material_design/Filled_Text_Field_+_Trailing_Icon_[focused].svg,"Size: 340x56, Colors: #e700e0ec, #6750a4, #49454e, #1c1b1f, Shapes: rectangle, path, text, Elements: clipPath, viewBox, g, Strokes: none, Text: Roboto, 16px, 12px, fill, lengthAdjust, letter-spacing, dominant-baseline, white-space."
+../training_data_raw/components_material_design/Bottom_App_Bar_+_FAB.svg,"Size: 390x80, Colors: #fffbfe, #6750.00a4, #eaddff, #21005.00e, #0.00, Shapes: rectangles, circles, paths, Elements: Bottom App Bar, FAB, Strokes: none, Text: none."
+../training_data_raw/components_material_design/1_Line_Img_List_[disabled].svg,"Size: 360x56, Colors: #fffbfe, #e7.00e0.00ec, #c4.00c7.00c5.00, #1.00c1.00b1.00f, #49454.00e, Shapes: rectangle, ellipse, path, text, Elements: clipPath, defs, use, g, Strokes: 4.00, 2.00, Text: ""Headline"", Font: Roboto, Font size: 16.00px, Letter spacing: .4.00px."
+../training_data_raw/components_material_design/Assist_Chip_+_Icon_[disabled].svg,"Size: 147x32, Colors: #1.00c1.00b1.00f, Shapes: Rectangular with rounded corners, Elements: Chip icon, Text, Strokes: 2.00, Text: ""Assist Disabled"", Keywords: Assist_Chip_+_Icon_[disabled], clipPath, viewBox, opacity, fill, stroke-width, dominant-baseline, text-transform, font-family, letter-spacing, font-weight, white-space, font-size."
+../training_data_raw/components_material_design/Single-line_Snackbar_+_Action_+_Close.svg,"Size: 327x48, Colors: #313033, #6750a4, #49454e, #d0bcff, #f4eff4, Shapes: rectangle, rounded corners, text box, Elements: close icon, action text, message text, Strokes: none, Text: Roboto font, 14px, bold and regular weights, letter-spacing."
+../training_data_raw/components_material_design/1_Line_Avatar_List_+_Control_[disabled].svg,"Size: 360x56, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangle, circle, rounded rectangle, Elements: avatar, text, Strokes: none, Text: ""Headline"", Font: Roboto, Font size: 16px."
+../training_data_raw/components_material_design/Large_Badge.svg,"Size: 16.00x16.00, Colors: #b3261.00e, Shapes: rectangle with rounded corners, Elements: clipPath, g, text, Strokes: none, Text: ""1.00"", Font: Roboto, Font size: 11.00px, Letter spacing: 5.00px."
+../training_data_raw/components_material_design/Outlined_Text_Field_+_Prefix_[populated_disabled].svg,"Outlined text field, prefix, populated, disabled, size 124x56, rounded corners, stroke width 2, stroke color #1c1b1f, text color #1c1b1f, text font Roboto, text size 12px, text alignment left, prefix symbol $, prefix position left, prefix color #1c1b1f, label text, label position center, label color #1c1b1f, label opacity 0.38."
+../training_data_raw/components_material_design/Navigation_Bar_4_Items_+_Labels.svg,"Size: 390x80, Colors: #fffbfe, #6750a4, #e800de, #b32610, #49454e, Shapes: rectangles, ellipses, paths, Elements: navigation bar, labels, icons, Strokes: none, Text: ""Settings"", ""Cart"", ""Contribute"", ""Home"", font-family: Roboto, font-size: 11px, font-weight: 500."
+../training_data_raw/components_material_design/Checkbox_[selected_error].svg,"Size: 18.00
+Colors: #b3261.00e, #fff
+Shapes: rectangle, path
+Elements: checkbox, clipPath
+Strokes: none
+Text: none"
+../training_data_raw/components_material_design/2_Lines_Avatar_List_[disabled].svg,"Size: 360x72, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangle, circle, Elements: avatar, text, Strokes: none, Text: Roboto font, 2 lines, supporting text, headline, letter-spacing."
+../training_data_raw/components_material_design/2_Lines_List.svg,"Size: 360x72, Colors: #fffbfe, #49454.00e, #1.00c1.00b1.00f, Shapes: rectangle, path, Text: short supporting text, headline, Elements: clipPath, viewBox, fill, lengthAdjust, style, Strokes: none."
+../training_data_raw/components_material_design/Action_Outlined_Card.svg,"Size: 280x160, Rectangular shape, Rounded corners, Stroke width: 2, Colors: #fffbfe, #79747.00e, #6750.00a4.00, Text: Roboto font, Headline, Supporting Text, Action, Text color: #0.00, #fff, Text size: 12px, 14px, 16px, Text length adjust: spacingAndGlyphs, Letter spacing: 0.1px, 0.4px, Elements: Clip paths, Masks, Use, Rect."
+../training_data_raw/components_material_design/Navigation_Rail_No_Header.svg,"size: 80x720, colors: #fffbfe, #e8.00def8.00, #49454.00e, #b3261.00e, #1.00c1.00b1.00f, shapes: rectangles, circles, paths, text, elements: navigation items (Specials, Favorites, Products, Cart), strokes: none, text: Roboto font, various sizes and colors."
+../training_data_raw/components_material_design/Settings_Menu_Item.svg,"Size: 78x52, Colors: #49454.00e, #b3261.00e, Shapes: rectangle, ellipse, Elements: text, path, g, Strokes: none, Text: ""Settings"", font-family: Roboto, font-size: 12.00px, font-weight: 500.00, letter-spacing: 5.00px."
+../training_data_raw/components_material_design/1_Line_Option_List_+_Control_[disabled].svg,"Size: 360x56, 
+Colors: #fffbfe, #1.00c1.00b1.00f, 
+Shapes: rectangle, circle, 
+Elements: text, clipPath, use, 
+Strokes: 4.00, 
+Text: Headline, 100.00+, 
+Keywords: disabled, viewBox, clipPath, opacity, fill, stroke-width, lengthAdjust, dominant-baseline, text-transform, font-family, letter-spacing, font-weight, white-space, font-size."
+../training_data_raw/components_material_design/Input_Chip_+_Close_[disabled].svg,"Size: 135.00 x 32.00, Colors: #1.00c1.00b1.00f, #fffbfe, Shapes: Rectangles, Elements: ClipPath, Use, Path, Text, Strokes: 2.00, Text: ""Input Disabled"", Font: Roboto, FontWeight: 500.00, FontSize: 14.00px."
+../training_data_raw/components_material_design/Outlined_Text_Field_+_LeadingTrailing_Icon_[error].svg,"Outlined text field, leading/trailing icon, error, size 340x56, rectangular shape, rounded corners, stroke width 2, color #b3261.00e, supporting text, label text, Roboto font, font size 12/16, letter spacing 0.4, fill color #b3261.00e/#49454.00e."
+../training_data_raw/components_material_design/3_Lines_Icon_List_[disabled].svg,"Size: 360x88, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangle, text box, Elements: lines, text, Strokes: none, Text: supporting text, headline, Roboto font, multiple lines, dominant-baseline, textLength, lengthAdjust, letter-spacing, white-space."
+../training_data_raw/components_material_design/Outlined_Text_Field_+_Leading_Icon_[disabled].svg,"Outlined text field, leading icon, disabled, SVG, fill, viewBox, clipPath, path, opacity, stroke-width, stroke, text, x, y, textLength, lengthAdjust, dominant-baseline, font-family, letter-spacing, font-weight, white-space, font-size, label text, icon path, size, colors, shapes, elements, strokes."
+../training_data_raw/components_material_design/Surface_FAB_Extended.svg,"Size: 163x56, Colors: #fffbfe, #6750.00a4.00, Shapes: rectangle, rounded rectangle, Elements: text, FAB icon, Strokes: none, Text: ""Extended FAB"", Font: Roboto, Font weight: 500, Font size: 14, Letter spacing: 0.4px."
+../training_data_raw/components_material_design/Elevated_Medium_Top_App_Bar.svg,"Size: 390x112, Colors: #fffbfe, #6750.00a4, #1.00c1.00b1.00f, Shapes: rectangle, rounded corners, Elements: top app bar, text, icon, Strokes: none, Text: ""Medium Top Bar"", Font: Roboto, Font size: 24px."
+../training_data_raw/components_material_design/Contribute_Menu_Button.svg,"Size: 78.00 x 52.00, Colors: #49454.00e, Shapes: path, text, Elements: g, LengthAdjust, Strokes: none, Text: Contribute, Keywords: button, menu, contribute, text, path, fill, viewBox, dominant-baseline, letter-spacing, font-family, font-size."
+../training_data_raw/components_material_design/Secondary_Tab_+_Icon.svg,"Size: 360x64, Colors: #fffbfe, #e7.00e0.00ec, #49454.00e, #6750.00a4, Shapes: rectangle, path, text, Elements: clipPath, use, defs, Strokes: 2.00, Text: ""Archived"", ""Albums"", ""Screenshots""."
+../training_data_raw/components_material_design/Outlined_Text_Field_+_Support_Content_[disabled].svg,"Outlined text field, support content, disabled, size 340x56, rectangle shape, rounded corners, stroke width 2, stroke color #1c1b1f, text color #1c1b1f, supporting text, label text, text length adjust, clip paths, opacity."
+../training_data_raw/components_material_design/Elevated_Small_Top_App_Bar.svg,"Size: 390x64, Elevated, Small, Top, Bar
+Colors: #fffbfe, #6750.00a4.00, #49454.00e, #1.00c1.00b1.00f
+Shapes: Rectangles, Paths
+Elements: Text, Arrow
+Strokes: None
+Text: ""Small Top Bar"", Roboto, 22.00px, White-space: pre"
+../training_data_raw/components_material_design/Menu_Search_Bar_+_Action_+_Avatar.svg,"Size: 360x56, Colors: #fffbfe, #6750.00a4, #49454.00e, Shapes: rectangle, circle, path, Elements: search bar, action button, avatar, Strokes: none, Text: hinted text, Roboto font, 16.00px, letter-spacing: .4.00px."
+../training_data_raw/components_material_design/Outlined_Text_Field_+_LeadingTrailing_Icon_[focused_error].svg,"Outlined text field, leading/trailing icon, focused error, rectangular shape, rounded corners, clip path, stroke width, supporting text, label text, Roboto font, color scheme."
+../training_data_raw/components_material_design/1_Line_Avatar_List.svg,"Size: 360x56, 
+Colors: #fffbfe, #eaddff, #1.00c1.00b1.00f, #21005.00e, 
+Shapes: rectangle, path, 
+Elements: clipPath, defs, g, text, 
+Strokes: none, 
+Text: ""Headline"", ""A"", 
+Attributes: viewBox, clip-path, fill, rx, x, y, width, height, textLength, lengthAdjust, dominant-baseline, text-transform, font-family, letter-spacing, font-weight, white-space, font-size."
+../training_data_raw/components_material_design/Card_Elevated_[disabled].svg,"Size: 180x120, Colors: #fffbfe, #6750a4, Shapes: rectangle, rounded corners, Elements: filter, clipPath, opacity, Strokes: none, Text: none."
+../training_data_raw/components_material_design/Icon_Button_Filled_Toggle_[Selected].svg,"Size: 48.00
+Colors: #6750.00a4.00, #fff
+Shapes: rectangle, circle, path
+Elements: clipPath, g, defs
+Strokes: none
+Text: none
+Keywords: filled, toggle, selected, clip-path, viewBox, rx, width, height, fill, path, viewBox, clipPath, rect, g, defs, circle."
+../training_data_raw/components_material_design/Secondary_Tab.svg,"Size: 360x48, Colors: #fffbfe, #e7.00e0.00ec, #6750.00a4.00, Shapes: paths, Text: ""Archived"", ""Albums"", ""Screenshots"", Elements: clipPath, use, stroke-width, stroke, opacity, lengthAdjust, dominant-baseline."
+../training_data_raw/components_material_design/Icon_Button_Outlined_[Disabled].svg,"Outlined, disabled, icon button, 48x48, rectangle, rounded corners, stroke, blue (#1.00c1.00b1.00f), opacity, clip path, path, textless."
+../training_data_raw/components_material_design/Graph_Filled_Card.svg,"Size: 180x180, Colors: #e700e0ec, #675000a4, Shapes: rectangle, path, text, Elements: clipPath, viewBox, fill, clip-rule, fill-rule, Strokes: none, Text: +22.00 of target, 537.00, Conversion."
+../training_data_raw/components_material_design/2_Lines_Checkbox_List_+_Control_[disabled].svg,"Size: 360x72, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangle, path, text, Elements: checkbox, text, Strokes: 4.00, Text: Roboto, 11.00px, 14.00px, 16.00px, 100.00+, Short supporting text, Headline."
+../training_data_raw/components_material_design/2_Lines_Img_List.svg,"Size: 360x72, Colors: #fffbfe, #c4c7c5, #49454e, #1c1b1f, #e7e0ec, Shapes: lines, rectangles, circles, Elements: text, clipPath, path, use, Strokes: varying widths and colors, Text: headline and supporting text."
+../training_data_raw/components_material_design/Button_Outlined.svg,"Size: 146x40, 
+Colors: #0.00, #79747.00e, #6750.00a4.00, #fff, 
+Shapes: rectangle, rounded corners, 
+Elements: clipPath, mask, use, 
+Strokes: 2.00, 
+Text: Roboto, 14.00px, 500.00 weight, lengthAdjust, textLength, letterSpacing, white-space, pre, dominant-baseline, fill."
+../training_data_raw/components_material_design/Filled_Text_Field_[disabled].svg,"Size: 340x56, Colors: #1.00c1.00b1.00f, Shapes: rectangle, clipPath, path, Elements: text, Strokes: none, Text: Label Text, Font: Roboto, Size: 16px, Opacity: 4.00%, .38.00%."
+../training_data_raw/components_material_design/Icon_Button_Outlined_Toggle_[Selected].svg,"Outlined, Toggle, Selected, Icon, Button, Rectangular, Rounded corners, Purple, White, Arrow, Strokes, No text."
+../training_data_raw/components_material_design/Button_Elevated_[disabled].svg,"Size: 146.01 x 40.00, 
+Colors: #6750.00a4.00, #1.00c1.00b1.00f, 
+Shapes: rectangle with rounded corners (rx=20.00), 
+Elements: clipPath, defs, g, path, rect, text, 
+Strokes: none, 
+Text: ""Elevated Button"", 
+Attributes: opacity="".12.00"", opacity="".38.00"", textLength=""98.49"", lengthAdjust=""spacingAndGlyphs"", style=""dominant-baseline:ideographic;text-transform:none;font-family:Roboto;letter-spacing:.1.00px;font-weight:500.00;white-space:pre;font-size:14.00px;fill:#1.00c1.00b1.00f""."
+../training_data_raw/components_material_design/Two-line_Snackbar.svg,"Size: 206x68, Colors: #313033, #6750a4, Shapes: rectangle with rounded corners, Elements: text, Strokes: none, Text: two-line snackbar message, without action."
+../training_data_raw/components_material_design/Segmented_Button_[no_icons].svg,"Size: 228x48, Colors: #79747.00e, Shapes: rectangles, Paths: clipPath, stroke, Text: Enabled, lengthAdjust, textLength."
+../training_data_raw/components_material_design/Outlined_Text_Field_+_Suffix_[focused_error].svg,"Outlined text field, suffix, focused error, rectangular shape, rounded corners, stroke, red color, supporting text, label text, Roboto font."
+../training_data_raw/components_material_design/Linear_75%_Progress_Indicator.svg,"Linear, 75%, Progress Indicator, SVG, ViewBox, ClipPath, Path, Fill, Colors, Shapes."
+../training_data_raw/components_material_design/1_Line_Img_List.svg,"Size: 360x56, Colors: #fffbfe, #c4c7c5, #1c1b1f, #49454e, Shapes: rectangle, circle, path, Elements: text, clipPath, defs, g, Strokes: 4px, Text: ""Headline"", Font: Roboto."
+../training_data_raw/components_material_design/Button_Tonal_+_Icon.svg,"Size: 145.00,40.00
+Colors: #e8.00def8.00, #1.00e192.00b
+Shapes: Rect, Path, Text
+Elements: ClipPath, ViewBox, Defs
+Strokes: None
+Text: Tonal Button
+Keywords: Button, Tonal, Icon, Fill, ViewBox, ClipPath, Rect, Path, TextLength, LengthAdjust."
+../training_data_raw/components_material_design/Icon_Button_Tonal_Toggle_[Unselected].svg,"Keywords: Icon, Button, Tonal, Toggle, Unselected, Size: 48x48, Colors: #e700e0ec, #49454.00e, Shapes: Rectangle, Path, Strokes: None, Text: None, Elements: Toggle switch, Arrow, Circle, Lines."
+../training_data_raw/components_material_design/Icon_Button_Tonal_[Disabled].svg,"Size: 48.00
+Colors: #1.00c1.00b1.00f
+Shapes: rectangle, rounded corners
+Elements: icon, button
+Strokes: none
+Text: none
+Opacity: .12.00, .38.00
+Disabled state: yes
+Accessibility: none"
+../training_data_raw/components_material_design/1_Line_Img_List_+_Control_[disabled].svg,"Size: 360x56, Colors: #fffbfe, #e7.00e0.00ec, #1.00c1.00b1.00f, #c4.00c7.00c5.00, #49454.00e, Shapes: rectangle, circle, path, text, Elements: clipPath, defs, g, use, Strokes: 4.00, 2.00, Text: ""Headline"", Font: Roboto, Font-size: 16.00px."
+../training_data_raw/components_material_design/Suggestion_Chip_+_Icon.svg,"Size: 177x32
+Colors: #79747.00e, #49454.00e
+Shapes: rectangle, rounded corners, text box, arrow
+Elements: clipPath, use, path, rect, text
+Strokes: 2.00
+Text: ""Suggestion Enabled"", Roboto font, 14.00px, bold, letter-spacing: .1.00px
+Keywords: chip, icon, suggestion, enabled, rectangle, rounded corners, arrow, clipPath, use, path, rect, text, stroke, Roboto font, bold, letter-spacing."
+../training_data_raw/components_material_design/Small_Badge.svg,"Size: small, 6x6, 
+Colors: #b3261, 
+Shapes: circle, 
+Elements: none, 
+Strokes: none, 
+Text: none."
+../training_data_raw/components_material_design/Switch_On_[disabled].svg,"size: 52x32, colors: #1c1b1f, #ffbfe, shapes: rectangle, circle, elements: opacity, fill, strokes: none, text: none."
+../training_data_raw/components_material_design/Button_Outlined_[disabled].svg,"Size: 146x40, 
+Colors: #1.00c1.00b1.00f, opacity, 
+Shapes: rectangle with rounded corners, 
+Elements: text, 
+Strokes: stroke color, 
+Text: Roboto font, 14px font size, 500 font weight, letter spacing, length adjust, dominant baseline."
+../training_data_raw/components_material_design/2_Lines_List_+_Control_[disabled].svg,"Size: 360x72, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangles, paths, Elements: lines, text, Strokes: none, Text: Roboto font, Headline, Short supporting text."
+../training_data_raw/components_material_design/Filled_Text_Field_+_Support_Content_[disabled].svg,"Size: 340x56, Colors: #1.00c1.00b1.00f, Shapes: rectangle, Elements: text, clipPath, path, Strokes: none, Text: Supporting Text, Label Text, 6.00/30.00, Font: Roboto, Attributes: fill, opacity, viewBox, dominant-baseline, textLength, lengthAdjust."
+../training_data_raw/components_material_design/Navigation_Bar_5_Items.svg,"Size: 390x80, Colors: #fffbfe, #6750a4, #e800de, #b3261e, #49454e, Shapes: rectangles, ellipses, paths, Elements: navigation bar, text, Strokes: none, Text: ""1.00"""
+../training_data_raw/components_material_design/Cart_Menu_Item.svg,"Size: 78x52, Colors: #b3261.00e, #49454.00e, #fff, Shapes: rectangle, path, text, Elements: cart, menu item, strokes, Text: ""Cart"", ""1.00"", Font: Roboto, Attributes: clip-path, viewBox, fill, lengthAdjust, dominant-baseline, letter-spacing, white-space."
+../training_data_raw/components_material_design/Two-line_Snackbar_+_Action.svg,"Size: 275.01 x 68.00, Colors: #313033, #6750a4, Shapes: rectangle, clip path, path, Text: Roboto font, 14.00px, bold, white-space, lengthAdjust, dominant-baseline, letter-spacing, Elements: filter, feFlood, feColorMatrix, feOffset, feGaussianBlur, feBlend, Strokes: none."
+../training_data_raw/components_material_design/Elevated_Assist_Chip_+_Icon_[disabled].svg,"Size: 145x32, Colors: #1.00c1.00b1.00f, Shapes: rectangle, rounded corners, Elements: assist chip, disabled icon, Strokes: none, Text: ""Assist Disabled"", Font: Roboto, Font size: 14px, Text color: #1.00c1.00b1.00f."
+../training_data_raw/components_material_design/2_Lines_Avatar_List_+_Control.svg,"Size: 360x72, Colors: #fffbfe, #6750.00a4.00, #fff, #49454.00e, #1.00c1.00b1.00f, #eaddff, Shapes: rectangle, path, text, Elements: avatar, list, control, Strokes: none, Text: Roboto, short supporting text, headline, letter-spacing."
+../training_data_raw/components_material_design/Secondary_FAB_Small.svg,"Size: 40.00
+Colors: #e8.00def8.00, #6750.00a4.00, #1.00e192.00b
+Shapes: rectangle, path
+Elements: filter, clipPath, g
+Strokes: none
+Text: none"
+../training_data_raw/components_material_design/Bottom_Sheet.svg,"Size: 390x180, Colors: #fffbfe, #6750a4, Shapes: rectangle, path, Elements: clipPath, g, Strokes: none, Text: none."
+../training_data_raw/components_material_design/Small_FAB.svg,"Size: 40.00
+Colors: #eaddff, #6750.00a4, #21005.00e
+Shapes: rectangle, path
+Elements: filter, clipPath, g
+Strokes: none
+Text: none"
+../training_data_raw/components_material_design/Night_Mode_Scrim.svg,"Night mode, scrim, SVG, viewBox, clipPath, opacity, rectangle, black, transparent, no text."
+../training_data_raw/components_material_design/Surface_FAB_Small.svg,"Size: 40.00 x 40.00, Colors: #fffbfe, #6750.00a4.00, Shapes: rectangle, path, Elements: filter, clipPath, g, Strokes: none, Text: none."
+../training_data_raw/components_material_design/Filled_Text_Field_[populated_disabled].svg,"Size: 340x56, Colors: #1.00c1.00b1.00f, Shapes: rectangle, path, Text: ""Eli"" and ""Label Text"", Elements: clipPath, viewBox, opacity, fill, Strokes: none."
+../training_data_raw/components_material_design/Two-line_Snackbar_+_Action_+_Close.svg,"Size: 303.01 x 68.00, Colors: #313033, #6750a4, #49454e, Shapes: rectangle, clipPath, path, text, Elements: Snackbar, Action, Close, Strokes: none, Text: Roboto, 14.00px, bold, white-space, pre, lengthAdjust, spacingAndGlyphs, dominant-baseline, fill."
+../training_data_raw/components_material_design/Secondary_FAB_Large.svg,"Size: 96.00x96.00, Colors: #e8.00def8.00, #6750.00a4.00, Shapes: rectangle, circle, Elements: filter, clipPath, path, Strokes: none, Text: none."
+../training_data_raw/components_material_design/Switch_On_+_Icon_[disabled].svg,"Size: 52.00 x 32.00, Colors: #1.00c1.00b1.00f, #fffbfe, Shapes: rect, ellipse, path, Elements: clipPath, g, Strokes: none, Text: none."
+../training_data_raw/components_material_design/Filled_Text_Field_+_Trailing_Icon_[error].svg,"Filled text field, trailing icon, error, size, colors, shapes, elements, strokes, text, supporting text, label text."
+../training_data_raw/components_material_design/Outlined_Text_Field_+_LeadingTrailing_Icon_[focused].svg,"Outlined text field, leading/trailing icon, focused state, rectangular shape, rounded corners, stroke width, stroke color, fill color, label text, Roboto font."
+../training_data_raw/components_material_design/2_Lines_Icon_List_+_Control_[disabled].svg,"Size: 360x72, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: Rectangles, Paths, Text, Elements: Lines, Icons, List, Control, Strokes: 4.00, Text: Roboto, Headline, Short supporting text."
+../training_data_raw/components_material_design/Filled_Text_Field_+_Suffix_[focused_error].svg,"Size: 124x56, Colors: #e700e0ec, #b3261e, #49454e, #1c1b1f, Shapes: rectangle, path, Text: Supporting Text, Label Text, lbs, Strokes: none."
+../training_data_raw/components_material_design/3_Lines_List_+_Control.svg,"Size: 360x88, Colors: #fffbfe, #6750.00a4.00, #fff, #1.00c1.00b1.00f, Shapes: rectangle, path, text, Elements: clipPath, viewBox, defs, g, Strokes: none, Text: supporting text, multiple lines, headline."
+../training_data_raw/components_material_design/Surface_FAB_Large.svg,"Size: 96.00x96.00, Colors: #fffbfe, #6750.00a4.00, Shapes: rectangle, path, Elements: filter, clipPath, g, Strokes: none, Text: none."
+../training_data_raw/components_material_design/2_Lines_Checkbox_List_[disabled].svg,"Size: 360x72, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangle, path, text, Elements: checkbox, supporting text, headline, strokes, Text: Roboto font, Keywords: disabled, opacity, clip-path, viewBox, fill, stroke-width, lengthAdjust, dominant-baseline."
+../training_data_raw/components_material_design/Outlined_Text_Field_[focused_error].svg,"Outlined text field, focused error, 340x56 size, red stroke color, rounded rectangle shape, supporting text, clip paths, white fill, Roboto font, label text."
+../training_data_raw/components_material_design/3_Lines_List_[disabled].svg,"Size: 360x88, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangle, path, Elements: text, Strokes: none, Text: supporting text, multiple lines, headline."
+../training_data_raw/components_material_design/Filled_Text_Field_[focused].svg,"Size: 340x56, Colors: #e700e0ec, #6750a4, #1c1b1f, Shapes: rectangle, path, text, Elements: clipPath, viewBox, defs, g, Strokes: none, Text: Roboto font, 16px and 12px size, letter-spacing, dominant-baseline, lengthAdjust, fill."
+../training_data_raw/components_material_design/Outlined_Text_Field.svg,"Outlined text field, SVG, fill, viewBox, clipPath, rect, rx, width, height, stroke-width, stroke, text, x, y, textLength, lengthAdjust, dominant-baseline, text-transform, font-family, letter-spacing, font-weight, white-space, font-size, fill."
+../training_data_raw/components_material_design/Double_Continuous_Slider_[disabled].svg,"Size: 320x20, Shapes: rectangle, ellipse, circle, Elements: slider, disabled state, Strokes: none, Colors: #1c1b1f, opacity, Text: none."
+../training_data_raw/components_material_design/Image_Filled_Card.svg,"Size: 280x190, Colors: #e7.00e0.00ec, #c4.00c7.00c5.00, #0.00, Shapes: rectangle, path, text, Elements: clipPath, viewBox, defs, Strokes: none, Text: subhead, headline, class."
+../training_data_raw/components_material_design/Icon_Button_Outlined_Toggle_[Unselected].svg,"Outlined, toggle, unselected, 48x48, rectangle, rounded corners, stroke, #79747.00e, path, arrow, lines, dots, fill, #49454.00e."
+../training_data_raw/components_material_design/Input_Filled_Chip_+_Close_[disabled].svg,"Size: 135.00 x 32.00
+Colors: #1.00c1.00b1.00f
+Shapes: Rect, Path
+Elements: ClipPath, G
+Strokes: None
+Text: ""Input Disabled""
+Keywords: SVG, fill, viewBox, clipPath, opacity, rx, lengthAdjust, dominant-baseline, text-transform, font-family, letter-spacing, font-weight, white-space, font-size."
+../training_data_raw/components_material_design/1_Line_List_+_Control_[disabled].svg,"Size: 360x56, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangle, clip paths, Elements: text, path, rect, Strokes: none, Text: ""Headline"", Font: Roboto, Font size: 16px."
+../training_data_raw/components_material_design/Filled_Suggestion_Chip_+_Icon_[disabled].svg,"Size: 178.00 x 32.00
+Colors: #1.00c1.00b1.00f (light blue)
+Shapes: rectangle with rounded corners (rx=8.00)
+Elements: text, icon (disabled suggestion chip)
+Strokes: none
+Text: ""Suggestion Disabled""
+Keywords: disabled, suggestion chip, light blue, rounded rectangle, text, icon."
+../training_data_raw/components_material_design/2_Lines_Icon_List_[disabled].svg,"Size: 360x72, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangle, text, Elements: 2 lines icon, supporting text, headline, Strokes: none, Text: short, supporting, headline, Roboto font, letter-spacing."
+../training_data_raw/components_material_design/Filter_Chip_On.svg,"Size: 138x32, Colors: #e8def8, #1e192b, Shapes: rectangle, clipPath, path, Elements: text, clip-path, g, Strokes: none, Text: ""Filter Enabled"", font-family: Roboto, font-size: 14px, font-weight: 500, letter-spacing: 1px, lengthAdjust: spacingAndGlyphs."
+../training_data_raw/components_material_design/1_Line_Icon_List.svg,"Size: 360x56, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangle, text box, Elements: clipPath, path, text, Strokes: none, Text: ""Headline"", Font: Roboto, Keywords: minimalist, monochromatic, clean, modern, typography, clip-path, viewBox, fill, dominant-baseline, letter-spacing."
+../training_data_raw/components_material_design/Image_Elevated_Card.svg,"Size: 280x190, Colors: #fffbfe, #6750a4, #c4c7c5, Shapes: rectangle, path, Text: subhead, headline, Elements: image, clipPath, filter, strokes: none."
+../training_data_raw/components_material_design/Checkbox_[selected_disabled].svg,"Size: 18.00
+Colors: #1.00c1.00b1.00f, #fffbfe
+Shapes: Rect, Path
+Elements: Checkbox, ClipPath, SVG
+Strokes: None
+Text: None
+Attributes: rx, opacity, fill, viewBox, clip-path, d"
+../training_data_raw/components_material_design/Elevated_Filter_Chip_On.svg,"Size: 135x32, Colors: #e8def8, #6750a4, #1e192b, Shapes: rectangle, path, text, Elements: clipPath, filter, feFlood, feColorMatrix, feOffset, feGaussianBlur, feBlend, Strokes: none, Text: ""Filter Enabled"", Font: Roboto, Font-weight: 500, Font-size: 14px."
+../training_data_raw/components_material_design/Full-screen_Dialog.svg,"Full-screen, dialog, entire screen, actions, tasks, series, headline, text, colors, shapes."
+../training_data_raw/components_material_design/2_Lines_Img_List_[disabled].svg,"Size: 360x72, Colors: #fffbfe, #e7.00e0.00ec, #c4.00c7.00c5.00, #1.00c1.00b1.00f, #49454.00e, Shapes: lines, circles, rectangle, Elements: text, strokes, Text: Headline, Short supporting text."
+../training_data_raw/components_material_design/Icon_Button_Standard_Toggle_[Selected].svg,"Size: 48.00
+Colors: #6750.00a4.00
+Shapes: path
+Elements: toggle button, icon
+Strokes: none
+Text: none"
+../training_data_raw/components_material_design/1_Line_Video_List_+_Control_[disabled].svg,"Size: 360x56, Colors: #fffbfe, #1.00c1.00b1.00f, #e7.00e0.00ec, #c4.00c7.00c5.00, #49454.00e, Shapes: rectangle, ellipse, path, text, Elements: video control, headline, Strokes: 4.00, Text: Roboto, 16.00px, 10+ facts."
+../training_data_raw/components_material_design/Filled_Text_Field_+_LeadingTrailing_Icon_[populated_disabled].svg,"Filled text field, leading/trailing icon, populated/disabled, SVG, clip path, rectangle shape, blue color, white text, Roboto font, stroke opacity."
+../training_data_raw/components_material_design/Input_Chip_+_Icon_+_Close.svg,"size: 157x32, 
+colors: #fffbfe, #49454.00e, #79747.00e, #6750.00a4.00, 
+shapes: rectangle, path, text, 
+elements: chip, icon, close, 
+strokes: 2.00, 
+text: Input Enabled, 
+keywords: clip-path, fill, viewBox, clipPath, defs, rx, width, height, use, path, textLength, lengthAdjust, dominant-baseline, text-transform, font-family, letter-spacing, font-weight, white-space, pre, font-size, fill."
+../training_data_raw/components_material_design/1_Line_List.svg,"Size: 360x56, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangle, path, Elements: clipPath, viewBox, defs, g, Strokes: none, Text: Roboto, 16px, Headline."
+../training_data_raw/components_material_design/Checkbox_[indeterminate_error].svg,"Size: 18.00
+Colors: #b3261.00e, #fff
+Shapes: rectangle, path
+Elements: checkbox, clipPath
+Strokes: none
+Text: none"
+../training_data_raw/components_material_design/Button_Text_+_Icon_[disabled].svg,"Size: 126x40, Colors: #1.00c1.00b1.00f, Shapes: Rectangular, Elements: Text, Icon, Strokes: None, Text: ""Text Button"", Font: Roboto, Font Size: 14px, Letter Spacing: 0.1px, Opacity: 0.38."
+../training_data_raw/components_material_design/Button_Filled_[disabled].svg,"Size: 127.00 x 40.00, 
+Colors: #1.00c1.00b1.00f, 
+Shapes: rectangle with rounded corners (rx=20.00), 
+Elements: clipPath, defs, g, path, rect, text, 
+Strokes: none, 
+Text: ""Filled Button"", 
+Text attributes: x, y, textLength, lengthAdjust, dominant-baseline, text-transform, font-family, letter-spacing, font-weight, white-space, font-size, fill, 
+Opacity: .12.00, .38.00."
+../training_data_raw/components_material_design/2_Lines_Video_List_[disabled].svg,"Size: 360x72, Colors: #fffbfe, #e7.00e0.00ec, #c4.00c7.00c5.00, #1.00c1.00b1.00f, #49454.00e, Shapes: rectangle, circle, path, Elements: text, clipPath, use, Strokes: 4.00, Text: Headline, Short supporting text."
+../training_data_raw/components_material_design/Tertiary_FAB.svg,"Size: 56.00
+Colors: #ffd8.00e4.00, #6750.00a4.00, #370.00b1.00e
+Shapes: Rectangles, Path
+Elements: Filter, ClipPath
+Strokes: None
+Text: None"
+../training_data_raw/components_material_design/1_Line_Option_List_+_Control.svg,"Size: 360x56, Colors: #fffbfe, #6750.00a4.00, #49454.00e, #1.00c1.00b1.00f, Shapes: rectangle, circle, text, Elements: clipPath, use, defs, stroke, Text: ""100.00+"", ""Headline"", Strokes: 4.00px."
+../training_data_raw/components_material_design/Video_Placeholder_[disabled].svg,"Size: 114x64, Colors: #e7.00e0.00ec, #c4.00c7.00c5.00, #49454.00e, Shapes: rectangle, ellipse, path, Elements: clipPath, use, Strokes: 4.00, Text: none."
+../training_data_raw/components_material_design/Switch_Off_+_Icon.svg,"Size: 52.00 x 32.00, 
+Colors: #e7.00e0.00ec, #79747.00e, 
+Shapes: rectangle, circle, path, 
+Elements: switch, icon, 
+Strokes: 4.00, 
+Text: none."
+../training_data_raw/components_material_design/Single_Continuous_Slider_[disabled].svg,"Size: 320x20, Shapes: rect, path, ellipse, Colors: #1.00c1.00b1.00f, Strokes: none, Elements: clipPath, g, Text: none, Disabled: yes."
+../training_data_raw/components_material_design/Filled_Text_Field_+_Trailing_Icon_[focused_error].svg,"Size: 340x56, Colors: #e700e0ec, #b3261e, #1c1b1f, Shapes: rectangle, path, text, Elements: clipPath, viewBox, defs, g, Strokes: none, Text: Supporting Text, Label Text, Trailing Icon, Keywords: filled text field, focused error, clip-path, opacity, dominant-baseline, textLength, lengthAdjust, font-family, letter-spacing, font-weight, white-space."
+../training_data_raw/components_material_design/Navigation_Bar_3_Items.svg,"Size: 390x80, Colors: #fffbfe, #6750a4, #e8def8, #b3261e, #49454e, Shapes: rectangles, paths, ellipses, Strokes: none, Text: ""1.00"" in Roboto font, Keywords: navigation bar, clip paths, fill, opacity, dominant-baseline, letter-spacing, lengthAdjust, viewBox."
+../training_data_raw/components_material_design/Outlined_Card_[disabled].svg,"Outlined_Card_[disabled]: size-180x120, colors-none, shapes-rectangles, elements-clipping paths, strokes-2px, text-none."
+../training_data_raw/components_material_design/Circular_25%_Progress_Indicator.svg,"Circular, 25%, Progress Indicator, size: 100x100, colors: #e700e0ec, #6750a4, shapes: ellipse, path, elements: clipPath, mask, filter, strokes: 8.00, text: none."
+../training_data_raw/components_material_design/2_Lines_Icon_List_+_Control.svg,"Size: 360x72, Colors: #fffbfe, #6750.00a4.00, #fff, #49454.00e, #1.00c1.00b1.00f, Shapes: rectangle, path, text, Elements: lines, icon, list, control, Strokes: none, Text: short supporting text, headline, Keywords: small, colorful, rectangular, lines, icon, list, control, no strokes, text, headline, supporting text."
+../training_data_raw/components_material_design/Double_Discrete_Slider.svg,
+../training_data_raw/components_material_design/2_Lines_Video_List_+_Control.svg,"Size: 360x72, Colors: #fffbfe, #6750a4, #fff, #49454e, #1c1b1f, #c4c7c5, Shapes: rectangle, circle, path, text, Elements: video list, control buttons, supporting text, headline, Strokes: 4px, Text: Roboto font, 14px and 16px, white-space, letter-spacing, lengthAdjust, dominant-baseline."
+../training_data_raw/components_material_design/1_Line_Avatar_List_[disabled].svg,"size: 360x56, colors: #1.00c1.00b1.00f, #fffbfe, shapes: rectangle, circle, elements: avatar, text, strokes: none, text: ""Headline"", font: Roboto, font-weight: 400/500, font-size: 16px, letter-spacing: .4px, .1px, white-space: pre, lengthAdjust: spacingAndGlyphs, dominant-baseline: ideographic."
+../training_data_raw/components_material_design/Small_Top_App_Bar.svg,"Small size, blue and white colors, rectangular shape, clip path, multiple groups, paths, text, Roboto font, no strokes, top bar."
+../training_data_raw/components_material_design/3_Lines_Avatar_List_+_Control.svg,"Size: 360x88, Colors: #fffbfe, #6750.00a4.00, #fff, #1.00c1.00b1.00f, #eaddff, Shapes: rectangle, path, text, Elements: avatar, headline, supporting text, strokes, Text: Roboto font, multiple lines, letter-spacing, font-weight."
+../training_data_raw/components_material_design/2_Lines_Option_List.svg,"Size: 360x72, Colors: #fffbfe, #49454.00e, #1.00c1.00b1.00f, #6750.00a4.00, Shapes: rectangle, circle, text, Elements: clipPath, use, defs, Strokes: 4.00, Text: Roboto, Headline, Short supporting text."
+../training_data_raw/components_material_design/Single-line_Snackbar_+_Action.svg,"Size: 287x48, Colors: #313033, #6750a4, #d0bcff, #f4eff4, Shapes: rectangle, rounded corners, Elements: text, clipPath, filter, Strokes: none, Text: ""Action"", ""Single-line snackbar message"", Font: Roboto, Font-weight: 500, 400, Font-size: 14px, Letter-spacing: 0.1px, 0.2px."
+../training_data_raw/components_material_design/Outlined_Text_Field_+_Leading_Icon.svg,"Outlined text field, leading icon, rectangular shape, rounded corners, clip paths, stroke width, gray color, label text, Roboto font, icon of a magnifying glass."
+../training_data_raw/components_material_design/Filled_Text_Field_+_Leading_Icon.svg,"Size: 340x56, Colors: #e700e0ec, #49454e, Shapes: rectangle, clipPath, path, Elements: text, icon, Strokes: none, Text: Roboto, 16px, Label Text."
+../training_data_raw/components_material_design/3_Lines_Avatar_List_[disabled].svg,"Size: 360x88, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangle, circle, Elements: avatar, text, Strokes: none, Text: headline, supporting text, letter-spacing, font-family, font-size, fill."
+../training_data_raw/components_material_design/Elevated_Assist_Chip.svg,"Size: 125x32, Colors: #fffbfe, #6750a4, #1c1b1f, Shapes: rectangle with rounded corners, Elements: clipPath, filter, text, Strokes: none, Text: ""Assist Enabled"", Font: Roboto, Font-weight: 500, Font-size: 14px, Letter-spacing: 0.1px."
+../training_data_raw/components_material_design/Simple_Dialog_+_Icon.svg,"Size: 300x290, Colors: #fffbfe, #6750a4, #c4c7c5, #1c1b1f, Shapes: rectangle, rounded rectangle, path, Elements: text, icon, Strokes: 2px, Text: Roboto font, Headline, Text Button, LengthAdjust, Dominant-baseline."
+../training_data_raw/components_material_design/Input_Chip_+_Avatar.svg,"size: 133x32, 
+colors: #fffbfe, #79747.00e, #49454.00e, 
+shapes: rectangle, path, 
+elements: clipPath, use, pattern, text, 
+strokes: 2.00, 
+text: Input Enabled, 
+keywords: chip, avatar, clip-path, fill, viewBox, defs, rx, width, height, dominant-baseline, text-transform, font-family, letter-spacing, font-weight, white-space, font-size."
+../training_data_raw/components_material_design/Button_Text_[disabled].svg,"Size: 96x40, Colors: #1c1b1f, #00c1b1, #ffffff, Shapes: rectangle, rounded corners, Elements: text, Text: ""Text Button"", Strokes: none, Opacity: 0.38."
+../training_data_raw/components_material_design/Full-screen_Search_View_+_Quick_Results.svg,"Full-screen, Search View, Quick Results, size, colors, shapes, elements, strokes, text, peanut, recipes, healthy."
+../training_data_raw/components_material_design/Elevated_Assist_Chip_[disabled].svg,"Size: 129x32, 
+Colors: #1.00c1.00b1.00f, 
+Shapes: rectangle with rounded corners, 
+Elements: clip paths, 
+Strokes: none, 
+Text: ""Assist Disabled"", 
+Text attributes: font family - Roboto, font size - 14px, font weight - 500, letter spacing - 0.1px, white space - pre, fill - #1.00c1.00b1.00f."
+../training_data_raw/components_material_design/Filled_Card.svg,"Size: 180x120, 
+Colors: #e700e0, #00ec, 
+Shapes: rectangle, 
+Elements: clipPath, defs, g, path, 
+Strokes: none, 
+Text: none."
+../training_data_raw/components_material_design/Outlined_Text_Field_[focused].svg,"Outlined text field, focused, size 340x56, rounded rectangle shape, stroke color #79747.00e, text color #6750.00a4.00, label text color #6750.00a4.00, label text size 12px, text input color #1.00c1.00b1.00f, text input size 16px, vertical line cursor."
+../training_data_raw/components_material_design/Elevated_Center-aligned_Top_Bar.svg,"size: 390x64, colors: #fffbfe, #6750a4, #ffd8e4, #1c1b1f, shapes: rectangle, clipPath, path, text, elements: TopBar, A letter, strokes: none, text: Center-aligned TopBar, Roboto font, 16px, 22px, 500 font weight."
+../training_data_raw/components_material_design/Segmented_Button_[selected].svg,"Size: 310x48, Colors: #e8def8, #1c1b1f, #1e92b, #79747e, Shapes: rectangles, paths, Elements: text, clipPath, use, Strokes: 2px, Text: ""Enabled"", ""Selected"", Font: Roboto, FontWeight: 500, LetterSpacing: 1px."
+../training_data_raw/components_material_design/Button_Filled_+_Icon.svg,"Size: 145.00,40.00
+Colors: #6750.00a4.00, #fff
+Shapes: Rect, Path
+Elements: ClipPath, Text
+Strokes: None
+Text: Filled Button
+Keywords: Button, Filled, Icon, ClipPath, Rect, Path, Text, Colors, Shapes, Size."
+../training_data_raw/components_material_design/FAB.svg,"Size: 56.00 x 56.00, Colors: #eaddff, #6750.00a4, Shapes: circle, rectangle, Elements: filter, clipPath, g, path, Strokes: none, Text: none."
+../training_data_raw/components_material_design/Search_Bar_+_Action.svg,"Search bar, action, SVG, fill, viewBox, clipPath, path, rect, text, lengthAdjust, style, dominant-baseline, font-family, letter-spacing, font-weight, white-space, font-size, hinted text, colors, shapes, elements, strokes."
+../training_data_raw/components_material_design/Full-screen_Search_View.svg,"Size: 360x360, Colors: #fffbfe, #6750a4, #f9dedc, #ffd8e4, #eaddff, #c4c7c5, #4100e0, #3700b1, #21005, #1c1b1f, Shapes: rectangles, paths, text, Elements: clock, headlines, text boxes, strokes, clip paths, Text: ""8:22 AM"", ""Museum field trip"", ""Movie marathon"", ""Adopt a pup?"", ""Headline"", ""A"", ""Eli|""."
+../training_data_raw/components_material_design/Action_Elevated_Card.svg,"Size: 280x160, 
+Colors: #fffbfe, #6750.00a4.00, #0.00, #79747.00e, 
+Shapes: rectangle, path, 
+Elements: clipPath, mask, filter, 
+Strokes: #fff, #79747.00e, 
+Text: Roboto, 12px, 14px, 16px, #0.00, #6750.00a4.00, supporting text, headline, lengthAdjust, letterSpacing, dominant-baseline, text-transform, font-weight, white-space."
+../training_data_raw/components_material_design/Outlined_Text_Field_+_Prefix_[focused_error].svg,"Outlined text field, prefix, focused error, SVG, fill, viewBox, clipPath, rect, text, lengthAdjust, class, use, clip-path, dominant-baseline, textLength, style, font-family, font-size, letter-spacing, white-space, fill color, stroke, stroke-width, supporting text, label text, size, shapes, elements."
+../training_data_raw/components_material_design/Modal_Side_Sheet.svg,"Size: 256x480, 
+Colors: #fffbfe, #6750.00a4.00, #79747.00e, #c4.00c7.00c5.00, #49454.00e, 
+Shapes: Rectangles, paths, clip paths, masks, 
+Elements: Side sheet title, action button, 
+Strokes: 2.00 stroke width, 
+Text: Roboto font, 14.00px font size, white-space:pre, lengthAdjust=""spacingAndGlyphs"", dominant-baseline:ideographic, font-weight:500.00, letter-spacing:.1.00px."
+../training_data_raw/components_material_design/3_Lines_Checkbox_List.svg,"Size: 360x88, Colors: #fffbfe, #1.00c1.00b1.00f, #6750.00a4.00, Shapes: rectangle, path, text, Elements: checkbox, supporting text, headline, Strokes: none, Text: Roboto, 16.00px, bold, spacingAndGlyphs, white-space, pre, dominant-baseline, textLength, lengthAdjust."
+../training_data_raw/components_material_design/3_Lines_Avatar_List_+_Control_[disabled].svg,"Size: 360x88, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangle, clipPath, path, text, Elements: avatar, headline, supporting text, control, Strokes: none, Text: Roboto, 16px, 500 weight, 38% opacity."
+../training_data_raw/components_material_design/2_Lines_Checkbox_List_+_Control.svg,"Size: 360x72, Colors: #fffbfe, #49454.00e, #1.00c1.00b1.00f, #6750.00a4.00, Shapes: rectangle, path, text, Elements: checkbox, text box, Strokes: none, Text: ""100.00+"", ""Short supporting text"", ""Headline""."
+../training_data_raw/components_material_design/Navigation_Rail_Icons_Only_+_Menu_+_FAB.svg,
+../training_data_raw/components_material_design/Avatar_[disabled].svg,"Size: 56.00, Colors: none, Shapes: rectangle, Elements: pattern, clipPath, opacity, Strokes: none, Text: none."
+../training_data_raw/components_material_design/Favorities_Menu_Item.svg,"Size: 78x52, Colors: #49454.00e, Shapes: rectangle, text, Elements: heart, Strokes: none, Text: ""Favorites"", Keywords: menu item, design, simple, minimalist, modern, graphic, vector, icon."
+../training_data_raw/components_material_design/Button_Elevated_+_Icon.svg,"Size: 164x40, Colors: #fffbfe, #6750.00a4.00, Shapes: rectangle with rounded corners, Elements: button, icon, Text: ""Elevated Button"", Strokes: none."
+../training_data_raw/components_material_design/Filled_Text_Field_+_Prefix_[populated_disabled].svg,"Size: 124x56, Colors: #1.00c1.00b1.00f, Shapes: rectangle, Elements: text, clipPath, viewBox, Strokes: none, Text: Label Text, $, 143.00."
+../training_data_raw/components_material_design/3_Lines_Avatar_List.svg,"Size: 360x88, Colors: #fffbfe, #eaddff, #1.00c1.00b1.00f, #21005.00e, Shapes: rectangle, circle, Elements: avatar, text, Strokes: none, Text: headline, supporting text, letter-spacing, font-family, font-size, font-weight, white-space, textLength, lengthAdjust, dominant-baseline."
+../training_data_raw/components_material_design/Button_Outlined_+_Icon_[disabled].svg,"Outlined button, icon, disabled, rectangular shape, rounded corners, stroke, color: #1.00c1.00b1.00f, opacity: .12.00, text: ""Outlined Button"", font: Roboto, font size: 14.00px, font weight: 500.00, letter spacing: .1.00px, length adjust: spacingAndGlyphs."
+../training_data_raw/components_material_design/Large_Top_App_Bar.svg,"Large size, blue and white colors, rectangular shape, clip paths, text in Roboto font, fill and stroke properties, path elements, top app bar design, 390x152 viewBox, 3 icons (search, menu, and account)."
+../training_data_raw/components_material_design/Android_Navigation_Bar.svg,"Size: 390x48, Colors: #fff, #313033, #fffbfe, Shapes: rectangle, circle, path, Elements: clipPath, use, rect, circle, path, Strokes: 4.00, Text: none."
+../training_data_raw/components_material_design/2_Lines_List_[disabled].svg,"Size: 360x72, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangle, Elements: two lines, Clipping paths: s1.00, s2.00, Strokes: none, Text: Roboto font, Short supporting text, Headline, Text length: 131.77, 63.00, Text adjust: spacingAndGlyphs, Text attributes: dominant-baseline, text-transform, letter-spacing, font-weight, white-space, font-size, fill."
+../training_data_raw/components_material_design/3_Lines_Option_List_+_Control_[disabled].svg,"Size: 360x88, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangle, circle, Elements: text, clipPath, use, Strokes: 4.00, Text: Roboto, 11.00px, 16.00px, 500.00, 400.00, Keywords: option list, control, disabled, supporting text, headline, multiple lines."
+../training_data_raw/components_material_design/Home_Menu_Item.svg,"Size: 78.00, 52.00
+Colors: #49454.00e
+Shapes: rectangle, text
+Elements: home icon, text
+Strokes: none
+Text: ""Home""
+Attributes: viewBox, x, y, textLength, lengthAdjust, dominant-baseline, text-transform, font-family, letter-spacing, font-weight, white-space, font-size, fill"
+../training_data_raw/components_material_design/2_Lines_Option_List_[disabled].svg,"Size: 360x72, 
+Colors: #fffbfe, #1.00c1.00b1.00f, 
+Shapes: rectangle, circle, 
+Elements: text, clipPath, use, 
+Strokes: 4.00, 
+Text: short supporting text, headline, 
+Keywords: disabled, option list, clip-path, opacity, fill, viewBox, defs, lengthAdjust, dominant-baseline, letter-spacing, font-family, font-weight, white-space."
+../training_data_raw/components_material_design/Full-screen_Search_View_+_History.svg,"Full-screen, Search View, History, Viewbox, ClipPath, Path, Fill, Opacity, Text, Dominant-baseline, LengthAdjust, Class, Stroke-width, Stroke, White-space, Font-family, Letter-spacing."
+../training_data_raw/components_material_design/Tertiary_FAB_Extended.svg,"Size: 163x56, Rounded rectangle, Pink and purple colors, Text: ""Extended FAB"", Roboto font, Bold, White text color, Shadow effect, No stroke, Clip path."
+../training_data_raw/components_material_design/3_Lines_Video_List_[disabled].svg,"Size: 360x88, Colors: #fffbfe, #e7.00e0.00ec, #c4.00c7.00c5.00, #1.00c1.00b1.00f, #49454.00e, Shapes: rectangle, ellipse, path, text, Elements: video list, supporting text, headline, strokes, Text: multiple lines, Roboto font, 16.00px, letter-spacing: .4.00px."
+../training_data_raw/components_material_design/Icon_Button_Filled.svg,"size: 48.00, colors: #6750.00a4.00, shapes: rectangle, path, elements: clipPath, g, defs, viewBox, fill, clip-path, strokes: none, text: none."
+../training_data_raw/components_material_design/Input_Filled_Chip_+_Close.svg,"size: 131x32, colors: #e8def8, #1e192b, shapes: rectangle, path, text, elements: clipPath, viewBox, fill, lengthAdjust, dominant-baseline, font-family, font-size, font-weight, strokes: none, text: ""Input Enabled"", keywords: chip, close, enabled, Roboto."
+../training_data_raw/components_material_design/Outlined_Text_Field_+_Suffix_[populated_disabled].svg,"Outlined text field, suffix, populated disabled, size 124x56, colors: #1.00c1.00b1.00f, opacity .12.00, fill none, stroke-width 2.00, shapes: rect with rounded corners, clipPath, path, text, elements: clipPath, use, defs, g, textLength, lengthAdjust, dominant-baseline, white-space, strokes: stroke, text color #1.00c1.00b1.00f, text: label text, font-family Roboto, font-size 12.00px, font-weight 400.00, letter-spacing .4.00px."
+../training_data_raw/components_material_design/Icon_Button_Outlined.svg,"Outlined, 48x48, white stroke, transparent fill, rounded rectangle, arrow, no text."
+../training_data_raw/components_material_design/Outlined_Text_Field_+_Prefix_[focused].svg,"Outlined text field, prefix, focused, size: 124x56, colors: #79747.00e, #6750.00a4.00, #1.00c1.00b1.00f, #49454.00e, shapes: rectangle, clip path, text box, elements: clipPath, use, rect, text, strokes: 4.00, textLength, lengthAdjust, dominant-baseline, letter-spacing, font-family, font-weight, white-space, text size: 16.00px, 12.00px."
+../training_data_raw/components_material_design/Button_Tonal_+_Icon_[disabled].svg,"Size: 145.00, 40.00
+Colors: #1.00c1.00b1.00f
+Shapes: Rect, Path
+Elements: ClipPath, Text
+Strokes: None
+Text: Tonal Button
+Opacity: .12.00, .38.00"
+../training_data_raw/components_material_design/1_Line_Icon_List_+_Control_[disabled].svg,"Size: 360x56, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangle, rounded rectangle, path, Elements: text, icon, Strokes: none, Text: ""Headline"", Font: Roboto, Keywords: disabled, clipPath, opacity, fill, viewBox, lengthAdjust, dominant-baseline, letter-spacing, white-space."
+../training_data_raw/components_material_design/Button_Outlined_+_Icon.svg,"Outlined button, icon, SVG, fill, none, viewBox, mask, stroke, stroke-width, rect, rx, width, height, text, x, y, textLength, lengthAdjust, dominant-baseline, text-transform, font-family, letter-spacing, font-weight, white-space, font-size, fill, path."
+../training_data_raw/components_material_design/Radio_Button_[selected].svg,"Size: 20.00, Colors: #6750.00a4.00, Shapes: rect, ellipse, Elements: clipPath, use, path, Strokes: 4.00, Text: none."
+../training_data_raw/components_material_design/Navigation_Rail_Active_Label_Only_+_FAB.svg,
+../training_data_raw/components_material_design/Icon_Button_Tonal.svg,"Size: 48.00
+Colors: #e8.00def8.00, #1.00e192.00b
+Shapes: rectangle, path
+Elements: icon, button
+Strokes: none
+Text: none"
+../training_data_raw/components_material_design/Switch_Off_[disabled].svg,"Size: 52.00 x 32.00, 
+Colors: #1.00c1.00b1.00f, #e7.00e0.00ec, 
+Shapes: rectangle, circle, 
+Elements: clipPath, use, 
+Strokes: 4.00, 
+Text: none."
+../training_data_raw/components_material_design/Checkbox_[unselected].svg,"Size: 18.00
+Colors: #1.00c1.00b1.00f, #fff
+Shapes: rectangle, path
+Elements: clipPath, use
+Strokes: 4.00
+Text: none"
+../training_data_raw/components_material_design/Filled_Text_Field_+_LeadingTrailing_Icon_[focused].svg,"Filled text field, LeadingTrailing icon, focused, clipPath, viewBox, fill, opacity, text, font-family, font-size, letter-spacing."
+../training_data_raw/components_material_design/3_Lines_Img_List_+_Control_[disabled].svg,"Size: 360x88, Colors: #fffbfe, #e7.00e0.00ec, #1.00c1.00b1.00f, #c4.00c7.00c5.00, #49454.00e, Shapes: Rectangles, Circles, Paths, Text, Elements: Lines, Images, Text, Strokes: 2.00, 4.00, Text: Headline, Supporting text, Keywords: SVG, Clip-path, Opacity, Fill, Viewbox, Dominant-baseline, LengthAdjust, TextLength, Letter-spacing, Font-family, Font-size, White-space."
+../training_data_raw/components_material_design/Filled_Text_Field_+_Prefix_[focused].svg,"Size: 124x56, Colors: #e700e0ec, #6750a4, #1c1b1f, #49454e, Shapes: rectangle, text, Elements: clipPath, viewBox, path, g, Strokes: none, Text: Roboto, 16px, 12px, $, |, Label Text."
+../training_data_raw/components_material_design/Checkbox_[indeterminate].svg,"Size: 18.00
+Colors: #6750.00a4.00, #fff
+Shapes: rectangle, path
+Elements: clipPath, defs, g
+Strokes: none
+Text: none
+Other: indeterminate, checkbox."
+../training_data_raw/components_material_design/3_Lines_Checkbox_List_+_Control_[disabled].svg,"Size: 360x88, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: Rectangles, Paths, Elements: Checkboxes, Textboxes, Strokes: 4.00, Text: Roboto, 11.00px, 16.00px, 100.00+, Supporting text, Headline."
+../training_data_raw/components_material_design/3_Lines_Img_List.svg,"Size: 360x88, Colors: #fffbfe, #c4c7c5, #49454e, #1c1b1f, #e7e0ec, Shapes: lines, rectangles, circles, Elements: text, path, clipPath, use, Strokes: varying widths and colors, Text: headline and supporting text."
+../training_data_raw/components_material_design/Navigation_Bar_3_Items_+_Labels.svg,"Size: 390x80, Colors: #fffbfe, #6750a4, #e800de, #b3261e, #49454e, Shapes: rectangles, paths, ellipses, Text: ""Settings"", ""Cart"", ""Home"", Elements: navigation bar, labels, strokes, clip paths."
+../training_data_raw/components_material_design/Circular_50%_Progress_Indicator.svg,"Circular, 50% progress indicator, SVG, fill, viewBox, clipPath, circle, filter, mask, stroke-width, stroke, colors, shapes, elements, text."
+../training_data_raw/components_material_design/Extended_FAB.svg,"Size: 163x56, Colors: #eaddff, #6750a4, Shapes: rectangle, circle, Elements: text, icon, Strokes: none, Text: ""Extended FAB"", Font: Roboto, Keywords: modern, minimalist, simple, clean, button, UI, design, material, floating, action."
+../training_data_raw/components_material_design/Graph_Elevated_Card.svg,"Size: 180x180, Colors: #fffbfe, #6750.00a4. Shapes: rectangle, path. Elements: clipPath, filter, defs, g. Strokes: none. Text: Roboto font, various sizes, weights, and colors."
+../training_data_raw/components_material_design/Outlined_Text_Field_+_Trailing_Icon_[error].svg,"Outlined text field, Trailing icon, Error, Size: 340x56, Colors: #b3261.00e, Shapes: Rectangles, Strokes: 2.00, Elements: Supporting text, Label text, Clip paths, Text length, Length adjust, Dominant baseline, Letter spacing, Font family, Font weight, White space."
+../training_data_raw/components_material_design/2_Lines_Img_List_+_Control_[disabled].svg,"Size: 360x72, Colors: #fffbfe, #e7.00e0.00ec, #1.00c1.00b1.00f, #c4.00c7.00c5.00, #49454.00e, Shapes: lines, rectangles, ellipse, path, text, Elements: clipPath, defs, g, opacity, Strokes: stroke-width, Text: Roboto font, Headline, Short supporting text."
+../training_data_raw/components_material_design/2_Lines_Video_List.svg,"Size: 360x72, Colors: #fffbfe, #c4c7c5, #49454e, #1c1b1f, Shapes: rectangle, circle, path, Elements: text, clipPath, use, Strokes: 4.00, Text: Roboto, Headline, Short supporting text."
+../training_data_raw/components_material_design/Input_Filled_Chip.svg,"size: 109x32, colors: #e8def8, shapes: rectangle, elements: clipPath, text, strokes: none, text: ""Input Enabled"", font: Roboto, font-size: 14px, font-weight: 500, letter-spacing: 1px, fill: #1e192b."
+../training_data_raw/components_material_design/1_Line_Video_List.svg,"Size: 360x56, Colors: #fffbfe, #c4c7c5, #1c1b1f, #49454e, Shapes: rectangle, ellipse, path, Elements: text, clipPath, viewBox, defs, g, Strokes: #49454e, Text: ""Headline"", font-family: Roboto, font-size: 16px, font-weight: 400, letter-spacing: 4px."
+../training_data_raw/components_material_design/Video_Placeholder.svg,"Size: 114x64, Colors: #c4c7c5, #49454e, Shapes: rectangle, ellipse, Elements: video placeholder, text, Strokes: 4px, Text: none."
+../training_data_raw/components_material_design/Action_Filled_Card.svg,"Size: 280x160, 
+Colors: #e7.00e0.00ec, #79747.00e, #6750.00a4.00, #fff, #0.00, 
+Shapes: rectangle, path, 
+Elements: clipPath, mask, use, text, 
+Strokes: #fff, #79747.00e, 
+Text: ""Action"", ""Supporting Text"", ""Headline"", 
+Keywords: action-filled, card, clip-path, maskUnits, stroke-width, lengthAdjust, dominant-baseline, letter-spacing, font-family, font-weight, white-space."
+../training_data_raw/components_material_design/Filled_Text_Field_+_Prefix_[focused_error].svg,"Size: 124x56, Colors: #e700e0ec, #b3261e, #1c1b1f, #49454e, Shapes: rectangle, path, text, Elements: clipPath, defs, g, Strokes: none, Text: Supporting Text, Label Text, $143.00, |, Roboto font, font-size: 16.00px."
+../training_data_raw/components_material_design/1_Line_Checkbox_List_+_Control_[disabled].svg,"Size: 360x56, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangle, circle, square, Elements: checkbox, text, strokes, Text: ""100.00+"", ""Headline"", Opacity: 0.38."
+../training_data_raw/components_material_design/Elevated_Suggestion_Chip_+_Icon_[disabled].svg,"Size: 186.00 x 32.00
+Colors: #1.00c1.00b1.00f (blue)
+Shapes: Rectangle with rounded corners (rx=8.00)
+Elements: Text, icon
+Strokes: None
+Text: ""Suggestion Disabled""
+Keywords: Elevated Suggestion Chip, disabled, blue, rectangle, rounded corners, text, icon."
+../training_data_raw/components_material_design/Menu_Search_Bar_+_Avatar.svg,"Size: 360x56, 
+Colors: #fffbfe, #6750.00a4, #49454.00e, #0.00, 
+Shapes: rectangle, path, clipPath, pattern, 
+Elements: search bar, avatar, 
+Strokes: none, 
+Text: hinted text, Roboto font, 16.00px, letter-spacing: .4.00px."
+../training_data_raw/components_material_design/Full_Width_Divider.svg,"Size: 260.00 x 9.00, Colors: #c4c7c5, Shapes: rectangle, Elements: clipPath, path, use, Strokes: 2.00, Text: none."
+../training_data_raw/components_material_design/Button_Tonal.svg,"Size: 127.00x40.00, 
+Colors: #e8.00def8.00, #1.00e192.00b, 
+Shapes: rectangle, 
+Elements: clipPath, defs, g, 
+Strokes: none, 
+Text: Roboto, 14.00px, 500.00 font-weight, letter-spacing: .1.00px, lengthAdjust: spacingAndGlyphs, textLength: 79.06, ""Tonal Button""."
+../training_data_raw/components_material_design/Image_Placeholder_[disabled].svg,"Size: 56.00 x 56.00, Colors: #e7.00e0.00ec, #c4.00c7.00c5.00, #49454.00e, Shapes: circle, path, Strokes: 4.00, Elements: clipPath, defs, use, Text: none."
+../training_data_raw/components_material_design/Checkbox_[unselected_disabled].svg,"Size: 18.00, Colors: none, Shapes: rectangle, Elements: clipPath, use, path, Strokes: 4.00, Text: none."
+../training_data_raw/components_material_design/Button_Filled.svg,"Size: 127.00 x 40.00, 
+Colors: #6750.00a4.00, #fff, 
+Shapes: rectangle, 
+Elements: clipPath, defs, g, 
+Strokes: none, 
+Text: Roboto font, 14.00px, 10+ characters, white-space:pre, fill:#fff, lengthAdjust:spacingAndGlyphs, letter-spacing:.1.00px, font-weight:500.00, text-transform:none, dominant-baseline:ideographic."
+../training_data_raw/components_material_design/Large_FAB.svg,"Size: 96.00
+Colors: #eaddff, #6750.00a4, #21005.00e
+Shapes: rectangle, path
+Elements: filter, clipPath, g
+Strokes: none
+Text: none"
+../training_data_raw/components_material_design/1_Line_List_[disabled].svg,"Size: 360x56, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangle, path, Elements: clipPath, g, text, Strokes: none, Text: Headline, Font: Roboto, Attributes: opacity, textLength, lengthAdjust, dominant-baseline, letter-spacing, font-weight, white-space, font-size."
+../training_data_raw/components_material_design/Filled_Text_Field_[focused_error].svg,"Size: 340x56, Colors: #e700e0ec, #b3261e, #1c1b1f, Shapes: rectangle, path, Text: Supporting Text, Label Text, Strokes: none, Elements: clipPath, viewBox, text, path."
+../training_data_raw/components_material_design/Count_Badge.svg,"Size: 35.00,16.00
+Colors: #b3261.00e, #fff
+Shapes: rect, path, text
+Elements: clipPath, g
+Strokes: none
+Text: +999.00
+Attributes: rx, x, width, height, fill, clip-path, textLength, lengthAdjust, dominant-baseline, text-transform, font-family, letter-spacing, font-weight, white-space, font-size"
+../training_data_raw/components_material_design/Icon_Button_Filled_Toggle_[Unselected].svg,"size: 48.00, colors: #e7.00e0.00ec, #6750.00a4.00, shapes: rect, path, elements: clipPath, g, defs, strokes: none, text: none."
+../training_data_raw/components_material_design/3_Lines_Video_List_+_Control.svg,"Size: 360x88, Colors: #fffbfe, #6750.00a4.00, #fff, #1.00c1.00b1.00f, #c4.00c7.00c5.00, #49454.00e, Shapes: Rectangles, circles, paths, Elements: Text, video control icons, Strokes: 4.00, Text: Headline and supporting text, Keywords: Video player, UI design, Minimalistic, Modern, Clean, Typography, Clip-path, Viewbox, Dominant-baseline."
+../training_data_raw/components_material_design/1_Line_Checkbox_List_+_Control.svg,"size: 360x56, colors: #fffbfe, #49454.00e, #1.00c1.00b1.00f, #6750.00a4.00, shapes: rectangle, path, text, elements: checkbox, headline, strokes: none, text: Roboto, 11.00px, 16.00px, 500.00, 400.00, letter-spacing, lengthAdjust, fill."
+../training_data_raw/components_material_design/Outlined_Text_Field_+_Trailing_Icon_[focused_error].svg,"Outlined text field, Trailing icon, Focused error, Rectangular shape, Rounded corners, Stroke width, Stroke color, Supporting text, Label text, Roboto font."
+../training_data_raw/components_material_design/Switch_Off_+_Icon_[disabled].svg,"Size: 52.00 x 32.00, Colors: #1.00c1.00b1.00f, #e7.00e0.00ec, Opacity: .12.00, .38.00, Shapes: Rect, Circle, Path, Elements: Switch, Icon, Strokes: 4.00, Text: None."
+../training_data_raw/components_material_design/Elevated_Suggestion_Chip.svg,"Size: 156x32, Colors: #fffbfe, #6750a4, Shapes: rectangle, rounded corners, Elements: text, strokes, Text: ""Suggestion Enabled"", Font: Roboto, Font weight: 500, Font size: 14px, Letter spacing: 0.1px."
+../training_data_raw/components_material_design/1_Line_Option_List.svg,"Size: 360x56, Colors: #fffbfe, #6750.00a4.00, #1.00c1.00b1.00f, Shapes: rectangle, circle, path, Elements: clipPath, use, text, Strokes: 4.00, Text: ""Headline"", Font: Roboto, Keywords: SVG, fill, viewBox, clip-path, lengthAdjust, dominant-baseline, letter-spacing, font-weight, white-space."
+../training_data_raw/components_material_design/Medium_Top_App_Bar.svg,"Medium Top App Bar, size 390x112, colors: #fffbfe, #1.00c1.00b1.00f, shapes: rectangle, text, elements: logo, search icon, menu icon, strokes: none, text: ""Medium Top Bar"", font: Roboto, font size: 24px."
+../training_data_raw/components_material_design/Segmented_Button_[icon_only_selected].svg,"Size: 258x48, Colors: #79747.00e, #e8.00def8.00, #1.00e192.00b, Shapes: rectangles, paths, text, Elements: clipPath, use, defs, Strokes: 2.00, Text: Roboto, 14.00px, Enabled, Selected, lengthAdjust, spacingAndGlyphs, dominant-baseline."
+../training_data_raw/components_material_design/1_Line_Checkbox_List_[disabled].svg,"Size: 360x56, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangle, path, clipPath, Elements: text, use, rect, Strokes: 4.00, Text: Roboto, Headline, Keywords: disabled, checkbox, clip-path, opacity, fill, viewBox, rx, width, height, lengthAdjust."
+../training_data_raw/components_material_design/Double_Discrete_Slider_[disabled].svg,"Size: 320x20, Colors: #1c1b1f, #1c1b1f with opacity, Shapes: rectangles, ellipses, circles, Strokes: none, Text: none, Elements: sliders, clip paths."
+../training_data_raw/components_material_design/2_Lines_Img_List_+_Control.svg,"Size: 360x72, Colors: #fffbfe, #c4c7c5, #6750a4, #fff, #49454e, #1c1b1f, Shapes: rectangles, circles, paths, Elements: text, images, strokes, Text: ""Short supporting text"", ""Headline"", Strokes: 4px, 2px."
+../training_data_raw/components_material_design/Search_Bar_+_Action_+_Avatar.svg,"Search bar, action, avatar, SVG, fill, viewBox, clipPath, path, rect, pattern, text, lengthAdjust, style, font-family, font-size, letter-spacing, dominant-baseline, white-space, colors, shapes, elements, strokes."
+../training_data_raw/components_material_design/Bottom_Sheet_Modal.svg,"Size: 390x300, Colors: #0.00, #fffbfe, #6750.00a4, Shapes: rectangle, path, Elements: clipPath, g, defs, Strokes: none, Text: none."
+../training_data_raw/components_material_design/Button_Elevated_+_Icon_[disabled].svg,"Elevated button, icon, disabled, rectangular shape, rounded corners, 164x40 size, purple color (#6750a4), opacity, Roboto font, 14px font size, white text, letter-spacing."
+../training_data_raw/components_material_design/Center-aligned_Top_Bar.svg,"Size: 390x64, Colors: #fffbfe, #ffd8.00e4.00, #21005.00e, #1.00c1.00b1.00f, Shapes: rectangle, circle, text, Elements: clipPath, viewBox, fill, rx, x, y, width, height, Strokes: none, Text: Roboto, font-size, font-weight, letter-spacing, lengthAdjust, textLength."
+../training_data_raw/components_material_design/Image_Outlined_Card.svg,"Size: 280x190, Colors: #fffbfe, #c4.00c7.00c5.00, #79747.00e, Shapes: rectangle, clipPath, path, text, Elements: image, card, ClipPath, Rect, Text, Strokes: 2.00, Text: Subhead, Headline, LengthAdjust, Dominant-baseline, TextLength."
+../training_data_raw/components_material_design/3_Lines_Icon_List_+_Control_[disabled].svg,"Size: 360x88, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangle, path, text, Elements: lines, icon, list, control, Strokes: 4.00, Text: Roboto, 16.00px, Headline, Supporting text, Keywords: disabled, clipPath, viewBox, fill, opacity, dominant-baseline, textLength, lengthAdjust, class."
+../training_data_raw/components_material_design/3_Lines_Option_List_+_Control.svg,"Size: 360x88, Colors: #fffbfe, #6750.00a4.00, #49454.00e, #1.00c1.00b1.00f, Shapes: rectangle, circle, path, Text: Roboto font, 11.00px, 16.00px, 500.00 font weight, Spacing: .5.00px, .4.00px, Elements: option list, control, supporting text, headline, strokes: 4.00 stroke width, clip paths."
+../training_data_raw/components_material_design/Radio_Button_[unselected_disabled].svg,"Size: 20.00
+Colors: #1.00c1.00b1.00f
+Shapes: rect, path
+Elements: clipPath, use
+Strokes: 4.00
+Text: none
+Disabled: true
+Selected: false
+Opacity: .38"
+../training_data_raw/components_material_design/2_Lines_Avatar_List_+_Control_[disabled].svg,"Size: 360x72, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: Rectangles, Paths, Text, Elements: Avatar, List, Control, Strokes: 4.00, Text: Roboto, Headline, Short supporting text."
+../training_data_raw/components_material_design/Search_Bar_+_More_Actions.svg,"Search bar, more actions, SVG, fill, clip path, rectangle, path, text, hinted text, colors, shapes."
+../training_data_raw/components_material_design/Filled_Card_[disabled].svg,"Size: 180x120, Colors: #e700e0, #00ec, Shapes: rectangle, rounded corners, Elements: clipPath, opacity, Strokes: none, Text: none."
+../training_data_raw/components_material_design/Input_Chip_+_Close.svg,"Size: 131x32, Colors: #fffbfe, #79747.00e, #49454.00e, Shapes: rectangle, clipPath, path, Elements: rect, clipPath, use, text, Strokes: 2.00, Text: ""Input Enabled"", Font: Roboto, Keywords: chip, input, enabled, clip-path, viewBox, fill, stroke-width, letter-spacing."
+../training_data_raw/components_material_design/Secondary_FAB.svg,"Size: 56.00 x 56.00, Colors: #e8.00def8.00, #6750.00a4.00, Shapes: rectangle, path, Elements: filter, clipPath, g, Strokes: none, Text: none."
+../training_data_raw/components_material_design/Assist_Chip_[disabled].svg,"Size: 129x32, 
+Colors: #1c1b1f, 
+Shapes: rectangle with rounded corners, 
+Elements: clip paths, 
+Strokes: 2px width, 
+Text: ""Assist Disabled"", 
+Font: Roboto, 
+Font weight: 500, 
+Text size: 14px, 
+Text length: 97.26."
+../training_data_raw/components_material_design/Outlined_Text_Field_[populated_disabled].svg,"Outlined text field, populated and disabled, rectangular shape, rounded corners, 340x56 size, stroke width 2, stroke color #1.00c1.00b1.00f, text in Roboto font, 16px size, color #1.00c1.00b1.00f, label text in 12px size, color #1.00c1.00b1.00f, clip paths used."
+../training_data_raw/components_material_design/Navigation_Bar_5_Items_+_Labels.svg,
+../training_data_raw/components_material_design/Avatar_Container_[disabled].svg,"Size: 40.00
+Colors: #1.00c1.00b1.00f, #fffbfe
+Shapes: rect, clipPath
+Elements: defs, g, text
+Strokes: none
+Text: Roboto, 16.00px, A"
+../training_data_raw/components_material_design/1_Line_Icon_List_+_Control.svg,"Size: 360x56, Colors: #fffbfe, #1.00c1.00b1.00f, #6750.00a4.00, #fff, Shapes: rectangle, path, text, Elements: list icon, control icon, Strokes: 4.00, Text: Roboto, 16.00px, Headline."
+../training_data_raw/components_material_design/3_Lines_List_+_Control_[disabled].svg,"Size: 360x88, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangle, clipPath, path, text, Elements: lines, control, disabled, Strokes: none, Opacity: .38, Text: supporting text, multiple lines, headline."
+../training_data_raw/components_material_design/Standard_Navigation_Drawer.svg,
+../training_data_raw/components_material_design/Filled_Suggestion_Chip_+_Icon.svg,"Size: 177x32
+Colors: #e8def8, #1e92b
+Shapes: Rectangle, Rounded corners
+Elements: Text, Icon
+Strokes: None
+Text: ""Suggestion Enabled""
+Keywords: Chip, Icon, Filled, Rounded corners, Text, Enabled, Suggestion, Colors, Rectangle, Roboto font."
+../training_data_raw/components_material_design/Button_Text_+_Icon.svg,"Size: 118x40, Colors: #6750.00a4.00, Shapes: rectangle, rounded corners, Elements: text, icon, Strokes: none, Text: ""Text Button"", font: Roboto, font size: 14px, font weight: 500, letter spacing: 0.1px."
+../training_data_raw/components_material_design/2_Lines_Option_List_+_Control_[disabled].svg,"Size: 360x72, Colors: #fffbfe, #1.00c1.00b1.00f, Shapes: rectangle, circle, Elements: text, clipPath, use, Strokes: 4.00, Text: Roboto, 11.00px, 14.00px, 16.00px, 500.00, 400.00, Keywords: option list, control, disabled, supporting text, headline."
+../training_data_raw/components_material_design/3_Lines_Icon_List_+_Control.svg,"Size: 360x88, Colors: #fffbfe, #fff, #6750.00a4.00, #1.00c1.00b1.00f, Shapes: rectangle, path, text, Elements: lines, icon, control, Strokes: 4.00, Text: Roboto, Headline, Supporting text, Keywords: small, colorful, rectangular, lines, icon, control, stroke, font, headline, supporting text."
+../training_data_raw/components_material_design/3_Lines_Checkbox_List_+_Control.svg,"Size: 360x88, Colors: #fffbfe, #49454.00e, #1.00c1.00b1.00f, #6750.00a4.00, Shapes: rectangle, path, text, Elements: checkbox, supporting text, headline, Strokes: none, Text: Roboto font, multiple lines, letter-spacing, font-weight."
+../training_data_raw/components_material_design/Single_Discrete_Slider.svg,"Size: 320x20, Colors: #e7.00e0.00ec, #6750.00a4.00, #49454.00e, Shapes: rect, ellipse, circle, path, Elements: slider, ticks, handle, Strokes: none, Text: none."
+../training_data_raw/components_material_design/Outlined_Card.svg,"Outlined_Card: SVG, clipPath, size, colors, shapes, elements, strokes, text, rectangle, rounded corners."
+../training_data_raw/components_material_design/Button_Filled_+_Icon_[disabled].svg,"Size: 145.00, 40.00
+Colors: #1.00c1.00b1.00f
+Shapes: Rect, Path
+Elements: ClipPath, Text
+Strokes: None
+Text: Filled Button
+Opacity: .12.00, .38.00
+Attributes: rx, viewBox, fill, clip-path, textLength, lengthAdjust, dominant-baseline, text-transform, font-family, letter-spacing, font-weight, white-space, font-size"
+../training_data_raw/components_material_design/Checkbox_[selected].svg,"Size: 18.00, Colors: #6750.00a4.00, #fff, Shapes: rectangle, path, Elements: clipPath, viewBox, defs, g, Strokes: none, Text: none."
+../training_data_raw/components_material_design/Icon_Button_Standard_Toggle_[Unselected].svg,"Icon, button, standard, toggle, unselected, SVG, viewBox, path, size, colors, shapes, elements, strokes, text, 48.00, 0.00, 21.70, 34.00, 27.00, 14.00, 4.60, 6.75, 2.30, 1.50, 0.90, 1.10, 2.20, 0.35, #49454.00e."
+../training_data_raw/components_material_design/Navigation_Rail.svg,
+../training_data_raw/components_material_design/Outlined_Text_Field_+_Trailing_Icon_[focused].svg,"Outlined text field, trailing icon, focused, rectangular shape, rounded corners, stroke, color #79747.00e, label text, font Roboto, font size 16px, vertical line separator."
+../training_data_raw/components_material_design/3_Lines_Icon_List.svg,"Size: 360x88, Colors: #fffbfe, #1.00c1.00b1.00f, #49454.00e, Shapes: rectangle, text, Elements: lines, text, icon, Strokes: none, Text: supporting text, headline, Roboto font, multiple lines, lengthAdjust, textLength, dominant-baseline, letter-spacing."
+../training_data_raw/components_material_design/Radio_Button_[unselected].svg,"Size: 20.00, Colors: #49454.00e, Shapes: Rectangular, Elements: ClipPath, Use, Path, Strokes: 4.00, Text: None."
+../training_data_raw/components_material_design/Input_Chip_+_Icon.svg,"size: 135x32, 
+colors: #fffbfe, #79747.00e, #49454.00e, #6750.00a4.00, 
+shapes: rectangle, path, 
+elements: clipPath, use, text, 
+strokes: 2.00, 
+text: Input Enabled, 
+keywords: chip, icon, enabled, input, clip-path, viewBox, fill, stroke-width, dominant-baseline, text-transform, font-family, letter-spacing, font-weight, white-space, font-size."
+../training_data_raw/components_material_design/Single_Continuous_Slider.svg,"Size: 320x20, Colors: #e700e0, #00ec, #6750a4, Shapes: rect, path, ellipse, Elements: clipPath, filter, Text: none."
+../training_data_raw/components_material_design/Mobile_System_Bar.svg,"Size: 390x24, Colors: #313033, #d000bcff, Shapes: rectangle, circle, Elements: system icons, Strokes: none, Text: none."
+../training_data_raw/components_material_design/3_Lines_Video_List.svg,"Size: 360x88, Colors: #fffbfe, #c4c7c5, #1c1b1f, #49454e, Shapes: rectangle, circle, path, Elements: text, clipPath, defs, g, Strokes: 4.00, Text: Supporting text, multiple lines, Headline, Roboto font, letter-spacing."
+../training_data_raw/components_material_design/Two-line_Snackbar_+_Longer_Action.svg,"Size: 339x112, Colors: #313033, #6750a4, #d0bcff, Shapes: rectangle, rounded corners, Text: two-line message, longer action, Roboto font, 14px font size, 500 font weight, letter spacing, dominant baseline, length adjust, spacing and glyphs."
+../training_data_raw/components_material_design/Secondary_FAB_Extended.svg,"Size: 163x56, Colors: #e8.00def8.00, #6750.00a4.00, #1.00e192.00b, Shapes: rectangle, rounded rectangle, Elements: text, FAB, Strokes: none, Text: ""Extended FAB"", Font: Roboto, Keywords: extended, FAB, rectangle, rounded, text, Roboto, colors, no strokes, size."
+../training_data_raw/components_material_design/2_Lines_Video_List_+_Control_[disabled].svg,"Size: 360x72, Colors: #fffbfe, #1.00c1.00b1.00f, #e7.00e0.00ec, #c4.00c7.00c5.00, #49454.00e, Shapes: Rectangles, Ellipse, Path, Text, Elements: Video List, Control, Supporting Text, Headline, Strokes: 4.00, Text: Short, Supporting, Headline, Roboto, 14.00px, 16.00px."
+../training_data_raw/components_material_design/Filter_Chip_Off.svg,"Size: 117.00 x 32.00, Colors: #79747.00e, #49454.00e, Shapes: rectangle, path, Elements: clipPath, use, rect, text, Strokes: 2.00, Text: ""Filter Enabled"", Font: Roboto, Keywords: filter chip off, clip-path, viewBox, defs, rx, textLength, lengthAdjust, dominant-baseline, text-transform, letter-spacing, font-weight, white-space, fill."
+../training_data_raw/components_material_design/Circular_75%_Progress_Indicator.svg,"Circular, 75% progress indicator, SVG, fill, viewBox, clipPath, circle, filter, mask, stroke-width, stroke, colors, shapes, elements, text."
+../training_data_raw/components_material_design/1_Line_Img_List_+_Control.svg,"Size: 360x56, Colors: #fffbfe, #c4c7c5, #6750a4, #49454e, #1c1b1f, Shapes: rectangle, circle, path, text, Elements: image, clipPath, viewBox, defs, g, Strokes: 4px, Text: Roboto, 16px, Headline."
+../training_data_raw/components_material_design/2_Lines_Icon_List.svg,"Size: 360x72, Colors: #fffbfe, #49454.00e, #1.00c1.00b1.00f, Shapes: rectangle, text, Elements: two lines, text, Strokes: none, Text: headline, supporting text."
+../training_data_raw/components_material_design/Button_Text.svg,"Size: 96.00,40.00. Colors: #6750.00a4.00. Shapes: rectangle, text. Elements: g, text. Strokes: none. Text: Roboto, 14.00px, spacingAndGlyphs, 500.00 weight, letter-spacing."
+../training_data_raw/components_material_design/Outlined_Text_Field_+_Support_Content_[error].svg,"Outlined text field, support content, error, size 340x56, rectangle shape, rounded corners, stroke width 2, stroke color #b3261.00e, text color #49454.00e, supporting text, label text, text alignment, font family Roboto, font size 12px and 16px, letter spacing 4px."
+../training_data_raw/components_material_design/Card_Elevated.svg,"Size: 180x120, Colors: #fffbfe, #6750.00a4.00, Shapes: rectangle with rounded corners, Elements: filters, clip paths, strokes, Text: none."
+../training_data_raw/components_material_design/Single-line_Snackbar.svg,"Size: 218x48, Colors: #313033, #6750a4, #f4eff4, Shapes: rectangle with rounded corners, Elements: text, Strokes: none, Text: Roboto font, 14px, white, single-line message."
+../training_data_raw/components_material_design/Elevated_Suggestion_Chip_[disabled].svg,"Size: 160.00 x 32.00, 
+Colors: #1.00c1.00b1.00f, 
+Shapes: Rectangular with rounded corners, 
+Elements: Clip paths, 
+Strokes: None, 
+Text: ""Suggestion Disabled"", 
+Keywords: Elevated Suggestion Chip, Disabled, Opacity, Fill, Text Length, Length Adjust, Dominant Baseline, Text Transform, Font Family, Letter Spacing, Font Weight, White Space, Font Size."
+../training_data_raw/components_material_design/Standard_Side_Sheet.svg,"Size: 256x480, Colors: #fffbfe, #6750.00a4.00, #49454.00e, Shapes: rectangle, path, text, Elements: clipPath, mask, use, g, Strokes: #79747.00e, #c4.00c7.00c5.00, Text: Roboto, 14.00px, 500.00 weight, letter-spacing: .1.00px, lengthAdjust: spacingAndGlyphs, fill: #6750.00a4.00, #fff, #49454.00e."
+../training_data_raw/components_material_design/1_Line_Video_List_+_Control.svg,"Size: 360x56, Colors: #fffbfe, #6750.00a4.00, #49454.00e, #1.00c1.00b1.00f, #c4.00c7.00c5.00, Shapes: rectangle, ellipse, path, text, Elements: video list, control buttons, Strokes: 4.00, Text: Roboto, 16.00px, Headline."
+../training_data_raw/components_material_design/1_Line_List_+_Control.svg,"Size: 360x56, Colors: #fffbfe, #6750.00a4.00, #fff, Shapes: rectangle, path, text, Elements: clipPath, viewBox, defs, g, Strokes: none, Text: Roboto, 16px, Headline."
+../training_data_raw/components_material_design/Checkbox_[unselected_error].svg,"Size: 18.00
+Colors: #b3261.00e, #fff
+Shapes: rect, path
+Elements: checkbox, clipPath, use
+Strokes: 4.00
+Text: none
+Keywords: checkbox, error, fill, viewBox, clipPath, rect, path, stroke-width, stroke, use."
+../training_data_raw/components_material_design/Avatar.svg,"Size: 56.00, Colors: none, Shapes: rectangle, Elements: pattern, clipPath, g, path, Strokes: none, Text: none."
+../training_data_raw/components_material_design/Input_Chip_+_Avatar_+_Close.svg,"Size: 159x32, Colors: #fffbfe, #79747.00e, #49454.00e, Shapes: rectangle, circle, path, Elements: clipPath, use, pattern, Strokes: 2.00, Text: Input Enabled, Font: Roboto, Keywords: chip, avatar, close."
+../training_data_raw/components_material_design/Filled_Text_Field_+_Leading_Icon_[disabled].svg,"Size: 340x56, Colors: #1.00c1.00b1.00f, Shapes: rectangle, clipPath, path, text, Elements: leading icon, text field, Strokes: none, Text: label text, font family: Roboto, font size: 16px, font weight: 400, letter spacing: 4px."
+../training_data_raw/components_material_design/Single_Discrete_Slider_[disabled].svg,"Size: 320x20, Colors: #1c1b1f, #1c1b1f with opacity, Shapes: rectangles, ellipses, circles, Strokes: none, Text: none, Elements: clip paths, groups."
+../training_data_raw/components_material_design/Icon_Button_Filled_[Disabled].svg,"size: 48.00, colors: #1.00c1.00b1.00f, shapes: rectangle, path, elements: clipPath, g, opacity, fill, viewBox, defs, clip-path, strokes: none, text: none."
+../training_data_raw/components_material_design/Elevated_Filter_Chip_Off_[disabled].svg,"Size: 121.00 x 32.00, Colors: #1.00c1.00b1.00f, Shapes: Rectangular with rounded corners, Elements: Clip paths, Strokes: None, Text: ""Filter Disabled"", Keywords: Elevated filter chip off, Disabled, Opacity, Fill, Dominant baseline, Text length, Length adjust, Font family, Letter spacing, Font weight."
+../training_data_raw/components_material_design/Avatar_Small_[disabled].svg,"Size: 24.00
+Colors: #1.00c1.00b1.00f
+Shapes: Rectangles, circles, paths
+Elements: Avatar, clip paths, use
+Strokes: 2.00
+Text: None"
+../training_data_raw/components_material_design/3_Lines_Video_List_+_Control_[disabled].svg,"Size: 360x88, Colors: #fffbfe, #e7.00e0.00ec, #1.00c1.00b1.00f, #c4.00c7.00c5.00, #49454.00e, Shapes: Rectangles, Ellipse, Path, Text, Elements: Video List, Control, Supporting Text, Headline, Strokes: 4.00, Text: Roboto, 16.00px, White-space, Pre, LengthAdjust, SpacingAndGlyphs, Dominant-baseline."
+../training_data_raw/components_material_design/Assist_Chip_+_Icon.svg,"Size: 146x32, Colors: #1c1b1f, #6750a4, #79747e, Shapes: rectangle, clipPath, path, Text: ""Assist Enabled"", Elements: chip, icon, strokes: 2px."
