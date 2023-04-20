@@ -11,7 +11,7 @@ from src.utils import *
 def create_sources_from_files(
         path = "../training_data_raw", 
         description = "This is the SVG for the graphic object",
-        style = "Material Design 3"):
+        openai_document = True):
 
     def load_svg_files(path):
         svg_files = []
@@ -34,15 +34,21 @@ def create_sources_from_files(
         svg_opened = round_svg_numbers(svg_opened)
         prompt = f"""{description} {name.split('.')[0]}: {svg_opened}"""
 
-        sources.append(
-            Document(
-                page_content=prompt,
-                metadata={
-                    "source": file,
-                    "name": name.split(".")[0], 
-                    "style": "style"
-                    },
-        ))
+        if openai_document:
+            sources.append(
+                Document(
+                    page_content=prompt,
+                    metadata={
+                        "source": file,
+                        "name": name.split(".")[0], 
+                        "style": file.split("/")[0],
+                        },
+            ))
+        else:
+            sources.append(
+                {"svg": svg_opened, 
+                 "source": file}
+            )
     return sources
 
 
