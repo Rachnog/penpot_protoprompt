@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0,0,20,20"><defs><clipPath id="b"><use href="#a"/></clipPath><rect rx="10" width="20" height="20" id="a" fill="none" stroke-width="4" stroke="#49454e"/><clipPath id="c"><path d="m0,0v20h20V0z"/></clipPath></defs><g><g><g><use href="#a" clip-path="url(#b)"/></g></g><clipPath clip-path="url(#c)"/></g></svg>

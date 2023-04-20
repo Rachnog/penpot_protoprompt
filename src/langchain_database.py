@@ -32,7 +32,7 @@ def create_sources_from_files(
         svg_opened = remove_style_from_string(svg_opened)
         svg_opened = shorten_svg_ids(svg_opened)
         svg_opened = round_svg_numbers(svg_opened)
-        prompt = f"""{description} {name.split('.')[0]} in {style} style: {svg_opened}"""
+        prompt = f"""{description} {name.split('.')[0]}: {svg_opened}"""
 
         sources.append(
             Document(
