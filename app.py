@@ -30,27 +30,51 @@ def render_svg(svg):
     html = r'<img src="data:image/svg+xml;base64,%s"/>' % b64
     st.write(html, unsafe_allow_html=True)
 
-system_prompt = \
+
+
+
+system_prompt_svg = \
 """
     You are an expert in design in different fields, you use different vector graphics tools.
     You deal professionally with SVG files, you know how to create complex design with them.
 """
-
-question_prompt = \
+question_prompt_svg = \
 """
 =========
 Write code of the SVG that contains {question}.
 =========
-You can use the following SVGs as a source and as examples of what you can do:
+You must use following SVGs as examples and take as much as you can style, color, size, fonts from them:
 {summaries}
 =========
 Keep it as short and optimized as you can, be limited by the tokens.
 Start with <svg xmlns="http://www.w3.org/2000/svg"... and end with </svg>.
 """
+template_svg = system_prompt_svg + question_prompt_svg
+prompt_svg = PromptTemplate(template=template_svg, input_variables=["summaries", "question"])
 
-template = system_prompt + question_prompt
 
-prompt = PromptTemplate(template=template, input_variables=["summaries", "question"])
+
+
+
+
+question_prompt_html = \
+"""
+=========
+Write code of the HTML that contains {question}.
+=========
+You must use following SVGs as examples and take as much as you can style, color, size, fonts from them:
+{summaries}
+=========
+Keep it as short and optimized as you can, be limited by the tokens.
+Start with <html> and end with </html>.
+"""
+template_html = system_prompt_svg + question_prompt_html
+prompt_html = PromptTemplate(template=template_html, input_variables=["summaries", "question"])
+
+
+
+
+
 
 st.title("SVG Design System Generator")
 st.header("Tell us what you want to design")
@@ -62,6 +86,7 @@ question = st.text_input(
 
 search_checkbox = st.checkbox("Search for similar SVGs in the database")
 generate_checkbox = st.checkbox("Generate SVGs")
+generate_html_checkbox = st.checkbox("Generate HTMLs")
 
 if search_checkbox:
 
@@ -100,7 +125,7 @@ if generate_checkbox:
 
     with col1_gen:
         st.write("Temperature 0.0")
-        chain = load_qa_with_sources_chain(OpenAIChat(temperature=0.0, model_name="gpt-3.5-turbo"), prompt=prompt)
+        chain = load_qa_with_sources_chain(OpenAIChat(temperature=0.0, model_name="gpt-3.5-turbo"), prompt=prompt_svg)
         answer = chain(
             {
                 "input_documents": similarity_results,
@@ -115,7 +140,7 @@ if generate_checkbox:
 
     with col2_gen:
         st.write("Temperature 0.1")
-        chain = load_qa_with_sources_chain(OpenAIChat(temperature=0.1, model_name="gpt-3.5-turbo"), prompt=prompt)
+        chain = load_qa_with_sources_chain(OpenAIChat(temperature=0.1, model_name="gpt-3.5-turbo"), prompt=prompt_svg)
         answer = chain(
             {
                 "input_documents": similarity_results,
@@ -130,7 +155,7 @@ if generate_checkbox:
 
     with col3_gen:
         st.write("Temperature 0.9")
-        chain = load_qa_with_sources_chain(OpenAIChat(temperature=0.9, model_name="gpt-3.5-turbo"), prompt=prompt)
+        chain = load_qa_with_sources_chain(OpenAIChat(temperature=0.9, model_name="gpt-3.5-turbo"), prompt=prompt_svg)
         answer = chain(
             {
                 "input_documents": similarity_results,
@@ -145,7 +170,7 @@ if generate_checkbox:
 
     with col4_gen:
         st.write("Temperature 1.0")
-        chain = load_qa_with_sources_chain(OpenAIChat(temperature=1.0, model_name="gpt-3.5-turbo"), prompt=prompt)
+        chain = load_qa_with_sources_chain(OpenAIChat(temperature=1.0, model_name="gpt-3.5-turbo"), prompt=prompt_svg)
         answer = chain(
             {
                 "input_documents": similarity_results,
@@ -157,3 +182,64 @@ if generate_checkbox:
         # answer_loaded = open(f'generated_data/answer4_optimized.svg', 'r').read()
         render_svg(answer)
         st.text_input("", answer, key="svg_gen4")
+
+
+if generate_html_checkbox:
+
+    st.subheader("Generated HTMLs:")
+
+    col1_gen_html, col2_gen_html, col3_gen_html, col4_gen_html = st.columns(4)
+
+    similarity_results = index.similarity_search(question, k=4)
+
+    with col1_gen_html:
+        st.write("Temperature 0.0")
+        chain = load_qa_with_sources_chain(OpenAIChat(temperature=0.0, model_name="gpt-3.5-turbo"), prompt=prompt_html)
+        answer = chain(
+            {
+                "input_documents": similarity_results,
+                "question": question,
+            },
+            return_only_outputs=True,
+        )["output_text"]
+        st.components.v1.html(answer)
+        st.text_input("", answer, key="html_gen1")
+
+    with col2_gen_html:
+        st.write("Temperature 0.1")
+        chain = load_qa_with_sources_chain(OpenAIChat(temperature=0.1, model_name="gpt-3.5-turbo"), prompt=prompt_html)
+        answer = chain(
+            {
+                "input_documents": similarity_results,
+                "question": question,
+            },
+            return_only_outputs=True,
+        )["output_text"]
+        st.components.v1.html(answer)
+        st.text_input("", answer, key="html_gen2")
+
+    with col3_gen_html:
+        st.write("Temperature 0.9")
+        chain = load_qa_with_sources_chain(OpenAIChat(temperature=0.9, model_name="gpt-3.5-turbo"), prompt=prompt_html)
+        answer = chain(
+            {
+                "input_documents": similarity_results,
+                "question": question,
+            },
+            return_only_outputs=True,
+        )["output_text"]
+        st.components.v1.html(answer)
+        st.text_input("", answer, key="html_gen3")
+
+    with col4_gen_html:
+        st.write("Temperature 1.0")
+        chain = load_qa_with_sources_chain(OpenAIChat(temperature=1.0, model_name="gpt-3.5-turbo"), prompt=prompt_html)
+        answer = chain(
+            {
+                "input_documents": similarity_results,
+                "question": question,
+            },
+            return_only_outputs=True,
+        )["output_text"]
+        st.components.v1.html(answer)
+        st.text_input("", answer, key="html_gen4")
